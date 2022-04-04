@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: # cosas del deployment object
+  name: mysql-ubuntu-deployment-6
+  labels:
+    app: mysql-ubuntu-d-6
+spec: 
+  replicas: 1 # define la cantidad de pods que se necesitan corriendo -> 
+  selector:
+    matchLabels: # aca le estamos diciendo de que agarre todo los pods con esa label
+      app: mysql-ubuntu-6
+  template: #aca se estan definiendo como van a ser los pods -> estado deseado
+    metadata: 
+      labels:
+        app: mysql-ubuntu-6
+    spec:
+      containers: 
+        - name: mysql-ubuntu-container6
+          image: rodrigodocker123/mtpreloaded:6
+          ports:
+            - containerPort: 3306

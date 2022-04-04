@@ -1,0 +1,56 @@
+.header-area{
+    grid-area: header;
+}
+.map-area{
+    grid-area: map;
+}
+.form-area{
+    grid-area: form;
+    padding: 50% 20%;
+
+}
+
+
+.form-label{
+    text-align: start;
+    font-size: 30px;
+    font-weight: 600;  
+}
+
+.form-input{
+    margin-top: 10px;
+    text-align: start;
+    font-size: 25px !important;
+    font-weight: 600; 
+    height: 30px !important;
+    width: 327px !important;
+}
+
+.grid-container{
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+    grid-template-areas:'header header header header header header'
+    'form form form map map map'
+    'form form form map map map';
+}
+
+
+
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex-form{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.flex-map{
+
+}
+
+

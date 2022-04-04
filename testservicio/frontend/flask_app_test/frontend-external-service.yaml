@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mt-frontend-service # esto me permite ingresar al front desde el exterior
+spec:
+  type: NodePort
+  selector: # no debe apuntar al label del deploy, debe ser al del pod definido en el deploy
+    app:  mapa
+  ports:
+   - protocol: TCP
+     port: 3305
+     targetPort: 5000
+     nodePort: 30035

@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-deployment-3
+  labels:
+    app: api-d-3
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-3
+  template:
+    metadata:
+      labels:
+        app: api-3
+    spec:
+      containers:
+        - name: api-container3
+          image: rodrigodocker123/mtbackend2:3
+          ports:
+            - containerPort: 5000    

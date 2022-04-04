@@ -1,0 +1,3607 @@
+placeholder,TX,77,31.84,-106.43,4|
+placeholder,CO,1459,39.05,-105.29,4|
+placeholder,WY,326,42.74,-107.28,4|
+placeholder,ID,657,44.24,-114.51,4|
+placeholder,UT,898,40.15,-111.85,4|
+placeholder,AZ,927,33.73,-111.43,4|
+placeholder,NM,883,34.84,-106.24,4|
+placeholder,NV,552,38.31,-117.02,4|
+placeholder,85,77,31.84,-106.43,6|
+placeholder,10,159,37.87,-103.84,6|
+placeholder,11,115,37.34,-106.22,6|
+placeholder,16,82,39.66,-107.42,6|
+placeholder,07,41,40.43,-103.11,6|
+placeholder,05,66,40.42,-105.11,6|
+placeholder,06,45,40.31,-104.66,6|
+placeholder,12,87,38.55,-106.15,6|
+placeholder,08,74,39.04,-104.1,6|
+placeholder,09,259,38.86,-104.75,6|
+placeholder,02,143,39.76,-104.87,6|
+placeholder,01,100,39.56,-104.92,6|
+placeholder,04,92,39.84,-105.91,6|
+placeholder,13,32,37.4,-108.37,6|
+placeholder,00,71,39.81,-104.96,6|
+placeholder,28,18,44.69,-106.87,6|
+placeholder,31,27,42.49,-110.71,6|
+placeholder,26,38,43.0,-106.53,6|
+placeholder,20,56,41.28,-105.18,6|
+placeholder,22,31,42.28,-104.56,6|
+placeholder,23,27,41.72,-107.16,6|
+placeholder,29,31,41.66,-109.81,6|
+placeholder,30,14,43.57,-110.7,6|
+placeholder,27,25,44.32,-104.86,6|
+placeholder,33,81,42.78,-114.25,6|
+placeholder,32,141,42.92,-112.41,6|
+placeholder,37,59,43.61,-116.2,6|
+placeholder,36,126,43.87,-116.2,6|
+placeholder,34,110,43.96,-112.01,6|
+placeholder,40,253,40.63,-111.58,6|
+placeholder,46,81,39.63,-111.85,6|
+placeholder,43,73,41.69,-112.1,6|
+placeholder,47,130,37.81,-112.75,6|
+placeholder,45,54,38.58,-110.24,6|
+placeholder,44,50,41.22,-112.01,6|
+placeholder,41,253,40.71,-111.88,6|
+placeholder,51,59,33.12,-111.53,6|
+placeholder,56,120,31.83,-110.42,6|
+placeholder,64,53,35.27,-114.11,6|
+placeholder,65,71,35.94,-109.44,6|
+placeholder,52,129,33.32,-111.69,6|
+placeholder,55,29,33.35,-110.31,6|
+placeholder,50,91,33.52,-112.07,6|
+placeholder,57,86,32.23,-110.93,6|
+placeholder,59,38,34.27,-109.86,6|
+placeholder,83,60,33.27,-105.66,6|
+placeholder,71,80,35.13,-106.63,6|
+placeholder,75,205,36.05,-105.89,6|
+placeholder,70,121,35.2,-106.79,6|
+placeholder,77,53,35.97,-104.99,6|
+placeholder,78,26,34.03,-107.76,6|
+placeholder,80,97,32.45,-107.62,6|
+placeholder,74,26,36.71,-108.24,6|
+placeholder,82,44,32.85,-103.9,6|
+placeholder,81,41,34.26,-103.52,6|
+placeholder,73,63,35.45,-108.63,6|
+placeholder,84,45,35.73,-103.75,6|
+placeholder,90,129,36.59,-115.28,6|
+placeholder,93,19,39.35,-115.44,6|
+placeholder,98,49,41.06,-115.51,6|
+placeholder,94,151,39.75,-118.98,6|
+placeholder,91,112,36.14,-115.21,6|
+placeholder,95,59,39.59,-119.81,6|
+placeholder,38,98,47.68,-116.57,6|
+placeholder,35,43,46.16,-116.25,6|
+placeholder,63,46,34.63,-112.28,6|
+placeholder,53,108,33.49,-112.81,6|
+placeholder,60,97,35.84,-111.07,6|
+placeholder,79,22,33.03,-107.28,6|
+placeholder,97,29,39.15,-119.74,6|
+placeholder,03,24,40.02,-105.25,6|
+placeholder,14,42,38.45,-107.94,6|
+placeholder,24,31,44.41,-108.4,6|
+placeholder,15,27,39.07,-108.6,6|
+placeholder,25,23,43.01,-108.66,6|
+placeholder,21,4,44.57,-110.51,6|
+placeholder,89,4,36.14,-115.28,6|
+placeholder,42,4,41.25,-111.97,6|
+placeholder,EL PASO,77,31.84,-106.43,8|
+placeholder,AGUILAR,1,37.4,-104.65,8|
+placeholder,LOBATOS,1,37.07,-106.01,8|
+placeholder,ASPEN,3,39.19,-106.82,8|
+placeholder,ATWOOD,1,40.55,-103.27,8|
+placeholder,AVONDALE,5,34.39,-110.73,8|
+placeholder,BERTHOUD,1,40.3,-105.08,8|
+placeholder,BOONE,1,38.25,-104.25,8|
+placeholder,BRIGGSDALE,1,40.63,-104.32,8|
+placeholder,BROOKSIDE,2,37.93,-109.47,8|
+placeholder,CHIPITA PARK,1,38.9,-104.97,8|
+placeholder,FORT CARSON,2,38.79,-104.78,8|
+placeholder,CO SPGS,41,38.86,-104.75,8|
+placeholder,COLO SPGS,56,38.86,-104.76,8|
+placeholder,CHEYENNE MT COMPLEX,1,38.86,-104.76,8|
+placeholder,COLORADO SPRINGS,57,38.86,-104.75,8|
+placeholder,COLORADO SPGS,56,38.86,-104.75,8|
+placeholder,SECURITY,6,38.86,-104.76,8|
+placeholder,C O INTERSTATE GAS,1,38.86,-104.76,8|
+placeholder,CIMARRON HILLS,9,38.87,-104.73,8|
+placeholder,SKYLAND,2,38.93,-113.45,8|
+placeholder,FREEMAN,1,37.67,-106.35,8|
+placeholder,DENVER,80,39.76,-104.89,8|
+placeholder,NORTH GLENN,2,39.76,-104.87,8|
+placeholder,BANK AMERICARD,1,39.76,-104.87,8|
+placeholder,WELLS FARGO BANK,5,39.94,-106.27,8|
+placeholder,ELBERT,1,39.22,-104.53,8|
+placeholder,COPPER MTN,1,39.57,-106.09,8|
+placeholder,GOLDEN,7,39.07,-105.43,8|
+placeholder,ARVADA,10,40.32,-105.21,8|
+placeholder,STATE FARM INS,2,36.91,-108.35,8|
+placeholder,KLINE,1,37.28,-108.03,8|
+placeholder,CLIMAX,1,39.37,-106.18,8|
+placeholder,GREYSTONE,1,40.52,-108.08,8|
+placeholder,MOFFAT,1,38.0,-105.9,8|
+placeholder,MOLINA,1,39.18,-108.07,8|
+placeholder,PIERCE,2,43.59,-110.28,8|
+placeholder,ROCKVALE,1,38.36,-105.16,8|
+placeholder,RUSH,1,38.84,-104.08,8|
+placeholder,LASAUSES,1,37.25,-105.9,8|
+placeholder,SILVER PLUME,1,39.69,-105.72,8|
+placeholder,PINON CANYON,1,37.16,-104.5,8|
+placeholder,TANGLEWOOD ACRES,1,38.13,-105.46,8|
+placeholder,WESTMINSTER,13,39.85,-105.0,8|
+placeholder,VIGIL,1,37.13,-105.01,8|
+placeholder,HOYT,1,40.23,-104.07,8|
+placeholder,WOODLAND PARK,2,38.99,-105.05,8|
+placeholder,AUBURN,1,42.79,-111.0,8|
+placeholder,MONETA,2,42.97,-106.83,8|
+placeholder,UNICOVER CORP,1,41.14,-104.79,8|
+placeholder,GRANITE CANYON,1,41.1,-105.08,8|
+placeholder,DIAMOND,1,41.75,-104.82,8|
+placeholder,ENCAMPMENT,1,41.2,-106.79,8|
+placeholder,BEAR RIVER,1,41.25,-110.96,8|
+placeholder,FAIRVIEW,3,39.49,-109.49,8|
+placeholder,FORT LARAMIE,1,42.21,-104.51,8|
+placeholder,HANNA,2,41.2,-108.64,8|
+placeholder,TETON VILLAGE,1,43.57,-110.81,8|
+placeholder,KAYCEE,1,43.7,-106.63,8|
+placeholder,SHAWNEE,3,40.58,-105.42,8|
+placeholder,MOORCROFT,1,44.26,-104.95,8|
+placeholder,NEWCASTLE,3,41.91,-107.35,8|
+placeholder,SAVERY,1,41.08,-107.34,8|
+placeholder,ALBION,1,42.38,-113.6,8|
+placeholder,ARIMO,1,42.54,-112.28,8|
+placeholder,ROCKFORD,1,43.27,-112.56,8|
+placeholder,BLISS,1,43.01,-114.94,8|
+placeholder,IDAHO STATE HOUSE,1,43.61,-116.21,8|
+placeholder,SPRINGDALE,3,38.98,-113.28,8|
+placeholder,CALDWELL,3,43.68,-116.7,8|
+placeholder,MACKEY BAR,1,44.59,-115.57,8|
+placeholder,CLIFTON,3,38.17,-109.92,8|
+placeholder,MONTOUR,1,43.98,-116.52,8|
+placeholder,CROUCH,1,44.08,-115.85,8|
+placeholder,GENEVA,1,42.36,-111.11,8|
+placeholder,HAZELTON,1,42.58,-114.07,8|
+placeholder,HORSESHOE BND,1,43.92,-116.17,8|
+placeholder,HOWE,1,43.92,-113.1,8|
+placeholder,NEW CENTERVILLE,1,43.89,-115.76,8|
+placeholder,BONE,1,43.5,-111.89,8|
+placeholder,SAINT LEON,1,43.5,-111.89,8|
+placeholder,LONE PINE,1,44.49,-113.36,8|
+placeholder,MERIDIAN,3,43.62,-116.42,8|
+placeholder,MONTEVIEW,1,43.94,-112.56,8|
+placeholder,BENNINGTON,1,42.28,-111.33,8|
+placeholder,MOORE,1,43.68,-113.59,8|
+placeholder,TIPANUK,1,43.36,-115.52,8|
+placeholder,MOUNTAIN HOME AIR FORCE BASE,1,43.05,-115.86,8|
+placeholder,NAMPA,5,43.6,-116.57,8|
+placeholder,HAMILTON CORNER,1,43.94,-116.8,8|
+placeholder,SHOUP,1,45.22,-114.41,8|
+placeholder,OLA,1,44.27,-116.31,8|
+placeholder,ROGERSON,1,42.11,-114.95,8|
+placeholder,THREE CREEK,2,42.26,-114.77,8|
+placeholder,W BOUNTIFUL,2,40.89,-111.88,8|
+placeholder,CEDAR FORT,1,40.33,-112.11,8|
+placeholder,HILLFIELD,1,41.12,-111.98,8|
+placeholder,DESERET,1,39.29,-112.56,8|
+placeholder,SUGARVILLE,1,39.29,-112.56,8|
+placeholder,DUCHESNE,2,40.32,-110.61,8|
+placeholder,LIBERTY,2,41.8,-111.56,8|
+placeholder,ELSINORE,1,38.68,-112.14,8|
+placeholder,OAK CREEK,2,40.03,-109.19,8|
+placeholder,LA SAL,1,38.23,-109.17,8|
+placeholder,LEWISTON,2,44.05,-114.39,8|
+placeholder,MIDVALE,2,42.49,-114.23,8|
+placeholder,MIDWAY,2,36.84,-107.94,8|
+placeholder,MINERSVILLE,1,38.21,-112.93,8|
+placeholder,ARCHES,1,38.45,-109.6,8|
+placeholder,MONA,1,39.85,-111.84,8|
+placeholder,MYTON,1,40.17,-110.02,8|
+placeholder,MARRIOTT SLATERVILLE,2,41.23,-112.05,8|
+placeholder,MARRIOTT,3,41.23,-112.08,8|
+placeholder,WEST WARREN,1,41.24,-112.13,8|
+placeholder,WEBER STATE UNIVERSITY,1,41.19,-111.94,8|
+placeholder,RANDOLPH,1,41.65,-111.21,8|
+placeholder,RUSH VALLEY,1,40.34,-112.48,8|
+placeholder,SALEM,2,36.36,-109.42,8|
+placeholder,SALT LAKE CITY,57,40.72,-111.89,8|
+placeholder,SO SALT LAKE,3,40.67,-111.91,8|
+placeholder,SSL,5,40.68,-111.9,8|
+placeholder,WEST VALLEY,5,40.67,-112.0,8|
+placeholder,SALT LAKE CTY,56,40.72,-111.89,8|
+placeholder,SALT LAKE COUNTY COMPLEX,1,40.72,-111.88,8|
+placeholder,WINCHESTER HILLS,1,37.18,-113.6,8|
+placeholder,COLLEGE WARD,1,41.62,-111.93,8|
+placeholder,W JORDAN,3,40.6,-112.0,8|
+placeholder,WOODRUFF,3,39.47,-111.17,8|
+placeholder,APACHE JUNCTION,12,33.4,-111.49,8|
+placeholder,ARIVACA,1,31.59,-111.3,8|
+placeholder,WINWOOD,1,31.44,-109.87,8|
+placeholder,BULLHEAD CITY,7,35.08,-114.54,8|
+placeholder,MANY FARMS,1,36.39,-109.59,8|
+placeholder,OAK SPRINGS,1,35.36,-109.24,8|
+placeholder,DOLAN SPRINGS,1,35.64,-114.31,8|
+placeholder,LAKE HAVASU CITY,4,34.51,-114.29,8|
+placeholder,MESA,21,34.22,-111.79,8|
+placeholder,MIAMI,2,34.88,-107.88,8|
+placeholder,PHOENIX,82,33.51,-112.07,8|
+placeholder,CENSUS BUREAU,2,33.44,-112.12,8|
+placeholder,SLC,55,40.72,-111.89,8|
+placeholder,QUEEN VALLEY,2,33.34,-111.41,8|
+placeholder,MARICOPA,4,33.0,-112.01,8|
+placeholder,STANFIELD,2,32.89,-111.94,8|
+placeholder,TUCSON,56,32.22,-110.95,8|
+placeholder,ST JOHNS,1,34.56,-109.33,8|
+placeholder,PORTAL,1,32.0,-109.21,8|
+placeholder,SUPERIOR,4,37.07,-109.08,8|
+placeholder,TAYLOR,3,39.71,-111.31,8|
+placeholder,SUN,2,32.24,-110.94,8|
+placeholder,AGUA LINDA,1,31.55,-111.03,8|
+placeholder,YOUNG,1,34.08,-111.01,8|
+placeholder,ALAMOGORDO,2,32.88,-105.95,8|
+placeholder,LOS RANCHOS,2,35.11,-106.62,8|
+placeholder,ALBUQUERQUE,47,35.12,-106.62,8|
+placeholder,ARROYO HONDO,1,36.53,-105.66,8|
+placeholder,TAMAYA,1,35.31,-106.55,8|
+placeholder,BERNARDO,1,34.47,-106.8,8|
+placeholder,PARAJE,1,35.0,-107.41,8|
+placeholder,OJO SARCO,1,36.17,-105.74,8|
+placeholder,CLEVELAND,2,37.7,-108.14,8|
+placeholder,COSTILLA,1,36.97,-105.53,8|
+placeholder,HORSE SPRINGS,1,34.14,-107.84,8|
+placeholder,DEMING,2,32.26,-107.75,8|
+placeholder,RINCONADO,1,36.2,-105.96,8|
+placeholder,QUARTELES,1,36.0,-106.06,8|
+placeholder,ESTANCIA,2,34.56,-105.88,8|
+placeholder,FLORA VISTA,1,36.8,-108.08,8|
+placeholder,ROMEROVILLE,1,35.59,-105.22,8|
+placeholder,LOCO HILLS,1,32.81,-103.97,8|
+placeholder,COCHITI PUEBLO,1,35.6,-106.34,8|
+placeholder,ARCH,1,34.18,-103.34,8|
+placeholder,PREWITT,1,35.36,-108.04,8|
+placeholder,RADIUM SPGS,1,32.5,-106.92,8|
+placeholder,REHOBOTH,1,35.49,-108.65,8|
+placeholder,RIBERA,1,35.37,-105.44,8|
+placeholder,HOLLYWOOD,1,33.36,-105.64,8|
+placeholder,SAN JOSE,1,36.03,-106.09,8|
+placeholder,SEDAN,1,36.14,-103.13,8|
+placeholder,BERNAL,1,35.48,-105.4,8|
+placeholder,NEWCOMB,1,36.28,-108.7,8|
+placeholder,SANTA TERESA,2,31.83,-106.6,8|
+placeholder,SUNSPOT,1,32.8,-105.78,8|
+placeholder,VAUGHN,1,34.6,-105.21,8|
+placeholder,ALAMO,3,36.37,-112.59,8|
+placeholder,LEHMAN CAVES,1,38.9,-114.2,8|
+placeholder,BOULDER CITY,2,35.94,-114.81,8|
+placeholder,CRESCENT VALLEY,1,40.52,-116.36,8|
+placeholder,INCLINE VLG,3,39.24,-119.94,8|
+placeholder,DEETH,1,41.4,-115.48,8|
+placeholder,PETERSON,2,40.25,-114.98,8|
+placeholder,SHERIDAN,3,41.06,-110.52,8|
+placeholder,INDIAN SPGS,2,36.54,-115.65,8|
+placeholder,JEAN,2,35.76,-115.42,8|
+placeholder,LAS VEGAS,83,36.12,-114.94,8|
+placeholder,ARDEN,1,36.07,-115.21,8|
+placeholder,MOUNTAIN SPRINGS,2,36.08,-115.42,8|
+placeholder,CITIBANK NV,2,36.14,-115.2,8|
+placeholder,THE LAKES,4,36.14,-115.24,8|
+placeholder,OREANA,2,41.7,-117.36,8|
+placeholder,MOAPA,3,36.57,-114.5,8|
+placeholder,PAHRUMP,4,36.24,-116.04,8|
+placeholder,PARADISE VALLEY,2,37.46,-114.66,8|
+placeholder,PARADISE VLY,2,37.46,-114.66,8|
+placeholder,ANDERSON ACRES,1,39.76,-119.86,8|
+placeholder,RENO,25,39.72,-119.51,8|
+placeholder,CHILCO,1,47.96,-116.68,8|
+placeholder,CLARKIA,1,47.02,-116.24,8|
+placeholder,KENDRICK,1,46.64,-116.54,8|
+placeholder,SWEETWATER,3,41.55,-114.35,8|
+placeholder,MOSCOW,2,46.72,-116.95,8|
+placeholder,MOYIE SPRINGS,1,48.7,-116.12,8|
+placeholder,DOVER,2,48.3,-116.53,8|
+placeholder,LAKE MONTEZUMA,1,34.63,-111.77,8|
+placeholder,SEDONA,5,34.84,-111.8,8|
+placeholder,SUN CITY,10,33.64,-112.35,8|
+placeholder,DATELAND,1,32.94,-113.34,8|
+placeholder,TOLLESON,1,33.42,-112.27,8|
+placeholder,TOMBSTONE,1,31.71,-110.04,8|
+placeholder,MOENAVE,1,36.09,-111.13,8|
+placeholder,MISSION,1,32.07,-110.88,8|
+placeholder,DAVIS MONTHAN AFB,2,32.17,-110.87,8|
+placeholder,FORT LOWELL,1,32.25,-110.82,8|
+placeholder,WHITERIVER,1,33.8,-110.09,8|
+placeholder,ALTO,1,33.39,-105.68,8|
+placeholder,ARREY,1,32.84,-107.31,8|
+placeholder,CANJILON,1,36.47,-106.43,8|
+placeholder,CAPITAN,1,33.54,-105.59,8|
+placeholder,APODACA,1,36.19,-105.88,8|
+placeholder,EL RITO,3,36.89,-105.65,8|
+placeholder,FARMINGTON MUNICIPAL AIRPORT,1,36.75,-108.18,8|
+placeholder,SAN MATEO,1,35.15,-107.83,8|
+placeholder,LAKEWOOD,12,39.15,-104.87,8|
+placeholder,REDROCK,1,32.68,-108.73,8|
+placeholder,LORDSBURG,3,32.35,-108.7,8|
+placeholder,MILNESAND,1,33.64,-103.33,8|
+placeholder,MONTEZUMA,2,37.63,-105.65,8|
+placeholder,COUNSELOR,1,36.13,-106.93,8|
+placeholder,EAST PECOS,1,35.57,-105.67,8|
+placeholder,PENASCO,1,36.17,-105.69,8|
+placeholder,QUERINDA PARK,1,36.7,-105.4,8|
+placeholder,SAN ANTONIO,2,35.49,-106.44,8|
+placeholder,OHKAY OWINGEH,1,36.05,-106.07,8|
+placeholder,SANTA FE,12,35.65,-105.96,8|
+placeholder,PINTADA,1,34.94,-104.67,8|
+placeholder,SHIPROCK,2,36.61,-108.78,8|
+placeholder,GILA CLIFF DWELLINGS NATIONA,1,32.78,-108.26,8|
+placeholder,ARABELA,1,33.27,-105.13,8|
+placeholder,TRUTH CONSQ,1,33.13,-107.24,8|
+placeholder,THREE RIVERS,1,33.07,-106.02,8|
+placeholder,WATROUS,2,35.8,-104.95,8|
+placeholder,BUNKERVILLE,1,36.72,-114.14,8|
+placeholder,NEVADA INDUSTRIAL COMM,1,39.13,-119.66,8|
+placeholder,CARSON CITY,11,39.13,-119.76,8|
+placeholder,CRYSTAL BAY,1,39.28,-119.95,8|
+placeholder,ELKO,5,40.82,-115.68,8|
+placeholder,GLENBROOK,1,39.05,-119.92,8|
+placeholder,UNIONVILLE,1,40.59,-118.06,8|
+placeholder,SANDY VALLEY,1,35.75,-115.53,8|
+placeholder,ENTERPRISE,2,36.84,-114.59,8|
+placeholder,MOUNTAIN SPRG,2,36.08,-115.42,8|
+placeholder,MERCURY,1,36.66,-115.99,8|
+placeholder,N LAS VEGAS,10,36.27,-115.11,8|
+placeholder,NORTH LAS VEGAS,10,36.27,-115.11,8|
+placeholder,REBEL CREEK,1,41.63,-118.0,8|
+placeholder,CRYSTAL,5,38.47,-113.06,8|
+placeholder,V C HIGHLANDS,1,39.38,-119.67,8|
+placeholder,SILVERPEAK,1,37.76,-117.65,8|
+placeholder,SILVER SPRINGS,1,39.37,-119.26,8|
+placeholder,WINNEMUCCA COLONY,1,41.12,-118.05,8|
+placeholder,KINGSBURY,1,38.99,-119.92,8|
+placeholder,COEUR D ALENE,3,47.66,-116.81,8|
+placeholder,TWIN LAKES,4,40.38,-109.59,8|
+placeholder,NAVAJO STATE PARK,1,37.02,-107.4,8|
+placeholder,BUCKLEY ANG,1,39.69,-104.81,8|
+placeholder,BOULDER,18,40.05,-105.84,8|
+placeholder,PROSPECT HEIGHTS,1,38.44,-105.23,8|
+placeholder,COALBY,1,38.89,-107.92,8|
+placeholder,CMAFB,1,38.86,-104.76,8|
+placeholder,BAXTERVILLE,1,37.67,-106.35,8|
+placeholder,ELK SPRINGS,1,40.24,-109.0,8|
+placeholder,DUNTON,1,37.47,-108.49,8|
+placeholder,CHERRY HILLS VILLAGE,4,39.63,-104.99,8|
+placeholder,ESTES PARK,2,40.37,-105.52,8|
+placeholder,FLAGLER,1,39.29,-103.06,8|
+placeholder,FLORENCE,5,35.09,-108.79,8|
+placeholder,GYPSUM,1,39.64,-106.94,8|
+placeholder,PUNKIN CENTER,2,38.67,-103.6,8|
+placeholder,FT LYON,2,38.08,-103.19,8|
+placeholder,LITTLETON,18,39.66,-105.38,8|
+placeholder,MANZANOLA,1,38.1,-103.86,8|
+placeholder,NIWOT,3,40.14,-105.12,8|
+placeholder,OPHIR,2,39.08,-110.06,8|
+placeholder,ROGGEN,1,40.17,-104.37,8|
+placeholder,SAN LUIS,3,35.56,-108.57,8|
+placeholder,SAN FRANCISCO,3,36.26,-105.86,8|
+placeholder,SNOWMASS,1,39.33,-106.98,8|
+placeholder,MAXEY,1,37.4,-102.61,8|
+placeholder,STERLING,3,40.97,-109.24,8|
+placeholder,EL MORO,1,37.16,-104.5,8|
+placeholder,VAIL,3,37.08,-107.82,8|
+placeholder,WALDEN,2,40.65,-106.36,8|
+placeholder,MONUMENT LAKE PARK,1,37.13,-105.01,8|
+placeholder,MONUMENT PARK,1,37.13,-105.01,8|
+placeholder,ALVA,1,44.7,-104.45,8|
+placeholder,CARPENTER,2,41.11,-104.34,8|
+placeholder,CASPER,9,42.87,-106.58,8|
+placeholder,FE WARREN AFB,2,41.16,-104.83,8|
+placeholder,LEO,1,41.86,-106.55,8|
+placeholder,URIE,1,41.32,-110.3,8|
+placeholder,SINCLAIR,1,41.77,-107.11,8|
+placeholder,ALADDIN,1,44.63,-104.18,8|
+placeholder,THERMOPOLIS,2,43.72,-108.19,8|
+placeholder,TORRINGTON,1,42.06,-104.18,8|
+placeholder,WILSON,3,42.69,-113.13,8|
+placeholder,ROBIN,1,42.54,-112.28,8|
+placeholder,RIVERSIDE,5,39.79,-110.34,8|
+placeholder,BOISE,34,43.61,-116.2,8|
+placeholder,WASHINGTON GROUP,1,43.6,-116.19,8|
+placeholder,RIDDLE,1,42.57,-115.85,8|
+placeholder,KING HILL,1,43.07,-115.19,8|
+placeholder,HAILEY,2,43.44,-114.14,8|
+placeholder,HORSESHOE BEND,1,43.92,-116.17,8|
+placeholder,IDAHO FALLS,7,43.47,-112.02,8|
+placeholder,ISLAND PARK,2,44.5,-111.34,8|
+placeholder,CANYON CREEK,1,43.86,-111.42,8|
+placeholder,CHUBBUCK,1,42.97,-112.36,8|
+placeholder,LORENZO,1,43.69,-111.87,8|
+placeholder,HEMAN,1,43.98,-111.79,8|
+placeholder,SAINT CHARLES,2,42.09,-111.45,8|
+placeholder,SHOSHONE,2,42.99,-114.32,8|
+placeholder,WAYAN,1,42.9,-111.28,8|
+placeholder,TERRETON,1,43.86,-112.38,8|
+placeholder,VICTOR,2,41.17,-108.18,8|
+placeholder,YELLOW PINE,1,45.02,-115.52,8|
+placeholder,BICKNELL,1,38.33,-111.55,8|
+placeholder,CEDAR CITY,2,37.73,-113.2,8|
+placeholder,CISCO,1,38.97,-109.31,8|
+placeholder,THOMPSON,1,39.18,-109.49,8|
+placeholder,BIG WATER,1,37.27,-112.23,8|
+placeholder,COTTONWOOD HEIGHTS,4,40.61,-111.8,8|
+placeholder,WEST WEBER,1,41.21,-111.97,8|
+placeholder,OGDEN,13,41.23,-111.97,8|
+placeholder,BONNIE,2,40.3,-111.72,8|
+placeholder,CLOVER,2,41.47,-113.66,8|
+placeholder,S SALT LAKE,7,40.69,-111.89,8|
+placeholder,SANDY,6,40.57,-111.83,8|
+placeholder,GENOLA,1,39.99,-111.81,8|
+placeholder,BENJAMIN,1,40.02,-111.55,8|
+placeholder,ZION NATIONAL PARK,1,37.25,-112.99,8|
+placeholder,ZION NTL PARK,1,37.25,-112.99,8|
+placeholder,VIRGIN,1,37.3,-113.08,8|
+placeholder,HARRISBURG JUNCTION,1,37.18,-113.6,8|
+placeholder,ST GEORGE,4,37.11,-113.55,8|
+placeholder,AVONDALE GOODYEAR,2,33.47,-112.34,8|
+placeholder,COPPER QUEEN,1,31.44,-109.87,8|
+placeholder,LOWELL,2,38.76,-112.87,8|
+placeholder,CASA GRANDE,9,32.87,-111.72,8|
+placeholder,CASHION,1,33.43,-112.29,8|
+placeholder,SUN LAKES,1,33.24,-111.96,8|
+placeholder,ROCK POINT,1,36.66,-109.6,8|
+placeholder,ROUND ROCK,1,36.53,-109.44,8|
+placeholder,NORTHERN ARIZONA UNIVERSITY,1,35.23,-111.72,8|
+placeholder,HOLBROOK,5,36.46,-110.55,8|
+placeholder,KYKOTSMOVI VILLAGE,1,35.91,-110.53,8|
+placeholder,LITCHFIELD PK,1,33.51,-112.36,8|
+placeholder,NACO,1,31.34,-109.94,8|
+placeholder,PRESCOTT VLY,3,34.65,-112.3,8|
+placeholder,LOUISVILLE,2,39.95,-105.14,8|
+placeholder,QUEEN CREEK,8,33.2,-111.59,8|
+placeholder,SCOTTSDALE,20,33.58,-111.84,8|
+placeholder,FOUNTAIN HLS,2,33.6,-111.72,8|
+placeholder,SIERRA VISTA,7,31.8,-109.61,8|
+placeholder,SURPRISE,5,33.64,-112.39,8|
+placeholder,MEXICAN WATER,1,36.89,-109.37,8|
+placeholder,RINCON,5,32.27,-110.02,8|
+placeholder,WILLIAMS,1,35.37,-112.26,8|
+placeholder,LA VILLITA,1,36.08,-106.05,8|
+placeholder,ARROYO SECO,1,36.51,-105.56,8|
+placeholder,BERNALILLO,1,35.31,-106.55,8|
+placeholder,HAPPY VALLEY,2,35.97,-111.98,8|
+placeholder,EDGEWOOD,1,35.08,-106.17,8|
+placeholder,CEDARVALE,1,34.37,-105.7,8|
+placeholder,TRECHADO,1,34.65,-108.67,8|
+placeholder,TOHLAKAI,1,35.52,-108.73,8|
+placeholder,GILA,1,32.96,-108.57,8|
+placeholder,HATCH,2,35.13,-109.81,8|
+placeholder,LAS CRUCES,10,32.32,-106.73,8|
+placeholder,SEPAR,1,32.34,-108.7,8|
+placeholder,LOVINGTON,2,33.0,-103.28,8|
+placeholder,MOSQUERO,1,35.77,-103.95,8|
+placeholder,NARA VISA,1,35.6,-103.09,8|
+placeholder,OCATE,1,36.17,-105.04,8|
+placeholder,OJO CALIENTE,1,36.3,-106.04,8|
+placeholder,ORGAN,1,32.42,-106.59,8|
+placeholder,PINE,4,38.17,-109.52,8|
+placeholder,PEP,1,33.83,-103.33,8|
+placeholder,BOSQUE FARMS,2,34.84,-106.69,8|
+placeholder,RANCHOS DE TAOS,1,36.36,-105.6,8|
+placeholder,LAGUNITA,1,35.37,-105.44,8|
+placeholder,SILVER CITY,7,35.22,-111.05,8|
+placeholder,UTE PARK,1,36.55,-105.11,8|
+placeholder,LLANO,1,36.14,-105.68,8|
+placeholder,EL RANCHO LOMA LINDA,1,36.19,-105.67,8|
+placeholder,LOWER RANCHITO,1,36.49,-106.12,8|
+placeholder,RIXIE,1,40.47,-117.03,8|
+placeholder,NEW WASHOE CITY,1,39.14,-119.71,8|
+placeholder,CALICO RIDGE,1,36.01,-114.95,8|
+placeholder,RYE PATCH,1,40.32,-118.2,8|
+placeholder,MC GILL,1,39.49,-114.75,8|
+placeholder,OVERTON,2,36.52,-114.41,8|
+placeholder,MOGUL,1,39.49,-119.9,8|
+placeholder,VALMY,1,40.75,-117.1,8|
+placeholder,WELLINGTON,3,39.65,-111.69,8|
+placeholder,AURORA,24,39.48,-105.73,8|
+placeholder,JUNGO,1,41.12,-118.05,8|
+placeholder,ELKS POINT,1,38.99,-119.92,8|
+placeholder,STATELINE,1,38.96,-119.9,8|
+placeholder,GRANITE,4,42.04,-111.64,8|
+placeholder,GREENCREEK,1,46.11,-116.26,8|
+placeholder,EASTPORT,1,48.98,-116.17,8|
+placeholder,STANLEY,3,38.95,-108.94,8|
+placeholder,ADAMS STATE COLLEGE,1,37.46,-105.87,8|
+placeholder,ANTON,1,39.75,-103.22,8|
+placeholder,CENTENNIAL,10,39.8,-105.06,8|
+placeholder,RESIDENCE HALLS UNIV OF CO,1,40.02,-105.25,8|
+placeholder,BUENA VISTA,4,38.22,-106.03,8|
+placeholder,BYERS,1,39.71,-104.22,8|
+placeholder,ILSE,1,38.44,-105.23,8|
+placeholder,CURRENT INC,1,38.86,-104.76,8|
+placeholder,WELBY,1,39.76,-104.87,8|
+placeholder,FREDERICK,3,40.1,-105.03,8|
+placeholder,EVANS,3,40.38,-104.71,8|
+placeholder,GILL,1,40.45,-104.53,8|
+placeholder,GRAND JCT,7,39.07,-108.57,8|
+placeholder,FRUITVALE,2,41.98,-112.55,8|
+placeholder,KIT CARSON,1,38.76,-102.79,8|
+placeholder,TIMPAS,1,37.98,-103.54,8|
+placeholder,TARRYALL,1,38.98,-105.37,8|
+placeholder,DEORA,1,38.06,-103.22,8|
+placeholder,LEADVILLE,2,39.3,-106.24,8|
+placeholder,HIGHLANDS RANCH,4,39.56,-104.99,8|
+placeholder,NORRIE,1,39.27,-106.59,8|
+placeholder,PAGOSA SPRINGS,3,37.24,-107.22,8|
+placeholder,OHIO CITY,1,38.54,-106.58,8|
+placeholder,COLORADO LOTTERY,3,38.27,-104.62,8|
+placeholder,PANDORA,1,37.94,-107.9,8|
+placeholder,STONINGTON,2,37.34,-102.23,8|
+placeholder,WINTER PARK,1,39.88,-105.77,8|
+placeholder,WOODY CREEK,1,39.28,-106.88,8|
+placeholder,CODY,1,44.51,-109.05,8|
+placeholder,BURRIS,1,43.31,-109.19,8|
+placeholder,PARKERTON,1,42.85,-105.85,8|
+placeholder,KELLY,1,43.6,-110.32,8|
+placeholder,LARAMIE,6,41.31,-105.67,8|
+placeholder,LOOKOUT,1,41.58,-105.69,8|
+placeholder,LINGLE,1,42.13,-104.34,8|
+placeholder,MOOSE,1,43.65,-110.72,8|
+placeholder,OSAGE,1,43.98,-104.42,8|
+placeholder,GARRETT,1,42.11,-105.6,8|
+placeholder,GARDEN CREEK,1,42.54,-112.28,8|
+placeholder,LAMONT,2,43.14,-109.44,8|
+placeholder,ARGORA,1,44.22,-112.37,8|
+placeholder,IDMAN,1,44.22,-112.37,8|
+placeholder,KILGORE,1,44.22,-112.37,8|
+placeholder,BENCH,1,42.51,-111.74,8|
+placeholder,GRACE,2,42.43,-111.69,8|
+placeholder,PICABO,1,43.3,-114.07,8|
+placeholder,CLYDE,3,41.51,-112.18,8|
+placeholder,LAVA HOT SPRINGS,1,42.61,-112.04,8|
+placeholder,LEWISVILLE,1,43.68,-112.03,8|
+placeholder,POCATELLO,7,42.89,-112.45,8|
+placeholder,BUSHNELL,1,41.51,-112.04,8|
+placeholder,LYNNDYL,1,39.5,-112.48,8|
+placeholder,GUSHER,1,40.29,-109.8,8|
+placeholder,FTN GREEN,1,39.64,-111.61,8|
+placeholder,PICKLEVILLE,1,41.91,-111.25,8|
+placeholder,GRANTSVILLE,1,40.67,-112.76,8|
+placeholder,CENTER CREEK,1,40.43,-111.19,8|
+placeholder,ANTIMONY,1,38.09,-112.0,8|
+placeholder,LEHI,3,40.32,-111.95,8|
+placeholder,CROYDON,1,41.13,-111.54,8|
+placeholder,MILTON,1,41.01,-111.67,8|
+placeholder,OAKLEY,2,41.5,-112.48,8|
+placeholder,PARK CITY,3,40.67,-111.51,8|
+placeholder,VENICE,1,38.75,-112.1,8|
+placeholder,RIVERTON,4,41.13,-111.11,8|
+placeholder,CAMP WILLIAMS,1,40.47,-112.0,8|
+placeholder,LEETON,1,40.28,-110.0,8|
+placeholder,COTTONWD HGTS,4,40.61,-111.8,8|
+placeholder,W VALLEY CITY,6,40.67,-112.0,8|
+placeholder,COTTONWOOD HEIGHTS CITY,2,40.62,-111.75,8|
+placeholder,WHITE CITY,2,40.56,-111.88,8|
+placeholder,SPANISH FORK,1,40.02,-111.55,8|
+placeholder,SPRINGVILLE,3,38.12,-110.72,8|
+placeholder,SUNNYSIDE,1,39.67,-110.58,8|
+placeholder,PINE CANYON,1,40.57,-112.33,8|
+placeholder,VERNON,4,39.47,-108.87,8|
+placeholder,WILLARD,3,38.81,-107.18,8|
+placeholder,AGUILA,1,33.81,-113.18,8|
+placeholder,SUPERSTITION MTN,2,33.34,-111.41,8|
+placeholder,CHINLE,6,36.42,-109.45,8|
+placeholder,UPPER WHEATFIELDS,1,36.45,-109.27,8|
+placeholder,FLAGSTAFF,10,35.15,-111.67,8|
+placeholder,NORTH RIM,1,36.3,-112.08,8|
+placeholder,GLOBE,2,33.5,-110.74,8|
+placeholder,KINGMAN,8,35.37,-113.9,8|
+placeholder,TEMPLE BAR MARINA,1,36.02,-114.29,8|
+placeholder,MEADVIEW,1,35.98,-114.06,8|
+placeholder,HAVASU CITY,1,34.48,-114.32,8|
+placeholder,NUTRIOSO,1,33.93,-109.22,8|
+placeholder,PAYSON,3,36.15,-111.39,8|
+placeholder,PRESCOTT,8,34.62,-112.49,8|
+placeholder,PIEDRA,1,37.21,-107.34,8|
+placeholder,LOS FUERTES,2,37.16,-105.39,8|
+placeholder,FIRST SECURITY BANK,2,42.13,-114.03,8|
+placeholder,APACHE JCT,12,33.4,-111.49,8|
+placeholder,SPRING CREEK,2,39.61,-111.22,8|
+placeholder,TINCUP,1,38.67,-106.83,8|
+placeholder,AUSTIN,3,38.98,-112.29,8|
+placeholder,N AVONDALE,1,38.23,-104.35,8|
+placeholder,NEODATA,3,40.02,-105.25,8|
+placeholder,BRUSH,1,40.25,-103.63,8|
+placeholder,ELLICOTT,1,39.03,-104.29,8|
+placeholder,ROCKRIMMON,2,38.86,-104.76,8|
+placeholder,ASPEN PARK,1,39.52,-105.3,8|
+placeholder,DEL NORTE,1,37.67,-106.35,8|
+placeholder,THORNTON,10,40.22,-105.57,8|
+placeholder,NATIONAL FARMERS UNION,1,39.76,-104.87,8|
+placeholder,STONER,1,37.47,-108.49,8|
+placeholder,ECKLEY,1,40.11,-102.48,8|
+placeholder,EDWARDS,1,39.65,-106.6,8|
+placeholder,CORDILLERA,1,39.65,-106.6,8|
+placeholder,SLICK ROCK,1,37.92,-108.93,8|
+placeholder,FAIRPLAY,3,39.31,-105.9,8|
+placeholder,FORT COLLINS,9,40.55,-105.06,8|
+placeholder,GREELEY,6,40.42,-104.74,8|
+placeholder,LAKE CITY,1,38.07,-107.3,8|
+placeholder,CARLTON,1,38.08,-102.61,8|
+placeholder,FORT LYON,2,38.08,-103.19,8|
+placeholder,MASONVILLE,1,40.48,-105.2,8|
+placeholder,AXEL,1,40.05,-107.89,8|
+placeholder,MEREDITH,1,39.27,-106.59,8|
+placeholder,THATCHER,4,38.55,-109.49,8|
+placeholder,MORRISON,1,39.65,-105.18,8|
+placeholder,PALISADE,1,39.1,-108.35,8|
+placeholder,BTLMT MESA,2,39.44,-108.03,8|
+placeholder,PRITCHETT,1,37.37,-102.85,8|
+placeholder,PUEBLO,12,38.27,-104.62,8|
+placeholder,PUEBLO WEST,1,38.27,-104.62,8|
+placeholder,SAN PABLO,2,37.16,-105.39,8|
+placeholder,STEAMBOAT SPR,3,40.47,-106.82,8|
+placeholder,STRASBURG,1,39.73,-104.3,8|
+placeholder,BASIN,2,43.27,-110.95,8|
+placeholder,DOUGLAS,5,33.71,-108.62,8|
+placeholder,DUBOIS,3,44.05,-111.41,8|
+placeholder,FARSON,1,42.11,-109.44,8|
+placeholder,LYSITE,1,43.25,-107.71,8|
+placeholder,MORAN,1,43.84,-110.5,8|
+placeholder,MANTUA,2,43.13,-110.34,8|
+placeholder,PT OF ROCKS,1,41.68,-108.78,8|
+placeholder,PRAIRIE CENTER,1,42.06,-104.18,8|
+placeholder,VAN TASSELL,1,42.66,-104.09,8|
+placeholder,AMERICAN FLS,1,42.72,-112.99,8|
+placeholder,BELLEVUE,1,43.39,-114.24,8|
+placeholder,ALBERTSONS,1,43.43,-116.0,8|
+placeholder,TAMARACK,1,44.67,-116.0,8|
+placeholder,SPENCER,1,44.39,-112.22,8|
+placeholder,SCOVILLE,1,43.49,-112.03,8|
+placeholder,TOPAZ,2,40.99,-112.39,8|
+placeholder,STODDARD,2,42.19,-114.11,8|
+placeholder,OASIS,3,41.33,-114.29,8|
+placeholder,PAYETTE,1,44.06,-116.7,8|
+placeholder,BAKER,2,41.95,-114.03,8|
+placeholder,TWIN FALLS,3,42.36,-114.67,8|
+placeholder,WESTON,3,41.27,-107.45,8|
+placeholder,FRY CANYON,1,37.57,-110.32,8|
+placeholder,CACHE JUNCTION,1,41.82,-111.99,8|
+placeholder,CENTRAL,4,36.39,-110.83,8|
+placeholder,CIRCLEVILLE,1,38.18,-112.22,8|
+placeholder,CLAWSON,1,39.04,-110.98,8|
+placeholder,TERRA,1,40.32,-112.79,8|
+placeholder,GARDEN CITY,4,42.42,-112.12,8|
+placeholder,HINCKLEY,1,39.37,-112.73,8|
+placeholder,HOOPER,3,40.03,-109.99,8|
+placeholder,MARION,1,40.62,-111.15,8|
+placeholder,EAGLE MOUNTAIN,2,40.34,-111.99,8|
+placeholder,LOGAN,5,40.47,-110.09,8|
+placeholder,MANTI,1,39.25,-111.52,8|
+placeholder,RICHVILLE,2,37.78,-110.5,8|
+placeholder,BRIAN HEAD,1,37.64,-112.8,8|
+placeholder,SUMMIT,1,37.77,-112.93,8|
+placeholder,PLEASANT GROVE,1,40.46,-111.63,8|
+placeholder,MURRAY,7,41.65,-112.4,8|
+placeholder,GROVER,3,40.59,-108.87,8|
+placeholder,DRY FORK,1,40.55,-109.57,8|
+placeholder,IBAPAH,1,40.2,-113.86,8|
+placeholder,CAMERON,3,35.51,-108.74,8|
+placeholder,CAMP VERDE,1,34.48,-111.78,8|
+placeholder,VIRDEN,2,32.55,-108.88,8|
+placeholder,MENNONITE MISSION,1,35.67,-109.65,8|
+placeholder,NAZLINI,1,35.92,-109.41,8|
+placeholder,GLENDALE,16,34.21,-111.77,8|
+placeholder,BACOBI,1,36.07,-110.58,8|
+placeholder,OLJATO,1,36.64,-110.18,8|
+placeholder,KEAMS CANYON,1,35.76,-110.25,8|
+placeholder,HARD ROCK,1,35.91,-110.53,8|
+placeholder,LITTLEFIELD,1,36.9,-113.94,8|
+placeholder,MAMMOTH,3,39.07,-111.1,8|
+placeholder,LAKE POWELL MART,1,36.68,-111.41,8|
+placeholder,MOBILE,2,33.0,-112.08,8|
+placeholder,IRON SPRINGS,2,34.72,-112.7,8|
+placeholder,SHIPOLOVI,1,35.81,-110.48,8|
+placeholder,SELLS,1,32.0,-111.93,8|
+placeholder,TEMPE,8,33.39,-111.93,8|
+placeholder,TONALEA,3,36.77,-110.85,8|
+placeholder,COAL MINE MESA,1,36.09,-111.13,8|
+placeholder,WELLTON,1,32.7,-114.17,8|
+placeholder,WICKENBURG,2,33.93,-112.82,8|
+placeholder,SIERRA BONITA,1,32.43,-109.88,8|
+placeholder,TSE BONITA,1,35.69,-108.98,8|
+placeholder,WITTMANN,1,33.72,-112.65,8|
+placeholder,YPG,1,32.72,-114.51,8|
+placeholder,UNIV OF NEW MEXICO,2,35.11,-106.62,8|
+placeholder,SANTA CLARA,2,34.96,-110.91,8|
+placeholder,CHURCH ROCK,1,35.53,-108.59,8|
+placeholder,CANNON AIR FORCE BASE,2,34.39,-103.25,8|
+placeholder,LUCY,1,34.59,-106.03,8|
+placeholder,MCGAFFEY,1,35.46,-108.54,8|
+placeholder,HOLLOMAN AIR FORCE BASE,1,32.83,-106.11,8|
+placeholder,JEMEZ SPRINGS,1,35.77,-106.68,8|
+placeholder,TOHAJIILEE,1,35.03,-107.39,8|
+placeholder,SERVILLETA PLAZA,1,36.38,-106.04,8|
+placeholder,ROAD FORKS,1,32.34,-108.7,8|
+placeholder,MESILLA PARK,1,32.27,-106.61,8|
+placeholder,CLINES CORS,1,35.0,-105.66,8|
+placeholder,QUESTA,1,36.71,-105.59,8|
+placeholder,EL ANCON,1,35.37,-105.44,8|
+placeholder,LEYBA,1,35.37,-105.44,8|
+placeholder,GLENRIO,1,35.11,-103.32,8|
+placeholder,VADITO,1,36.19,-105.67,8|
+placeholder,WINSTON,1,33.34,-107.51,8|
+placeholder,ZUNI,1,35.08,-108.76,8|
+placeholder,NEVADA HIGHWAY DEPT,1,39.16,-119.76,8|
+placeholder,CHERRY CREEK,2,40.83,-113.65,8|
+placeholder,FALLON,3,39.48,-118.62,8|
+placeholder,GENOA,2,39.14,-111.66,8|
+placeholder,GOLD POINT,1,37.53,-117.51,8|
+placeholder,MINA,1,38.19,-118.18,8|
+placeholder,COYOTE SPRINGS,2,36.54,-114.44,8|
+placeholder,NO LAS VEGAS,1,36.21,-115.12,8|
+placeholder,COLD SPRINGS,1,39.52,-119.81,8|
+placeholder,SAND PASS,1,39.91,-119.68,8|
+placeholder,STEAMBOAT,4,40.2,-110.08,8|
+placeholder,ZEPHYR COVE,2,38.98,-119.91,8|
+placeholder,DALTON GARDENS,1,47.72,-116.75,8|
+placeholder,DALTON GDNS,1,47.72,-116.75,8|
+placeholder,LENORE,1,46.64,-116.32,8|
+placeholder,UNIVERSITY,3,42.51,-114.1,8|
+placeholder,HEADQUARTERS,1,46.56,-115.81,8|
+placeholder,I D FIRST NATL BANK,2,43.61,-116.2,8|
+placeholder,TOLTEC,3,34.33,-109.31,8|
+placeholder,PICACHO,3,32.92,-109.37,8|
+placeholder,RED ROCK,3,34.98,-114.2,8|
+placeholder,QUARTZSITE,2,33.67,-114.22,8|
+placeholder,RIMROCK,1,34.68,-111.7,8|
+placeholder,ROOSEVELT,2,36.95,-110.52,8|
+placeholder,BAPCHULE,2,33.05,-111.83,8|
+placeholder,SONOITA,1,31.75,-110.66,8|
+placeholder,ROLL,1,32.76,-113.87,8|
+placeholder,TEEC NOS POS,3,36.77,-109.46,8|
+placeholder,GUADALUPE,1,33.36,-111.93,8|
+placeholder,UNIV OF ARIZONA,1,32.23,-110.95,8|
+placeholder,TSN,1,32.07,-110.92,8|
+placeholder,PUBLIC SERVICE CO,1,35.11,-106.62,8|
+placeholder,CHAPARRAL,2,32.02,-106.52,8|
+placeholder,CERRILLOS,1,35.37,-106.14,8|
+placeholder,CHIMAYO,1,35.99,-105.92,8|
+placeholder,THOMAS,2,39.86,-107.87,8|
+placeholder,CONTNENTAL DV,2,35.41,-108.44,8|
+placeholder,ELEPHANT BUTTE,1,33.12,-107.25,8|
+placeholder,EL PRADO,1,36.43,-105.65,8|
+placeholder,EL LLANO,1,36.0,-106.06,8|
+placeholder,GALLINA,1,36.23,-106.85,8|
+placeholder,WILLIAMS ACRES,1,35.52,-108.73,8|
+placeholder,DEFIANCE,1,35.51,-108.84,8|
+placeholder,HOBBS,4,32.73,-103.16,8|
+placeholder,HOUSE,1,34.64,-103.9,8|
+placeholder,RESERVE,1,33.7,-108.76,8|
+placeholder,SAN FRANCISCO PLAZA,1,33.7,-108.76,8|
+placeholder,PENDARIES,1,35.83,-105.42,8|
+placeholder,SANTA CRUZ,1,35.98,-106.01,8|
+placeholder,JACONA,1,35.67,-105.95,8|
+placeholder,NEW MEXICO TAX REV DEPT,1,35.67,-105.95,8|
+placeholder,LAMY,1,35.48,-105.87,8|
+placeholder,KEWA,1,35.51,-106.36,8|
+placeholder,ABBOTT,1,36.36,-104.59,8|
+placeholder,TERERRO,1,35.74,-105.67,8|
+placeholder,RACHEL,1,37.27,-115.2,8|
+placeholder,CARLIN,2,40.62,-116.23,8|
+placeholder,SMOKE CREEK,1,40.86,-119.32,8|
+placeholder,HENDERSON,13,36.31,-114.24,8|
+placeholder,MINDEN,1,39.01,-119.75,8|
+placeholder,PANACA,1,37.68,-114.29,8|
+placeholder,SEARCHLIGHT,2,35.37,-114.88,8|
+placeholder,SPARKS,7,39.58,-119.68,8|
+placeholder,TUSCARORA,1,41.45,-116.27,8|
+placeholder,PEQUOP,1,41.35,-114.8,8|
+placeholder,ZEPHYR POINT,1,38.99,-119.92,8|
+placeholder,BAYVIEW,1,47.97,-116.56,8|
+placeholder,CRAIGMONT,1,46.23,-116.48,8|
+placeholder,NEZPERCE,1,46.28,-116.23,8|
+placeholder,ONAWAY,1,46.96,-116.91,8|
+placeholder,SANDPOINT,1,48.34,-116.45,8|
+placeholder,BRIGHTON,5,40.07,-106.2,8|
+placeholder,FOCUS ON THE FAMILY,1,38.86,-104.76,8|
+placeholder,NORTHGLENN,5,39.76,-104.87,8|
+placeholder,U S WEST COMMUNICATIONS,1,39.76,-104.87,8|
+placeholder,FEDERAL BLDG/US COURTHOUSE,1,39.76,-104.87,8|
+placeholder,DINOSAUR,2,40.24,-109.0,8|
+placeholder,EADS,1,38.48,-102.77,8|
+placeholder,ECKERT,1,38.84,-107.95,8|
+placeholder,GREENWOOD VILLAGE,6,39.63,-104.99,8|
+placeholder,ROCKY MOUNTAIN NATIONAL PARK,1,40.37,-105.52,8|
+placeholder,FT COLLINS,7,40.55,-105.06,8|
+placeholder,SEVERANCE,5,40.53,-104.85,8|
+placeholder,UTE PASS,1,38.93,-105.02,8|
+placeholder,HARTMAN,2,38.08,-102.16,8|
+placeholder,HOT SLPHR SPR,1,40.07,-106.09,8|
+placeholder,IDLEDALE,1,39.67,-105.23,8|
+placeholder,KEENESBURG,1,40.1,-104.51,8|
+placeholder,LA SALLE,1,40.34,-104.7,8|
+placeholder,FIRESTONE,2,40.14,-105.02,8|
+placeholder,ALPINE VILLAGE,1,38.73,-106.08,8|
+placeholder,PALMER LAKE,1,39.11,-104.9,8|
+placeholder,PINECLIFFE,1,39.93,-105.43,8|
+placeholder,PITKIN,1,38.6,-106.51,8|
+placeholder,BLENDE,1,38.27,-104.62,8|
+placeholder,COLORADO CITY,2,37.45,-108.91,8|
+placeholder,RICO,1,37.64,-108.06,8|
+placeholder,WELLSVILLE,2,40.08,-108.97,8|
+placeholder,SNYDER,1,40.32,-103.58,8|
+placeholder,BEAR MINE,1,38.92,-107.43,8|
+placeholder,STONEHAM,1,40.63,-103.65,8|
+placeholder,TRINCHERA,1,37.05,-104.03,8|
+placeholder,JANSEN,1,37.16,-104.5,8|
+placeholder,US AIR FORCE,1,38.99,-104.85,8|
+placeholder,WATKINS,1,39.75,-104.6,8|
+placeholder,EAST WESTON,1,37.13,-105.01,8|
+placeholder,WRAY,1,40.07,-102.22,8|
+placeholder,ALPINE,5,39.96,-111.05,8|
+placeholder,ALLENDALE,1,42.83,-106.32,8|
+placeholder,CHEYENNE,9,41.14,-104.8,8|
+placeholder,CARLILE,1,44.26,-104.95,8|
+placeholder,RANCHESTER,2,44.8,-107.23,8|
+placeholder,ROCK SPRINGS,4,39.75,-109.84,8|
+placeholder,STORY,2,44.62,-106.95,8|
+placeholder,SUNDANCE,2,42.36,-107.97,8|
+placeholder,UVA,1,42.05,-104.95,8|
+placeholder,ABERDEEN,1,43.09,-112.84,8|
+placeholder,ATLANTA,2,43.67,-115.53,8|
+placeholder,BURLEY,1,42.39,-113.78,8|
+placeholder,MULDOON,1,43.29,-113.64,8|
+placeholder,LOWMAN,1,44.14,-115.32,8|
+placeholder,INDIAN COVE,1,42.9,-115.56,8|
+placeholder,MACKS INN,1,44.49,-111.33,8|
+placeholder,LARDO,1,44.88,-115.77,8|
+placeholder,MELBA,1,43.36,-116.55,8|
+placeholder,FEATHERVILLE,1,43.36,-115.52,8|
+placeholder,CLEMENTSVILLE,1,43.86,-111.42,8|
+placeholder,TWIN GROVES,1,43.98,-111.79,8|
+placeholder,REDFISH LAKE,1,44.26,-114.97,8|
+placeholder,SUN VALLEY,5,40.29,-115.64,8|
+placeholder,SWAN VALLEY,1,43.4,-111.31,8|
+placeholder,LAKE POWELL,1,37.57,-110.32,8|
+placeholder,UPALCO,1,40.33,-110.2,8|
+placeholder,BOUNTIFUL,3,39.67,-109.88,8|
+placeholder,FLOWELL,1,39.01,-112.27,8|
+placeholder,FOUNTAIN GREEN,1,39.64,-111.61,8|
+placeholder,SKULL VALLEY,2,37.62,-112.77,8|
+placeholder,MADSEN,1,41.64,-112.09,8|
+placeholder,MEADOWVILLE,1,41.81,-111.37,8|
+placeholder,CASTLETON,1,38.45,-109.6,8|
+placeholder,MORGAN,2,39.14,-108.81,8|
+placeholder,MOUNTAIN GREEN,1,41.01,-111.67,8|
+placeholder,SUMMIT PARK,1,40.71,-111.55,8|
+placeholder,ELK RIDGE,1,40.01,-111.73,8|
+placeholder,SPRING LAKE,1,40.01,-111.73,8|
+placeholder,GLENWOOD,4,37.79,-108.88,8|
+placeholder,BALLARD,1,40.28,-110.0,8|
+placeholder,SOUTH SALT LAKE,7,40.69,-111.89,8|
+placeholder,PALMYRA,1,40.02,-111.55,8|
+placeholder,MIDDLETON,2,40.46,-115.09,8|
+placeholder,DAMMERON VLY,1,37.26,-113.69,8|
+placeholder,TEASDALE,1,38.23,-111.47,8|
+placeholder,BUCKEYE,3,33.29,-109.49,8|
+placeholder,GRAY MOUNTAIN,1,35.67,-111.45,8|
+placeholder,ARIZONA CITY,2,32.73,-111.68,8|
+placeholder,CHANDLER,8,33.27,-111.85,8|
+placeholder,CORNVILLE,1,34.73,-111.91,8|
+placeholder,PARKS,1,35.22,-111.89,8|
+placeholder,FORT APACHE,1,34.05,-109.88,8|
+placeholder,FORT DEFIANCE,1,35.77,-109.11,8|
+placeholder,MOCCASIN,1,36.74,-112.11,8|
+placeholder,KIN,1,35.67,-109.65,8|
+placeholder,GBAFAF,1,33.53,-112.38,8|
+placeholder,QUERINO,1,35.36,-109.24,8|
+placeholder,WHETSTONE,1,31.73,-110.31,8|
+placeholder,SAND SPRINGS,1,35.91,-110.53,8|
+placeholder,LK HAVASU CTY,4,34.51,-114.29,8|
+placeholder,NOGALES,4,31.43,-110.93,8|
+placeholder,OATMAN,1,35.01,-114.44,8|
+placeholder,GRAND CANYON CAVERNS,1,35.64,-113.61,8|
+placeholder,PINON,4,35.79,-107.56,8|
+placeholder,PRESCOTT VALLEY,3,34.65,-112.3,8|
+placeholder,SHONTO,1,36.72,-110.62,8|
+placeholder,YOUNGTOWN,1,33.58,-112.3,8|
+placeholder,CANONES,1,36.18,-106.43,8|
+placeholder,LOS PADILLAS,1,35.11,-106.62,8|
+placeholder,BAYARD,1,32.75,-108.13,8|
+placeholder,BUDAGHERS,1,35.38,-106.47,8|
+placeholder,SAN FELIPE PB,1,35.38,-106.47,8|
+placeholder,CARLSBAD CAVERNS NATIONAL PA,1,32.4,-104.23,8|
+placeholder,CEBOLLA,1,36.53,-106.48,8|
+placeholder,TIMBERON,1,32.63,-105.69,8|
+placeholder,SOMBRILLO,1,36.0,-106.06,8|
+placeholder,FORT STANTON,1,33.49,-105.52,8|
+placeholder,FT SUMNER,1,34.47,-104.23,8|
+placeholder,GLADSTONE,1,36.3,-103.97,8|
+placeholder,GLENCOE,2,37.81,-108.44,8|
+placeholder,GRADY,1,34.82,-103.31,8|
+placeholder,SOFIA,1,36.59,-103.61,8|
+placeholder,RODEY,1,32.66,-107.15,8|
+placeholder,JEMEZ,1,35.61,-106.72,8|
+placeholder,CANONCITO,1,35.03,-107.39,8|
+placeholder,LA JARA,3,36.51,-106.63,8|
+placeholder,LA LUZ,1,32.97,-105.93,8|
+placeholder,SAPELLO,1,35.77,-105.25,8|
+placeholder,WHITE ROCK,1,35.89,-106.28,8|
+placeholder,MESILLA,1,32.27,-106.8,8|
+placeholder,MILLS,3,40.58,-105.65,8|
+placeholder,OMEGA,1,34.31,-108.79,8|
+placeholder,LOWER SAN FRANCISCO PLAZA,1,33.7,-108.76,8|
+placeholder,GARRISON,2,36.52,-108.53,8|
+placeholder,SOUTH SAN YSIDRO,1,36.03,-106.09,8|
+placeholder,SAN JUAN PBLO,1,36.05,-106.07,8|
+placeholder,PUEBLITO,1,36.05,-106.07,8|
+placeholder,SANTA ROSA,1,34.94,-104.67,8|
+placeholder,NASCHITTI,1,35.85,-108.75,8|
+placeholder,GUAGOLOTES,1,35.26,-105.36,8|
+placeholder,DUSTY,1,33.34,-107.51,8|
+placeholder,CRYSTAL SPRINGS,2,39.68,-113.71,8|
+placeholder,AMARGOSA VLY,1,36.53,-116.47,8|
+placeholder,QUINN RIVER CROSSING,1,41.75,-118.66,8|
+placeholder,S W GAS CO,1,36.12,-115.21,8|
+placeholder,OROVADA,1,41.63,-118.0,8|
+placeholder,VALLEY OF FIRE,1,36.39,-114.37,8|
+placeholder,ROUND MOUNTAIN,1,38.79,-117.11,8|
+placeholder,PALM GARDENS,1,35.24,-114.87,8|
+placeholder,WINNEMUCCA,2,41.04,-117.88,8|
+placeholder,LAKE VILLAGE,1,38.99,-119.92,8|
+placeholder,WITTELL,1,38.99,-119.92,8|
+placeholder,AHSAHKA,1,46.52,-116.3,8|
+placeholder,CATALDO,1,47.57,-116.47,8|
+placeholder,GARWOOD,1,47.78,-116.71,8|
+placeholder,SILVERTON,2,42.66,-111.8,8|
+placeholder,BLUE RIVER,1,39.5,-106.04,8|
+placeholder,CAMPO,1,37.1,-102.57,8|
+placeholder,PARKDALE,1,38.44,-105.23,8|
+placeholder,MARBLE,1,39.39,-107.21,8|
+placeholder,CHEYENNE MOUNTAIN AFB,1,38.86,-104.76,8|
+placeholder,WHEAT RIDGE,6,39.77,-104.98,8|
+placeholder,FORT LOGAN,1,39.76,-104.87,8|
+placeholder,UNIV OF COLORADO MED CTR,1,39.76,-104.87,8|
+placeholder,DOLORES,1,37.47,-108.49,8|
+placeholder,BRANDON,2,38.47,-102.53,8|
+placeholder,ENGLEWOOD,8,39.65,-104.97,8|
+placeholder,JEFFERSON,1,39.38,-105.8,8|
+placeholder,BREWSTER,1,38.38,-105.11,8|
+placeholder,FRANKTOWN,1,39.38,-104.75,8|
+placeholder,CARDIFF,1,39.54,-107.33,8|
+placeholder,GRANBY,1,40.08,-105.93,8|
+placeholder,HAMILTON,1,40.37,-107.6,8|
+placeholder,HAYDEN,5,38.03,-109.74,8|
+placeholder,HESPERUS,1,37.28,-108.03,8|
+placeholder,INDIAN AGENCY,1,37.11,-107.63,8|
+placeholder,KIRK,1,39.62,-102.6,8|
+placeholder,LA JUNTA,2,37.09,-104.75,8|
+placeholder,KORNMAN,1,38.08,-102.61,8|
+placeholder,LIMON CORRECTIONAL FAC,1,39.26,-103.68,8|
+placeholder,HGHLNDS RANCH,4,39.56,-104.99,8|
+placeholder,BROWNS PARK,1,40.52,-108.08,8|
+placeholder,MONUMENT,2,35.84,-104.06,8|
+placeholder,NORWOOD,1,38.13,-108.29,8|
+placeholder,ORDWAY,1,38.22,-103.75,8|
+placeholder,PADRONI,1,40.77,-103.17,8|
+placeholder,EAST ORCHARD MESA,1,39.1,-108.35,8|
+placeholder,GRAND VALLEY,1,39.44,-108.05,8|
+placeholder,SALIDA,3,38.53,-106.21,8|
+placeholder,RED FEATHER LAKES,2,40.77,-105.41,8|
+placeholder,SOMERSET,1,38.92,-107.43,8|
+placeholder,WETMORE,1,38.23,-105.08,8|
+placeholder,AROYA,1,38.82,-103.0,8|
+placeholder,BONDURANT,1,43.2,-110.41,8|
+placeholder,DIAMONDVILLE,1,41.77,-110.53,8|
+placeholder,FOXPARK,2,41.31,-105.58,8|
+placeholder,UPTON,2,42.49,-107.97,8|
+placeholder,WHEATLAND,1,42.05,-104.95,8|
+placeholder,ARCO,1,43.65,-113.28,8|
+placeholder,BANCROFT,1,42.79,-111.91,8|
+placeholder,BROADFORD,1,43.39,-114.24,8|
+placeholder,LIDY HOT SPRINGS,1,44.22,-112.37,8|
+placeholder,CORRAL,1,43.35,-114.98,8|
+placeholder,CURRY,1,42.56,-114.61,8|
+placeholder,BEACHS CORNER,1,43.5,-111.89,8|
+placeholder,MOUNTAIN HOME,3,41.69,-110.5,8|
+placeholder,PARIS,1,42.22,-111.43,8|
+placeholder,WEST MAGIC,1,43.11,-114.4,8|
+placeholder,ANNABELLA,1,38.71,-112.06,8|
+placeholder,VAL VERDA,1,40.88,-111.82,8|
+placeholder,BRIGHAM,1,41.51,-112.04,8|
+placeholder,CORINNE,1,41.46,-112.47,8|
+placeholder,FRUITLAND,3,40.28,-112.09,8|
+placeholder,ELBERTA,1,39.97,-111.98,8|
+placeholder,INDEPENDENCE,1,40.43,-111.19,8|
+placeholder,HELPER,1,39.67,-111.01,8|
+placeholder,STANDARDVILLE,1,39.67,-111.01,8|
+placeholder,JENSEN,1,40.47,-109.26,8|
+placeholder,ANGLE,1,38.09,-112.0,8|
+placeholder,TUHAYE,1,40.62,-111.15,8|
+placeholder,GREEN LAKE,1,40.94,-109.79,8|
+placeholder,MORONI,1,39.54,-111.61,8|
+placeholder,BERYL JUNCTION,1,37.87,-113.66,8|
+placeholder,PLAIN CITY,1,41.24,-112.13,8|
+placeholder,BUNKER,2,40.3,-111.72,8|
+placeholder,SNYDERVILLE,1,40.71,-111.55,8|
+placeholder,KIMBALL JUNCTION,1,40.71,-111.55,8|
+placeholder,MILLCREEK,6,40.67,-111.83,8|
+placeholder,GUNLOCK,1,37.24,-113.79,8|
+placeholder,CANNONVILLE,1,37.57,-112.08,8|
+placeholder,WEST VALLEY CITY,5,40.67,-112.0,8|
+placeholder,FORT MOHAVE,2,35.0,-114.57,8|
+placeholder,CLAYPOOL,1,33.41,-110.83,8|
+placeholder,MORMON LAKE,1,34.93,-111.47,8|
+placeholder,FREDONIA,2,36.52,-112.09,8|
+placeholder,WOODSPRINGS,1,35.67,-109.65,8|
+placeholder,GILBERT,7,33.3,-111.75,8|
+placeholder,NICKSVILLE,1,31.44,-110.23,8|
+placeholder,KEARNY,2,33.09,-110.97,8|
+placeholder,SAN TAN VLY,3,33.16,-111.57,8|
+placeholder,SAFFORD,2,32.73,-109.68,8|
+placeholder,CROSS CANYON,1,35.64,-109.26,8|
+placeholder,SAN SIMON,1,32.0,-109.21,8|
+placeholder,TOPOCK,1,34.72,-114.44,8|
+placeholder,GOLDEN SHORES,1,34.72,-114.44,8|
+placeholder,CORONADO,1,32.21,-110.88,8|
+placeholder,CATALINA,2,32.38,-110.94,8|
+placeholder,YUMA,6,33.93,-112.59,8|
+placeholder,LOS RANCHOS DE ALBUQUERQUE,2,35.11,-106.62,8|
+placeholder,LOS LUCEROS,1,36.08,-106.05,8|
+placeholder,PHILMONT,1,36.5,-104.91,8|
+placeholder,CLOVIS,3,34.4,-103.24,8|
+placeholder,MESA POLEO,1,36.16,-106.61,8|
+placeholder,EAGLE NEST,2,36.47,-105.27,8|
+placeholder,ELIDA,2,33.89,-103.71,8|
+placeholder,DES MONTES,1,36.43,-105.65,8|
+placeholder,FAIRACRES,1,32.31,-107.06,8|
+placeholder,FORT WINGATE,1,35.46,-108.54,8|
+placeholder,GALLUP,8,35.54,-108.73,8|
+placeholder,HI ROLLS MT PARK,1,32.97,-105.79,8|
+placeholder,HOPE,2,40.53,-110.48,8|
+placeholder,JEMEZ PUEBLO,1,35.61,-106.72,8|
+placeholder,LA PLATA,1,36.92,-108.19,8|
+placeholder,LOS ALAMOS,2,35.89,-106.28,8|
+placeholder,RADIUM SPRINGS,1,32.5,-106.92,8|
+placeholder,TALPA,1,36.36,-105.6,8|
+placeholder,APACHE CREEK,1,33.7,-108.76,8|
+placeholder,SAN FIDEL,1,35.08,-107.59,8|
+placeholder,PONDEROSA,1,34.98,-106.3,8|
+placeholder,SERAFINA,1,35.48,-105.4,8|
+placeholder,FT BAYARD,1,32.79,-108.14,8|
+placeholder,VALLE ESCONDIDO,1,36.38,-105.57,8|
+placeholder,DIKE,1,41.75,-118.66,8|
+placeholder,CARROLL STATION,1,39.5,-118.29,8|
+placeholder,MT CHARLESTON,1,36.16,-115.43,8|
+placeholder,LAUGHLIN,2,35.12,-114.66,8|
+placeholder,PATRICK,1,39.53,-119.41,8|
+placeholder,COBRE,1,41.35,-114.8,8|
+placeholder,MARLA BAY,1,38.99,-119.92,8|
+placeholder,ENAVILLE,1,47.59,-116.24,8|
+placeholder,VIOLA,1,46.86,-116.97,8|
+placeholder,ARICKAREE,1,39.75,-103.22,8|
+placeholder,MOGOTE,1,37.07,-106.01,8|
+placeholder,GEM VILLAGE,1,37.23,-107.59,8|
+placeholder,CHEYENNE WLS,1,38.81,-102.35,8|
+placeholder,AQUA RAMON,1,37.67,-106.35,8|
+placeholder,AFFILIATED BANKS SERVICE CO,1,39.76,-104.87,8|
+placeholder,AF ACCTG & FINANCE CTR,1,39.76,-104.87,8|
+placeholder,CHERRY HL VLG,4,39.63,-104.99,8|
+placeholder,TELEDYNE WATER PIK,1,40.55,-105.06,8|
+placeholder,GRAND JUNCTION,7,39.07,-108.57,8|
+placeholder,IDAHO SPRINGS,1,39.74,-105.51,8|
+placeholder,OXFORD,2,39.64,-109.83,8|
+placeholder,CUCHARA,1,37.51,-105.0,8|
+placeholder,BOWIE,2,35.57,-108.55,8|
+placeholder,BATTLEMENT MESA,2,39.44,-108.03,8|
+placeholder,PARLIN,2,38.52,-106.65,8|
+placeholder,PLATTEVILLE,1,40.21,-104.82,8|
+placeholder,PUEBLO DEP AC,1,38.27,-104.62,8|
+placeholder,TOWNER,1,38.46,-102.29,8|
+placeholder,STRATTON,1,39.3,-102.6,8|
+placeholder,GOLDFIELD,2,38.12,-111.33,8|
+placeholder,BURLINGTON,2,41.87,-105.35,8|
+placeholder,FORT BRIDGER,1,41.32,-110.38,8|
+placeholder,GILLETTE,5,44.24,-105.47,8|
+placeholder,LAGRANGE,1,41.62,-104.34,8|
+placeholder,ATLANTIC CITY,1,42.83,-108.72,8|
+placeholder,MOUNTAIN VIEW,1,41.27,-110.33,8|
+placeholder,PAVILLION,1,43.24,-108.69,8|
+placeholder,POWDER RIVER,1,43.03,-106.98,8|
+placeholder,WALCOTT,1,41.81,-106.87,8|
+placeholder,RELIANCE,1,41.67,-109.19,8|
+placeholder,MORTON,1,43.03,-108.41,8|
+placeholder,SHELL,1,44.53,-107.78,8|
+placeholder,PRAIRIE CTR,1,42.06,-104.18,8|
+placeholder,GANNETT,1,43.39,-114.24,8|
+placeholder,SMALL,1,44.22,-112.37,8|
+placeholder,ROCK CREEK,1,42.45,-114.26,8|
+placeholder,IDAHO CITY,1,43.89,-115.76,8|
+placeholder,CENTERVILLE,3,41.19,-115.75,8|
+placeholder,KETCHUM,1,43.77,-114.62,8|
+placeholder,LEADORE,1,44.49,-113.36,8|
+placeholder,MURTAUGH,1,42.41,-114.12,8|
+placeholder,WOODVILLE,1,43.34,-112.07,8|
+placeholder,ELK HORN,1,43.67,-114.33,8|
+placeholder,DRAPER,1,40.49,-111.84,8|
+placeholder,WHEELON,1,41.79,-112.06,8|
+placeholder,GREEN RIVER,5,39.93,-109.77,8|
+placeholder,FAYETTE,1,39.29,-111.8,8|
+placeholder,HEBER CITY,1,40.43,-111.19,8|
+placeholder,CORNISH,1,41.96,-112.0,8|
+placeholder,PLEASANT GREEN,1,40.7,-112.08,8|
+placeholder,PETERSBORO,1,41.71,-111.98,8|
+placeholder,CUSHING,1,40.6,-111.88,8|
+placeholder,NEPHI,1,39.68,-111.83,8|
+placeholder,MRIOTT SLTRVL,2,41.23,-112.05,8|
+placeholder,MSC,2,41.23,-112.05,8|
+placeholder,VINEYARD,2,40.3,-111.72,8|
+placeholder,IOKA,1,40.28,-110.0,8|
+placeholder,WOODLAND HLS,1,40.02,-111.64,8|
+placeholder,FORT DOUGLAS,1,40.76,-111.83,8|
+placeholder,TAYLORSVILLE,2,40.66,-111.93,8|
+placeholder,BENEFICIAL LIFE INSURANCE,1,40.76,-111.88,8|
+placeholder,COVER BRIDGE CANYON,1,40.02,-111.55,8|
+placeholder,REDINGTON,1,32.19,-110.38,8|
+placeholder,WIDE RUINS,1,35.14,-109.57,8|
+placeholder,BAY ACRES,1,31.54,-109.46,8|
+placeholder,GREASEWOOD,1,35.67,-109.65,8|
+placeholder,TEMPL BAR MAR,1,36.02,-114.29,8|
+placeholder,PEEPLES VALLEY,1,34.29,-112.66,8|
+placeholder,LUKEVILLE,1,32.0,-112.75,8|
+placeholder,MAYER,1,34.34,-112.03,8|
+placeholder,POSTON,1,34.0,-114.4,8|
+placeholder,PINEDALE,3,37.55,-109.62,8|
+placeholder,RILLITO,1,32.41,-111.16,8|
+placeholder,SALADO,1,34.56,-109.33,8|
+placeholder,SANDERS,2,41.12,-113.04,8|
+placeholder,FOUNTAIN HILLS,2,33.6,-111.72,8|
+placeholder,RED LAKE,1,36.91,-110.87,8|
+placeholder,MOENKOPI,1,36.09,-111.13,8|
+placeholder,I B M CORP,1,32.04,-110.67,8|
+placeholder,TUBAC,2,31.59,-111.05,8|
+placeholder,CORONA DE TUCSON,1,31.95,-110.69,8|
+placeholder,DUDLEYVILLE,2,32.91,-110.69,8|
+placeholder,DILKON,1,35.1,-110.64,8|
+placeholder,YUMA PROVING GROUND,1,32.72,-114.51,8|
+placeholder,ROSEBUD,1,35.91,-103.15,8|
+placeholder,ANTHONY,5,34.39,-107.6,8|
+placeholder,ARTESIA,2,32.84,-104.43,8|
+placeholder,OSCURO,1,33.64,-105.88,8|
+placeholder,TRUCHAS,1,36.04,-105.81,8|
+placeholder,DEXTER,1,33.19,-104.36,8|
+placeholder,BISTI,1,36.75,-108.18,8|
+placeholder,GARFIELD,1,32.75,-107.26,8|
+placeholder,GRENVILLE,1,36.59,-103.61,8|
+placeholder,HIGH ROLLS,1,32.97,-105.79,8|
+placeholder,LA MESA,1,32.12,-106.7,8|
+placeholder,VADO,2,32.13,-106.67,8|
+placeholder,MIMBRES,1,32.85,-107.97,8|
+placeholder,LOWER LAPOSADA,1,35.57,-105.67,8|
+placeholder,PERALTA,2,34.84,-106.69,8|
+placeholder,RADIUM SPRGS,1,32.5,-106.92,8|
+placeholder,ROSWELL,4,35.97,-107.62,8|
+placeholder,ILFELD,1,35.48,-105.4,8|
+placeholder,SAN JON,2,35.11,-103.31,8|
+placeholder,CHUPADERO,1,35.67,-105.95,8|
+placeholder,TESUQUE PUEBLO,1,35.67,-105.95,8|
+placeholder,THOREAU,1,35.4,-108.22,8|
+placeholder,TUCUMCARI,2,35.25,-103.85,8|
+placeholder,PINE VIEW,1,36.19,-105.67,8|
+placeholder,LAS NUTRIAS,1,34.51,-106.76,8|
+placeholder,VILLANUEVA,1,35.26,-105.36,8|
+placeholder,LAMOILLE,1,40.76,-115.41,8|
+placeholder,HAZEN,1,39.66,-119.06,8|
+placeholder,WALKER LAKE,1,38.65,-118.83,8|
+placeholder,APACHE,1,40.59,-118.06,8|
+placeholder,TUNGSTEN,1,40.59,-118.06,8|
+placeholder,RABBIT HOLE,1,40.32,-118.2,8|
+placeholder,COYOTE SPGS,2,36.54,-114.44,8|
+placeholder,PINEWILD,1,38.99,-119.92,8|
+placeholder,REUBENS,1,46.32,-116.51,8|
+placeholder,SPALDING,1,46.32,-116.78,8|
+placeholder,UNIVERSITY OF IDAHO,1,46.72,-116.99,8|
+placeholder,NORDMAN,1,48.67,-116.88,8|
+placeholder,PORTHILL,1,48.95,-116.62,8|
+placeholder,ST MARIES,1,47.2,-116.55,8|
+placeholder,STITES,1,46.08,-115.97,8|
+placeholder,IDAHO POWER,1,43.61,-116.2,8|
+placeholder,FIRST INTERSTATE BANK,1,43.61,-116.2,8|
+placeholder,ELOY,2,32.68,-111.58,8|
+placeholder,AMHERST,1,40.68,-102.17,8|
+placeholder,ARBOLES,1,37.02,-107.4,8|
+placeholder,BUCKLEY AIR FORCE BASE,1,39.69,-104.81,8|
+placeholder,BAILEY,1,39.4,-105.47,8|
+placeholder,CHIMNEY ROCK,3,37.23,-107.32,8|
+placeholder,BROOMFIELD,5,39.91,-105.01,8|
+placeholder,COLLBRAN,1,39.23,-107.95,8|
+placeholder,CSOC,1,38.86,-104.76,8|
+placeholder,CRESTED BUTTE,2,38.87,-106.98,8|
+placeholder,EAST LAKE,1,39.76,-104.87,8|
+placeholder,SMALL BUSINESS ADM,1,39.76,-104.87,8|
+placeholder,COLORADO DEPT OF REVENUE,1,39.76,-104.87,8|
+placeholder,SILVERTHORNE,2,39.65,-106.08,8|
+placeholder,GLADE PARK,1,39.0,-108.73,8|
+placeholder,HOLLY,2,38.08,-102.16,8|
+placeholder,HARTSEL,1,39.02,-105.8,8|
+placeholder,HEREFORD,2,36.2,-107.27,8|
+placeholder,IGNACIO,1,37.11,-107.63,8|
+placeholder,MANCOS,1,37.34,-108.29,8|
+placeholder,MAYBELL,1,40.52,-108.08,8|
+placeholder,NUCLA,1,38.26,-108.55,8|
+placeholder,BESSEMER,1,38.27,-104.62,8|
+placeholder,BAXTER,1,38.27,-104.62,8|
+placeholder,RIO BLANCO,1,39.53,-107.77,8|
+placeholder,SAGUACHE,1,38.08,-106.14,8|
+placeholder,SEDGWICK,1,40.93,-102.52,8|
+placeholder,FARISITA,2,37.7,-104.97,8|
+placeholder,TURNERVILLE,2,42.81,-110.93,8|
+placeholder,NEW HAVEN,1,44.68,-104.6,8|
+placeholder,UNIVERSITY OF WYOMING,1,41.31,-105.58,8|
+placeholder,LITTLE AMERICA,1,41.55,-109.86,8|
+placeholder,GAS HILLS,1,43.03,-108.41,8|
+placeholder,SHOSHONI,1,43.23,-108.1,8|
+placeholder,WAMSUTTER,1,41.66,-107.97,8|
+placeholder,AM FALLS,1,42.72,-112.99,8|
+placeholder,HIDDEN SPGS,1,43.64,-116.26,8|
+placeholder,IDAHO STATE TAX COMM,1,43.61,-116.21,8|
+placeholder,BOISE STATE UNIVERSITY,1,43.6,-116.2,8|
+placeholder,DONNELLY,1,44.67,-116.0,8|
+placeholder,KIMBALL,1,43.22,-111.99,8|
+placeholder,GREENLEAF,1,43.67,-116.83,8|
+placeholder,PIONEERVILLE,1,43.89,-115.76,8|
+placeholder,PEGRAM,1,42.28,-111.33,8|
+placeholder,IDAHO STATE UNIV,1,42.87,-112.46,8|
+placeholder,REXBURG,3,43.78,-111.72,8|
+placeholder,BURTON,1,43.78,-111.76,8|
+placeholder,SAINT ANTHONY,1,43.98,-111.79,8|
+placeholder,WILFORD,1,43.98,-111.79,8|
+placeholder,JAMESTOWN,3,39.6,-108.63,8|
+placeholder,ALTONAH,1,40.47,-110.32,8|
+placeholder,ENOCH,2,37.73,-113.2,8|
+placeholder,CLINTON,1,41.11,-112.05,8|
+placeholder,DELTA,2,39.02,-110.31,8|
+placeholder,TALMAGE,1,40.39,-110.43,8|
+placeholder,SCIPIO,1,39.18,-112.05,8|
+placeholder,FORT DUCHESNE,1,40.29,-109.8,8|
+placeholder,GLEN CANYON,1,37.27,-112.23,8|
+placeholder,BERYL,1,37.87,-113.66,8|
+placeholder,UVADA,1,37.87,-113.86,8|
+placeholder,PROVO,6,40.24,-111.65,8|
+placeholder,REDMOND,1,39.0,-111.88,8|
+placeholder,HOLLADAY CTWD,2,40.63,-111.77,8|
+placeholder,SOLITUDE,1,40.62,-111.71,8|
+placeholder,SHERWOOD PARK,2,40.56,-111.81,8|
+placeholder,SMITHFIELD,1,41.82,-111.87,8|
+placeholder,ALTA,2,42.16,-111.38,8|
+placeholder,CORTARO,1,32.38,-111.11,8|
+placeholder,PAUL SPUR,1,31.54,-109.46,8|
+placeholder,PALOMINAS,1,31.44,-110.23,8|
+placeholder,LUPTON,1,35.29,-109.07,8|
+placeholder,HUALAPAI,1,35.5,-113.88,8|
+placeholder,VALENTINE,1,35.39,-113.62,8|
+placeholder,DENNEBITO,1,35.91,-110.53,8|
+placeholder,CROWN KING,1,34.2,-112.34,8|
+placeholder,PINETOP,1,34.08,-109.9,8|
+placeholder,BLUE GAP,1,36.07,-109.98,8|
+placeholder,FOX CREEK,2,40.36,-108.62,8|
+placeholder,BLACKHAWK,2,39.77,-105.35,8|
+placeholder,BLANCA,1,37.43,-105.51,8|
+placeholder,SCHRIEVER AIR STA,1,38.86,-104.76,8|
+placeholder,CONIFER,1,39.52,-105.3,8|
+placeholder,GREENWOOD VLG,5,39.63,-104.99,8|
+placeholder,SANGRE DE CRISTO RANCHES,1,37.43,-105.43,8|
+placeholder,BARTON,1,38.06,-102.31,8|
+placeholder,BRISTOL,1,38.05,-102.12,8|
+placeholder,ROGERS MESA,1,38.8,-107.71,8|
+placeholder,BOYERO,1,39.13,-103.46,8|
+placeholder,KARVAL,1,38.73,-103.53,8|
+placeholder,ROBERTA,1,37.98,-103.54,8|
+placeholder,PAOLI,1,40.61,-102.47,8|
+placeholder,PLEASANT VIEW,3,40.04,-110.95,8|
+placeholder,PUEBLO ARMY DEPOT,1,38.27,-104.62,8|
+placeholder,RANGELY,1,40.08,-108.77,8|
+placeholder,SANFORD,1,37.25,-105.9,8|
+placeholder,WHITE PINE,1,38.4,-106.42,8|
+placeholder,SAWPIT,2,37.98,-107.98,8|
+placeholder,SEGUNDO,1,37.16,-104.5,8|
+placeholder,FARISTA,1,37.62,-104.77,8|
+placeholder,TERCIO,1,37.13,-105.01,8|
+placeholder,BUFFALO,2,44.34,-106.66,8|
+placeholder,KEMMERER,1,41.78,-110.55,8|
+placeholder,LA BARGE,1,42.26,-110.19,8|
+placeholder,LUSK,1,42.76,-104.45,8|
+placeholder,MEDICINE BOW,1,41.89,-106.2,8|
+placeholder,JENNY LAKE,1,43.65,-110.72,8|
+placeholder,PINE BLUFFS,1,41.18,-104.06,8|
+placeholder,CLARK,2,42.75,-107.83,8|
+placeholder,WILLWOOD,1,44.79,-108.73,8|
+placeholder,JEFFREY CITY,1,42.48,-107.84,8|
+placeholder,MCFADDEN,1,41.73,-105.97,8|
+placeholder,ST STEPHENS,1,42.95,-108.19,8|
+placeholder,SLATER,2,41.52,-106.16,8|
+placeholder,PELLA,1,42.39,-113.78,8|
+placeholder,CASCADE,2,41.75,-110.27,8|
+placeholder,DAYTON,3,42.09,-112.9,8|
+placeholder,DECLO,1,42.46,-113.39,8|
+placeholder,COTTEREL,1,42.46,-113.39,8|
+placeholder,GARDENA,1,43.92,-116.17,8|
+placeholder,OSGOOD,1,43.5,-111.89,8|
+placeholder,AMMON,2,43.47,-111.89,8|
+placeholder,FALLS CITY,1,42.75,-114.36,8|
+placeholder,PARADISE HOT,1,43.36,-115.52,8|
+placeholder,APPLE VALLEY,2,40.47,-114.94,8|
+placeholder,BYU,2,42.02,-111.73,8|
+placeholder,MINIDOKA,2,42.73,-113.55,8|
+placeholder,EGIN,1,43.98,-111.79,8|
+placeholder,ST CHARLES,1,42.14,-111.47,8|
+placeholder,TETONIA,2,43.87,-111.16,8|
+placeholder,PROMONTORY,1,41.46,-112.47,8|
+placeholder,GREENDALE,1,40.91,-109.34,8|
+placeholder,EPHRAIM,1,39.35,-111.57,8|
+placeholder,TRIDELL,1,40.44,-109.84,8|
+placeholder,LAKESIDE,3,38.18,-109.24,8|
+placeholder,DUCK CRK VLG,1,37.4,-112.63,8|
+placeholder,LAWRENCE,1,39.41,-111.0,8|
+placeholder,KANOSH,1,38.81,-112.42,8|
+placeholder,KAYSVILLE,1,41.02,-111.92,8|
+placeholder,EAGLE MTN,2,40.34,-111.99,8|
+placeholder,JOSEPH,1,38.62,-112.33,8|
+placeholder,MODENA,1,37.87,-113.86,8|
+placeholder,SLATERVILLE,1,41.24,-112.13,8|
+placeholder,WASHINGTON TERRACE,1,41.15,-111.98,8|
+placeholder,UTAH STATE TAX COMMISSION,1,40.77,-111.94,8|
+placeholder,GOLD HILL,2,40.07,-116.82,8|
+placeholder,GOLD CANYON,2,33.34,-111.41,8|
+placeholder,TORTILLA FLAT,3,33.46,-111.49,8|
+placeholder,ROUGH ROCK,1,36.23,-109.57,8|
+placeholder,CHLORIDE,2,34.37,-110.86,8|
+placeholder,HOUCK,2,35.33,-109.16,8|
+placeholder,BABY ROCK,1,36.64,-110.18,8|
+placeholder,RIO RICO,1,31.5,-111.06,8|
+placeholder,PEORIA,6,33.65,-112.24,8|
+placeholder,NEW RIVER,1,33.95,-112.07,8|
+placeholder,PIRTLEVILLE,1,31.35,-109.57,8|
+placeholder,LA VALLEY,1,37.12,-105.36,8|
+placeholder,CHANDLER HTS,4,33.23,-111.63,8|
+placeholder,CHANDLER HEIGHTS,4,33.23,-111.63,8|
+placeholder,FORT HUACHUCA,2,31.54,-110.35,8|
+placeholder,SNOWFLAKE,2,34.72,-110.03,8|
+placeholder,SOMERTON,1,32.53,-114.71,8|
+placeholder,ORO VALLEY,5,32.44,-110.98,8|
+placeholder,AMADO,2,31.63,-111.03,8|
+placeholder,SANTA RITA FOOTHILLS,1,31.95,-110.69,8|
+placeholder,WADDELL,1,33.55,-112.43,8|
+placeholder,FT GRANT,1,32.43,-109.88,8|
+placeholder,FORT GRANT,1,32.43,-109.88,8|
+placeholder,NAVAJO INDIAN RESERVATION,1,35.69,-108.98,8|
+placeholder,METROPOLITAN DETENTION CTR,1,35.08,-106.65,8|
+placeholder,ALAMEDA,2,35.11,-106.62,8|
+placeholder,GOLONDRINAS,1,35.91,-105.24,8|
+placeholder,CARLSBAD,2,32.4,-104.23,8|
+placeholder,BUEYEROS,1,36.45,-103.17,8|
+placeholder,JICARILLA APACHE INDIAN RESE,1,36.93,-106.99,8|
+placeholder,LAS PLACITAS,1,36.34,-106.18,8|
+placeholder,FLOYD,1,34.21,-103.54,8|
+placeholder,FARLEY,1,36.3,-103.97,8|
+placeholder,HAGERMAN,2,37.96,-109.61,8|
+placeholder,FIERRO,1,32.88,-108.08,8|
+placeholder,LOVING,1,32.28,-104.09,8|
+placeholder,LUNA,1,33.81,-108.95,8|
+placeholder,MAXWELL,1,36.54,-104.54,8|
+placeholder,NAGEEZI,2,36.2,-107.34,8|
+placeholder,LOS PACHECOS,1,35.57,-105.67,8|
+placeholder,POLVADERA,1,34.13,-106.85,8|
+placeholder,PORTALES,2,33.98,-103.22,8|
+placeholder,GONZALES RANCH,1,35.37,-105.44,8|
+placeholder,SACRAMENTO,1,32.79,-105.56,8|
+placeholder,SAN ANTONITO,1,35.16,-106.36,8|
+placeholder,NEW MEXICO STATE CAPITOL,1,35.67,-105.95,8|
+placeholder,ZIA PUEBLO,1,35.55,-106.77,8|
+placeholder,SPRINGER,2,36.36,-104.69,8|
+placeholder,PLEASANT HILL,1,34.38,-103.05,8|
+placeholder,TIJERAS,1,35.08,-106.37,8|
+placeholder,RAMON,1,34.43,-104.6,8|
+placeholder,RED HOUSE,1,40.93,-117.33,8|
+placeholder,INDIAN SPRINGS,2,36.54,-115.65,8|
+placeholder,CALICO BASIN,1,36.16,-115.43,8|
+placeholder,CALLVILLE BAY,1,36.16,-115.43,8|
+placeholder,MC DERMITT,1,41.87,-117.97,8|
+placeholder,MCDERMITT,1,41.87,-117.97,8|
+placeholder,MOAPA VALLEY,2,36.52,-114.41,8|
+placeholder,ECHO BAY,1,36.39,-114.37,8|
+placeholder,RANCHO HAVEN,1,39.76,-119.86,8|
+placeholder,PYRAMID,1,39.91,-119.68,8|
+placeholder,SOMERSETT,1,39.49,-119.9,8|
+placeholder,TONOPAH,2,35.96,-114.81,8|
+placeholder,VERDI,1,39.51,-119.99,8|
+placeholder,VIRGINIA CITY,1,39.3,-119.63,8|
+placeholder,WADSWORTH,1,39.69,-119.39,8|
+placeholder,GRASS VALLEY,1,41.12,-118.05,8|
+placeholder,MASON,1,38.87,-119.14,8|
+placeholder,ROSE LAKE,1,47.57,-116.47,8|
+placeholder,CULDESAC,2,46.34,-116.59,8|
+placeholder,COLBURN,1,48.39,-116.53,8|
+placeholder,SAINT MARIES,1,47.2,-116.55,8|
+placeholder,SMELTERVILLE,1,47.52,-116.18,8|
+placeholder,SAN MANUEL,1,32.62,-110.59,8|
+placeholder,TOREVA,1,35.81,-110.48,8|
+placeholder,COWLIC,1,32.0,-111.93,8|
+placeholder,DENNEHOTSO,1,36.8,-109.84,8|
+placeholder,WENDEN,1,34.06,-113.51,8|
+placeholder,RANCHO WEST,1,35.27,-106.66,8|
+placeholder,BUCKHORN,1,33.03,-108.7,8|
+placeholder,SEAMA,1,35.0,-107.41,8|
+placeholder,CAUSEY,2,33.82,-103.11,8|
+placeholder,COOLIDGE,3,33.8,-110.49,8|
+placeholder,CORDOVA,2,36.02,-105.84,8|
+placeholder,SAN PEDRO,3,36.77,-105.61,8|
+placeholder,CHILI,1,36.06,-106.11,8|
+placeholder,FARMINGTON,4,37.81,-109.1,8|
+placeholder,MANUELITO,1,35.52,-108.73,8|
+placeholder,FORT WINGATE ARMY DEPOT,1,35.52,-108.73,8|
+placeholder,MOUNT DORA,1,36.59,-103.61,8|
+placeholder,HACHITA,1,31.91,-108.32,8|
+placeholder,BENNETT,2,35.93,-103.8,8|
+placeholder,LAGUNA,1,35.03,-107.39,8|
+placeholder,MESCALERO APACHE INDIAN RESE,1,33.15,-105.79,8|
+placeholder,ENCINAL,1,35.04,-107.42,8|
+placeholder,PICURIS,1,36.17,-105.69,8|
+placeholder,ROSWELL INDUSTRIAL AIR CENTE,1,33.37,-104.52,8|
+placeholder,SANTO NINO,1,35.98,-106.01,8|
+placeholder,ARENAS VALLEY,2,32.89,-108.27,8|
+placeholder,WATERFLOW,1,36.81,-108.41,8|
+placeholder,LOWER NUTRIA,1,35.08,-108.76,8|
+placeholder,PESCADO,1,35.08,-108.76,8|
+placeholder,CARP,1,37.32,-114.53,8|
+placeholder,CARSON CITY MALL,1,39.14,-119.71,8|
+placeholder,GOLCONDA,1,40.93,-117.33,8|
+placeholder,MIDAS,1,40.93,-117.33,8|
+placeholder,HAWTHORNE,1,38.65,-118.83,8|
+placeholder,BABBITT,1,38.65,-118.83,8|
+placeholder,OLD NEVADA,2,36.09,-115.42,8|
+placeholder,UNIV NV LAS VEGAS,1,36.08,-115.14,8|
+placeholder,LOWER VALLEY,1,40.32,-118.2,8|
+placeholder,TRINITY,1,40.32,-118.2,8|
+placeholder,OWYHEE,1,41.91,-116.18,8|
+placeholder,CANNON INTERNATIONAL AIRPORT,1,39.91,-119.68,8|
+placeholder,COTTONWOOD CREEK,1,39.91,-119.68,8|
+placeholder,PARCEL RETURN RENO,1,39.52,-119.81,8|
+placeholder,PARADISE HILL,1,41.12,-118.05,8|
+placeholder,ROUND HILL,1,38.99,-119.92,8|
+placeholder,KELLOGG,1,47.57,-116.11,8|
+placeholder,KOOTENAI,1,48.31,-116.51,8|
+placeholder,HAUSER,1,47.78,-117.02,8|
+placeholder,HARPSTER,1,46.08,-115.97,8|
+placeholder,TENSED,1,47.12,-116.79,8|
+placeholder,WINCHESTER,1,46.21,-116.64,8|
+placeholder,EAST ALAMOSA,1,37.46,-105.87,8|
+placeholder,ALLENSPARK,1,40.2,-105.52,8|
+placeholder,BEDROCK,1,38.32,-108.88,8|
+placeholder,BLACK HAWK,1,39.8,-105.49,8|
+placeholder,FIRST VIEW,1,38.81,-102.35,8|
+placeholder,COMMERCE CITY,3,39.83,-104.86,8|
+placeholder,COPE,1,39.67,-102.85,8|
+placeholder,ARRIOLA,1,37.35,-108.57,8|
+placeholder,CREEDE,1,37.85,-106.92,8|
+placeholder,FEDERAL HEIGHTS,3,39.76,-104.87,8|
+placeholder,WESTERN AREA,1,39.76,-104.87,8|
+placeholder,EGNAR,1,37.92,-108.93,8|
+placeholder,ERIE,2,40.05,-104.99,8|
+placeholder,EVERGREEN,3,39.66,-105.3,8|
+placeholder,BOVINA,1,39.27,-103.49,8|
+placeholder,NO NAME,1,39.54,-107.33,8|
+placeholder,S UTE INDIAN,1,37.11,-107.63,8|
+placeholder,INDIAN HILLS,1,39.62,-105.23,8|
+placeholder,KITTREDGE,1,39.65,-105.3,8|
+placeholder,SHADY CAMP,1,38.08,-102.61,8|
+placeholder,COLUMBINE VALLEY,1,39.59,-105.01,8|
+placeholder,LONGMONT,4,40.17,-105.11,8|
+placeholder,LOVELAND,4,40.39,-105.03,8|
+placeholder,LYONS,1,40.22,-105.26,8|
+placeholder,CRYSTAL HILLS,1,38.85,-104.91,8|
+placeholder,MAXEYVILLE,1,37.57,-106.14,8|
+placeholder,PAONIA,1,38.86,-107.59,8|
+placeholder,HILLSIDE,1,38.27,-105.6,8|
+placeholder,SEDALIA,1,39.43,-104.97,8|
+placeholder,STEAMBOAT SPRINGS,3,40.47,-106.82,8|
+placeholder,TOWAOC,1,37.2,-108.72,8|
+placeholder,WEST VAIL,1,39.64,-106.39,8|
+placeholder,BONANZA CITY,1,38.25,-105.95,8|
+placeholder,WELDONA,1,40.35,-103.97,8|
+placeholder,FORT WASHAKIE,1,43.0,-108.92,8|
+placeholder,FRANNIE,1,44.97,-108.62,8|
+placeholder,GRANGER,2,41.15,-110.95,8|
+placeholder,HILLSDALE,1,41.21,-104.48,8|
+placeholder,LANDER,1,42.83,-108.72,8|
+placeholder,ETHETE,1,42.83,-108.72,8|
+placeholder,PINE HAVEN,1,44.26,-104.95,8|
+placeholder,OPAL,1,41.77,-110.32,8|
+placeholder,MELLON VALLEY,1,43.01,-114.94,8|
+placeholder,BEAR,1,44.89,-116.54,8|
+placeholder,PALISADES,1,43.33,-111.17,8|
+placeholder,NOUNAN,1,42.28,-111.33,8|
+placeholder,REYNOLDS,1,43.08,-116.52,8|
+placeholder,ARCHER,2,42.46,-108.28,8|
+placeholder,BONETA,1,40.43,-110.25,8|
+placeholder,NORTH CREEK,1,38.38,-112.66,8|
+placeholder,COPPERTON,1,40.59,-112.1,8|
+placeholder,NATURAL BRIDGES,2,38.01,-109.96,8|
+placeholder,WEST BOUNTIFUL,2,40.89,-111.88,8|
+placeholder,EDEN,5,38.4,-111.05,8|
+placeholder,EUREKA,2,39.89,-114.18,8|
+placeholder,BETHEL,1,39.06,-113.83,8|
+placeholder,ALTON,1,37.46,-112.5,8|
+placeholder,BURMESTER,1,40.67,-112.76,8|
+placeholder,HANKSVILLE,1,38.27,-110.75,8|
+placeholder,DANIEL,2,41.65,-110.63,8|
+placeholder,ABRAHAM,1,39.37,-112.73,8|
+placeholder,WEST KAYSVILLE,1,41.02,-111.92,8|
+placeholder,EAST LAYTON,1,41.08,-111.9,8|
+placeholder,MAYFIELD,2,41.32,-113.81,8|
+placeholder,MENDON,1,41.71,-111.98,8|
+placeholder,S JORDAN,1,40.55,-111.96,8|
+placeholder,MAPLETON,1,40.11,-111.48,8|
+placeholder,CONGRESS,1,34.21,-112.97,8|
+placeholder,LUKE AFB,2,33.53,-112.34,8|
+placeholder,GRAND CANYON,1,35.89,-112.27,8|
+placeholder,MADERA CANYON,1,31.84,-111.06,8|
+placeholder,HEBER,3,36.46,-110.85,8|
+placeholder,INDIAN WELLS,1,35.41,-110.08,8|
+placeholder,PEEPLES VLY,1,34.29,-112.66,8|
+placeholder,HAWLEY LAKE,1,34.06,-109.7,8|
+placeholder,MARBLE CANYON,1,36.74,-111.85,8|
+placeholder,SAN TAN VALLEY,3,33.16,-111.57,8|
+placeholder,SHONGOPOVI,1,35.81,-110.48,8|
+placeholder,CIBECUE,1,34.15,-110.51,8|
+placeholder,TACNA,1,32.68,-113.97,8|
+placeholder,TOLACON,1,36.89,-109.37,8|
+placeholder,KINSLEY RANCH,1,31.55,-111.03,8|
+placeholder,YARNELL,1,34.26,-112.78,8|
+placeholder,AMISTAD,1,35.91,-103.15,8|
+placeholder,UPPER ANTON CHICO,1,35.2,-105.14,8|
+placeholder,LOS CHAVEZ,1,34.65,-106.77,8|
+placeholder,SANTA ANA PUE,1,35.31,-106.55,8|
+placeholder,CIMARRON,2,37.44,-106.2,8|
+placeholder,CORONA,2,33.09,-108.14,8|
+placeholder,STANDING ROCK,1,35.68,-108.14,8|
+placeholder,EL RANCHO,1,36.0,-106.06,8|
+placeholder,LA MESILLA,1,36.0,-106.06,8|
+placeholder,OLD PICACHO,1,32.31,-107.06,8|
+placeholder,BEULAH,3,39.46,-104.77,8|
+placeholder,SCIENTIFIC LAB,1,35.89,-106.28,8|
+placeholder,LOS LUNAS,1,34.81,-106.73,8|
+placeholder,MAYHILL,1,32.88,-105.47,8|
+placeholder,MEDANALES,1,36.17,-106.18,8|
+placeholder,GALLINAS,1,35.65,-105.27,8|
+placeholder,PECOS NATIONAL MONUMENT,1,35.57,-105.67,8|
+placeholder,PLACITAS,1,35.32,-106.46,8|
+placeholder,LAMA,1,36.71,-105.59,8|
+placeholder,RAINSVILLE,1,35.97,-105.2,8|
+placeholder,BINGHAM,2,37.25,-109.48,8|
+placeholder,TATUM,2,33.32,-103.51,8|
+placeholder,TIRA AMARILLA,1,36.7,-106.54,8|
+placeholder,QWAY,1,34.93,-103.76,8|
+placeholder,CANOVA,1,36.15,-105.97,8|
+placeholder,BLACK ROCK,2,37.85,-109.96,8|
+placeholder,BATTLE MTN,1,40.47,-117.03,8|
+placeholder,BLUE DIAMOND,1,36.03,-115.41,8|
+placeholder,DUNPHY,1,40.52,-116.36,8|
+placeholder,PRESTON,2,40.81,-113.37,8|
+placeholder,COLD SPRING,1,39.5,-118.29,8|
+placeholder,TOPAZ LAKE,1,38.75,-119.61,8|
+placeholder,MCCARRAN AIRPORT,1,36.08,-115.14,8|
+placeholder,ISAFA,1,36.24,-114.96,8|
+placeholder,STEPTOE,1,39.49,-114.75,8|
+placeholder,MESQUITE,4,35.63,-112.22,8|
+placeholder,BLACK SPRINGS,1,39.76,-119.86,8|
+placeholder,SILVER KNOLLS,2,39.64,-119.84,8|
+placeholder,SUTCLIFFE,1,39.91,-119.68,8|
+placeholder,CALDER,1,47.31,-116.09,8|
+placeholder,GREER,2,40.24,-112.8,8|
+placeholder,PLUMMER,1,47.28,-116.88,8|
+placeholder,AGATE,1,39.47,-103.95,8|
+placeholder,LOS PINAS,1,37.07,-106.01,8|
+placeholder,SNOWMASS VLG,1,39.19,-106.93,8|
+placeholder,BASALT,2,41.34,-109.59,8|
+placeholder,BELLVUE,1,40.63,-105.17,8|
+placeholder,RIVERBEND,1,38.87,-106.98,8|
+placeholder,CROOK,1,40.85,-102.8,8|
+placeholder,FLORISSANT,1,38.95,-105.29,8|
+placeholder,HASTY,1,38.12,-102.97,8|
+placeholder,ILIFF,1,40.75,-103.06,8|
+placeholder,NINAVIEW,1,38.06,-103.22,8|
+placeholder,LIMON CRRCTNL,1,39.26,-103.68,8|
+placeholder,GRANTS RANCH,2,39.59,-105.01,8|
+placeholder,MANITOU SPRINGS,1,38.85,-104.91,8|
+placeholder,SARGENTS SCHOOL,1,37.57,-106.14,8|
+placeholder,WOODMOOR,1,39.07,-104.85,8|
+placeholder,OURAY,2,39.19,-108.75,8|
+placeholder,FALCON,1,39.03,-104.48,8|
+placeholder,POWDERHORN,1,38.27,-107.08,8|
+placeholder,WILDHORSE MESA,1,37.2,-105.42,8|
+placeholder,TRINIDAD,1,37.16,-104.5,8|
+placeholder,ELKTON,1,38.7,-105.14,8|
+placeholder,YELLOW JACKET,1,37.53,-108.72,8|
+placeholder,IRON MOUNTAIN,1,41.14,-104.79,8|
+placeholder,HULETT,1,44.68,-104.6,8|
+placeholder,JACKSON HOLE,2,43.47,-110.76,8|
+placeholder,JELM,3,41.22,-105.72,8|
+placeholder,LOST SPRINGS,1,42.76,-104.92,8|
+placeholder,LOVELL,1,44.83,-108.39,8|
+placeholder,OTTO,1,44.4,-108.27,8|
+placeholder,PARKMAN,1,44.96,-107.31,8|
+placeholder,STAR VLY RNCH,1,42.91,-111.0,8|
+placeholder,RED DESERT,1,41.66,-107.97,8|
+placeholder,LOWER PRESTO,1,43.22,-111.99,8|
+placeholder,STAR RANCH,1,43.89,-115.76,8|
+placeholder,COLTMAN,1,43.5,-111.89,8|
+placeholder,HILLVIEW,1,43.5,-111.89,8|
+placeholder,BOX CANYON,1,44.51,-111.35,8|
+placeholder,SAWTOOTH CITY,1,43.77,-114.62,8|
+placeholder,NORTH FORK,3,43.89,-114.75,8|
+placeholder,FORT HALL INDIAN RESERVATION,1,43.04,-112.53,8|
+placeholder,JACKSON,4,43.3,-111.49,8|
+placeholder,SALMON,1,45.0,-113.86,8|
+placeholder,JONATHAN,1,44.47,-116.91,8|
+placeholder,CLEARFIELD,3,41.11,-112.03,8|
+placeholder,RED CANYON,1,40.91,-109.34,8|
+placeholder,EMERY,1,38.9,-110.95,8|
+placeholder,FERRON,1,39.1,-111.16,8|
+placeholder,BOTTLE HOLLOW,1,40.29,-109.8,8|
+placeholder,WASHAKIE,1,41.89,-112.38,8|
+placeholder,AXTELL,1,39.08,-111.84,8|
+placeholder,DUCK CREEK VILLAGE,1,37.4,-112.63,8|
+placeholder,HONEYVILLE,1,41.64,-112.09,8|
+placeholder,NORTH LOGAN,1,41.85,-111.7,8|
+placeholder,MOUNT PLEASANT,1,39.55,-111.39,8|
+placeholder,MS CITY,2,41.23,-112.05,8|
+placeholder,SOUTH WEBER,2,41.16,-111.94,8|
+placeholder,NORTH OGDEN,2,41.28,-112.04,8|
+placeholder,PARK VALLEY,1,41.74,-113.44,8|
+placeholder,ROSETTE,1,41.74,-113.44,8|
+placeholder,HERRIMAN,2,40.47,-112.03,8|
+placeholder,ROY,4,40.2,-110.26,8|
+placeholder,HOLLADAY,3,40.65,-111.78,8|
+placeholder,UNIVERSITY MEDICAL CTR,1,40.76,-111.84,8|
+placeholder,ETNA,2,42.36,-112.42,8|
+placeholder,WENDOVER,2,40.86,-114.09,8|
+placeholder,WJRD,1,40.59,-112.03,8|
+placeholder,GOODYEAR,2,33.42,-112.38,8|
+placeholder,MESCAL,1,32.19,-110.38,8|
+placeholder,DEWEY,1,34.56,-112.12,8|
+placeholder,CIBOLA,1,33.32,-114.64,8|
+placeholder,KAYENTA,2,36.91,-111.91,8|
+placeholder,JEDDITO,1,35.76,-110.25,8|
+placeholder,GRASSHOPPER JUNCTION,1,35.24,-113.76,8|
+placeholder,SUNSITES,1,31.86,-109.33,8|
+placeholder,GROOM CREEK,1,34.49,-112.44,8|
+placeholder,HALLECK,2,40.98,-115.6,8|
+placeholder,SAINT JOHNS,1,34.56,-109.33,8|
+placeholder,RIO VERDE,1,33.73,-111.68,8|
+placeholder,PISINEMO,1,32.0,-111.93,8|
+placeholder,LITTLE TUCSON,1,32.0,-111.93,8|
+placeholder,WHITE MOUNTAIN LAKE,1,34.32,-110.07,8|
+placeholder,FRY,1,31.59,-110.17,8|
+placeholder,SUN CITY WEST,3,33.68,-112.37,8|
+placeholder,TURKEY CREEK,1,32.43,-109.88,8|
+placeholder,LOS RANCHOS DE ABQ,2,35.11,-106.62,8|
+placeholder,SANDIA BASE,2,35.11,-106.62,8|
+placeholder,FIVE POINTS,1,35.11,-106.62,8|
+placeholder,BOSQUE,1,34.47,-106.8,8|
+placeholder,EMBUDO,1,36.2,-105.96,8|
+placeholder,PEREA,1,35.46,-108.54,8|
+placeholder,BRIMHALL,1,35.8,-108.57,8|
+placeholder,CANYONCITO,1,35.58,-105.76,8|
+placeholder,ANACONDA,1,35.15,-107.83,8|
+placeholder,HIGH ROLLS MOUNTAIN PARK,1,32.97,-105.79,8|
+placeholder,HILLSBORO,1,32.92,-107.56,8|
+placeholder,HOLLOMAN AFB,1,32.83,-106.11,8|
+placeholder,NORTH HURLEY,1,32.69,-108.13,8|
+placeholder,GAVILAN,1,36.3,-107.04,8|
+placeholder,BANDELIER NATIONAL MONUMENT,1,35.89,-106.28,8|
+placeholder,BRAZOS,1,36.72,-106.56,8|
+placeholder,MAGDALENA,1,34.11,-107.23,8|
+placeholder,EL PORVENIR,1,35.65,-105.27,8|
+placeholder,PAGUATE,1,35.13,-107.37,8|
+placeholder,COCHITI LAKE,1,35.64,-106.33,8|
+placeholder,SENA,1,35.37,-105.44,8|
+placeholder,ROWE,2,35.48,-105.53,8|
+placeholder,SAN ACACIA,1,34.25,-106.89,8|
+placeholder,PUEBLO OF ACOMA,1,34.9,-107.58,8|
+placeholder,MCCARTYS,1,35.08,-107.59,8|
+placeholder,EL GUIQUE,1,36.05,-106.07,8|
+placeholder,TRES PIEDRAS,1,36.64,-105.96,8|
+placeholder,CUCHILLO,1,33.13,-107.24,8|
+placeholder,TRES RITOS,1,36.19,-105.67,8|
+placeholder,CERRITOS,1,35.26,-105.36,8|
+placeholder,LEVY,1,36.0,-104.71,8|
+placeholder,YOUNGSVILLE,1,36.18,-106.55,8|
+placeholder,ZUNI PUEBLO,1,35.08,-108.76,8|
+placeholder,WASHOE VALLEY,2,39.2,-119.75,8|
+placeholder,NEVADA EMPLOYMENT SECURITY,1,39.16,-119.76,8|
+placeholder,GREEN VALLEY,3,33.22,-112.32,8|
+placeholder,PIOCHE,1,38.1,-114.38,8|
+placeholder,GOLDEN VALLEY,2,37.45,-117.06,8|
+placeholder,CARVERS,1,38.79,-117.11,8|
+placeholder,COTTONWOOD CV,1,35.49,-114.89,8|
+placeholder,SMITH,1,38.8,-119.32,8|
+placeholder,LOCKWOOD,1,39.53,-119.41,8|
+placeholder,WARM SPRINGS,1,38.35,-116.61,8|
+placeholder,WILKINS,1,41.35,-114.8,8|
+placeholder,WABUSKA,1,38.87,-119.14,8|
+placeholder,KELMONT EAST,1,38.99,-119.92,8|
+placeholder,ELK RIVER,1,46.77,-116.19,8|
+placeholder,STATE LINE,1,47.78,-117.02,8|
+placeholder,RAINBOW,1,38.67,-106.83,8|
+placeholder,FLORIDA,2,35.56,-106.46,8|
+placeholder,BOND,1,39.87,-106.7,8|
+placeholder,BRANSON,1,37.01,-103.87,8|
+placeholder,CHEYENNE WELLS,1,38.81,-102.35,8|
+placeholder,STRATMOOR HILLS,1,38.86,-104.76,8|
+placeholder,MASSADONA,1,40.24,-109.0,8|
+placeholder,DUPONT,1,39.84,-104.92,8|
+placeholder,COLLEGE HEIGHTS DURANGO,1,37.27,-107.88,8|
+placeholder,DURANGO,3,37.23,-107.88,8|
+placeholder,CHERRY HILLS,4,39.63,-104.99,8|
+placeholder,SANGRE DE CRI,1,37.43,-105.43,8|
+placeholder,KERSEY,1,40.38,-104.56,8|
+placeholder,MILLIKEN,1,40.31,-104.85,8|
+placeholder,RULISON,2,39.48,-107.91,8|
+placeholder,PARKER,4,39.23,-108.88,8|
+placeholder,G P O,1,38.27,-104.62,8|
+placeholder,GREENWOOD,2,38.08,-105.0,8|
+placeholder,BESHOAR JCT,1,37.16,-104.5,8|
+placeholder,STONEWALL,1,37.13,-105.01,8|
+placeholder,WHITEWATER,2,35.83,-108.28,8|
+placeholder,WIGGINS,1,40.23,-104.07,8|
+placeholder,EGBERT,1,41.19,-104.35,8|
+placeholder,SHIRLEY BASIN,1,42.35,-106.21,8|
+placeholder,NATRONA,1,43.03,-106.81,8|
+placeholder,HARRIMAN,1,41.1,-105.08,8|
+placeholder,EVANSTON,2,41.25,-110.96,8|
+placeholder,FRONTIER,1,41.79,-110.6,8|
+placeholder,KEELINE,1,42.77,-104.61,8|
+placeholder,HIDDEN SPRINGS,1,43.64,-116.26,8|
+placeholder,BOISE CASCADE,1,43.61,-116.2,8|
+placeholder,RAYMOND,2,42.22,-111.03,8|
+placeholder,GLENNS FERRY,2,43.08,-115.28,8|
+placeholder,JEROME,2,38.73,-113.26,8|
+placeholder,SUGAR LOAF,1,42.75,-114.36,8|
+placeholder,MCCALL,2,44.89,-115.93,8|
+placeholder,MCCAMMON,1,42.68,-112.2,8|
+placeholder,MALAD CITY,1,42.24,-112.3,8|
+placeholder,FORT HALL,1,43.04,-112.53,8|
+placeholder,SUNNYDELL,1,43.78,-111.76,8|
+placeholder,HENRY,2,40.09,-108.7,8|
+placeholder,LINROSE,1,42.05,-112.0,8|
+placeholder,WILDER,1,43.65,-116.93,8|
+placeholder,BEAR RIVER CITY,1,41.61,-112.12,8|
+placeholder,BINGHAM CANYON,1,40.59,-112.1,8|
+placeholder,MONUMENT VLY,1,37.08,-110.25,8|
+placeholder,FAIRFIELD,3,42.36,-113.96,8|
+placeholder,WANSHIP,1,40.88,-111.31,8|
+placeholder,HILDALE,1,37.0,-112.96,8|
+placeholder,LAPOINT,1,40.39,-109.84,8|
+placeholder,RIVER HEIGHTS,1,41.7,-111.87,8|
+placeholder,N LOGAN,1,41.85,-111.7,8|
+placeholder,MAGNA,1,40.7,-112.08,8|
+placeholder,SOUTH OGDEN,2,41.16,-111.94,8|
+placeholder,BRYCE,1,37.63,-112.2,8|
+placeholder,KEARNS,1,40.65,-112.01,8|
+placeholder,KEY BANK,1,40.76,-111.89,8|
+placeholder,ERDA,1,40.57,-112.33,8|
+placeholder,TOOELE ARMY DEPOT,1,40.57,-112.33,8|
+placeholder,GREENHAVEN,1,40.84,-114.02,8|
+placeholder,WJ,1,40.59,-112.03,8|
+placeholder,WEST JORDAN,3,40.6,-112.0,8|
+placeholder,TINTOWN,1,31.44,-109.87,8|
+placeholder,CLAY SPRINGS,1,34.36,-110.29,8|
+placeholder,CONCHO VALLEY,1,34.51,-109.69,8|
+placeholder,PARKS COMM PO,1,35.22,-111.89,8|
+placeholder,CORNFIELDS,1,35.67,-109.65,8|
+placeholder,BLACK MESA,1,36.64,-110.18,8|
+placeholder,WHITE HILLS,1,35.9,-114.59,8|
+placeholder,CIRCLE CITY,1,33.98,-112.44,8|
+placeholder,ORACLE,1,32.64,-110.84,8|
+placeholder,STA #10,1,36.74,-111.85,8|
+placeholder,SUNIZONA,1,31.86,-109.33,8|
+placeholder,WALTER DRAKE,1,38.88,-104.67,8|
+placeholder,STORAGE TECHNOLOGY CORP,1,39.95,-105.14,8|
+placeholder,SAINT MICHAELS,1,35.64,-109.26,8|
+placeholder,WHITE MTN LK,1,34.32,-110.07,8|
+placeholder,SOLOMON,1,32.8,-109.61,8|
+placeholder,SPRINGERVILLE,1,34.04,-109.2,8|
+placeholder,SURPRISE DYSART RETAIL,1,33.64,-112.38,8|
+placeholder,SUPAI,1,36.15,-112.63,8|
+placeholder,PIMA COMMUNITY COLLEGE,1,32.23,-111.01,8|
+placeholder,UNM,3,35.11,-106.62,8|
+placeholder,MANZANO BASE,1,35.11,-106.62,8|
+placeholder,RIO RANCHO POE,1,35.32,-106.71,8|
+placeholder,GOBERNADOR,1,36.61,-107.73,8|
+placeholder,WHITE OAKS,1,33.64,-105.88,8|
+placeholder,SENECA,1,36.45,-103.17,8|
+placeholder,OJO ENCINO,1,36.02,-106.95,8|
+placeholder,ESPANOLA,2,36.0,-106.06,8|
+placeholder,FORT SUMNER,1,34.47,-104.23,8|
+placeholder,S W INDIAN FOUN,1,35.52,-108.73,8|
+placeholder,ALMA,2,36.3,-107.47,8|
+placeholder,BELLVIEW,1,34.81,-103.21,8|
+placeholder,REGINA,1,36.18,-106.95,8|
+placeholder,LAKE ARTHUR,1,32.99,-104.36,8|
+placeholder,LA LOMA,1,35.19,-105.08,8|
+placeholder,OROGRANDE,1,32.37,-106.08,8|
+placeholder,ALAMILLO,1,34.25,-106.89,8|
+placeholder,POJOAQUE,2,35.67,-105.95,8|
+placeholder,PUERTA D LUNA,1,34.94,-104.67,8|
+placeholder,ST DMNG PBLO,1,35.51,-106.36,8|
+placeholder,EL VADO,1,36.7,-106.54,8|
+placeholder,ENSENADA,1,36.7,-106.54,8|
+placeholder,ESCOBOSA,1,35.08,-106.37,8|
+placeholder,TYRONE,2,35.0,-106.31,8|
+placeholder,KINGSTON,4,39.57,-113.3,8|
+placeholder,CARSON COLONY,1,39.14,-119.71,8|
+placeholder,BRANCH #1,1,39.26,-119.79,8|
+placeholder,DENIO,1,41.75,-118.66,8|
+placeholder,JIGGS,1,40.55,-115.61,8|
+placeholder,EMPIRE,2,40.12,-112.59,8|
+placeholder,FALLON NAVAL AIR STATION,1,39.48,-118.78,8|
+placeholder,GERLACH,1,40.86,-119.32,8|
+placeholder,MONTELLO,1,41.22,-114.23,8|
+placeholder,OVERTON BEACH,1,36.39,-114.37,8|
+placeholder,URSINE,1,38.1,-114.38,8|
+placeholder,VIRGINIA FOOTHILLS,1,39.38,-119.87,8|
+placeholder,OLINGHOUSE,1,39.69,-119.39,8|
+placeholder,COVER CITY,1,41.35,-114.8,8|
+placeholder,WEST WENDOVER,1,40.87,-114.15,8|
+placeholder,WESO,1,41.12,-118.05,8|
+placeholder,LAKERIDGE,1,38.96,-119.9,8|
+placeholder,ATHOL,1,47.96,-116.68,8|
+placeholder,BLANCHARD,1,48.04,-116.96,8|
+placeholder,SOUTHWICK,1,46.64,-116.54,8|
+placeholder,LACLEDE,1,48.16,-116.75,8|
+placeholder,NAPLES,3,45.84,-114.17,8|
+placeholder,PRICHARD,1,47.61,-115.91,8|
+placeholder,WORLEY,1,47.44,-116.89,8|
+placeholder,CARMEL,1,37.46,-105.87,8|
+placeholder,LA ISLA,1,37.07,-106.01,8|
+placeholder,CHROMO,1,37.03,-106.83,8|
+placeholder,PETERSON AIR FORCE BASE,1,38.86,-104.76,8|
+placeholder,LAY,1,40.52,-107.55,8|
+placeholder,MONTCLAIR,1,39.76,-104.87,8|
+placeholder,CHIVINGTON,1,38.48,-102.77,8|
+placeholder,WATTENBURG,1,40.08,-104.8,8|
+placeholder,FT LUPTON,1,40.08,-104.8,8|
+placeholder,GILCREST,1,40.28,-104.78,8|
+placeholder,GREEN MOUNTAIN FALLS,1,38.93,-105.02,8|
+placeholder,BALDWIN,1,38.54,-106.92,8|
+placeholder,WINDY POINT,1,38.54,-106.92,8|
+placeholder,HUGO,1,39.13,-103.46,8|
+placeholder,ALLISON,1,37.11,-107.63,8|
+placeholder,LINDON,2,40.02,-107.57,8|
+placeholder,COLUMBINE VLY,1,39.59,-105.01,8|
+placeholder,LOUVIERS,1,39.47,-105.0,8|
+placeholder,MANASSA,1,37.17,-105.93,8|
+placeholder,MERINO,1,40.48,-103.35,8|
+placeholder,HAWLEY,1,38.04,-103.72,8|
+placeholder,ROMEO,1,37.17,-105.98,8|
+placeholder,RYE,1,37.92,-104.93,8|
+placeholder,TURRET,1,38.53,-106.0,8|
+placeholder,SPRINGFIELD,2,40.23,-107.64,8|
+placeholder,TABERNASH,1,39.98,-105.85,8|
+placeholder,TELLURIDE,1,37.94,-107.9,8|
+placeholder,WARD,1,40.07,-105.51,8|
+placeholder,TORRES CANON,1,37.13,-105.01,8|
+placeholder,BUFORD,2,40.58,-106.59,8|
+placeholder,CHUGWATER,1,41.75,-104.82,8|
+placeholder,ORIN,1,42.75,-105.39,8|
+placeholder,EVANSVILLE,1,42.87,-106.25,8|
+placeholder,LITL AMERICA,1,41.55,-109.86,8|
+placeholder,FORT STEELE,1,41.78,-107.22,8|
+placeholder,KIRBY,1,43.8,-108.18,8|
+placeholder,MAMMOTH HOT SPRINGS,1,44.57,-110.51,8|
+placeholder,HAWKINS,1,42.54,-112.28,8|
+placeholder,DRUMMOND,1,44.05,-111.32,8|
+placeholder,THOMAS JUNCTION,1,43.27,-112.56,8|
+placeholder,IDAHO STATE TAX COMMISSION,1,43.61,-116.21,8|
+placeholder,DOLES,1,43.66,-116.63,8|
+placeholder,COBALT,1,45.11,-114.43,8|
+placeholder,DOWNEY,1,42.42,-112.1,8|
+placeholder,VIRGINIA,1,42.42,-112.1,8|
+placeholder,HANSEN,1,42.45,-114.26,8|
+placeholder,INDIAN VALLEY,1,44.54,-116.41,8|
+placeholder,MOUNTAIN HOME A F B,1,43.05,-115.86,8|
+placeholder,MURPHY,1,43.08,-116.52,8|
+placeholder,NOTUS,1,43.72,-116.8,8|
+placeholder,TYHEE,1,42.9,-112.39,8|
+placeholder,LYMAN,3,41.16,-111.22,8|
+placeholder,PLANO,1,43.78,-111.76,8|
+placeholder,GOSHEN,2,41.64,-111.97,8|
+placeholder,STAR,1,43.72,-116.49,8|
+placeholder,SWANLAKE,1,42.32,-111.97,8|
+placeholder,LYNWOOD,1,42.41,-114.59,8|
+placeholder,UCON,1,43.59,-111.96,8|
+placeholder,BEAVER,1,38.38,-112.66,8|
+placeholder,MEXICAN HAT,1,37.3,-110.02,8|
+placeholder,NSL,1,40.84,-111.9,8|
+placeholder,HILL AIR FORCE BASE,1,41.12,-111.98,8|
+placeholder,EMORY,1,41.0,-111.44,8|
+placeholder,DUTCH JOHN,1,40.91,-109.34,8|
+placeholder,CASTLE GATE,1,39.67,-111.01,8|
+placeholder,KAMAS,1,40.62,-111.15,8|
+placeholder,OREM,4,40.3,-111.7,8|
+placeholder,BRYCE CYN CTY,1,37.63,-112.2,8|
+placeholder,PARAGONAH,1,37.93,-112.64,8|
+placeholder,CRESCENT,2,40.56,-111.81,8|
+placeholder,SNOWVILLE,1,41.81,-112.87,8|
+placeholder,TABIONA,1,40.38,-110.65,8|
+placeholder,BOTHWELL,1,41.69,-112.27,8|
+placeholder,BONANZA,2,42.36,-112.25,8|
+placeholder,DUNCAN,1,32.76,-109.07,8|
+placeholder,ELFRIDA,1,31.73,-109.7,8|
+placeholder,NAU,1,35.18,-111.62,8|
+placeholder,LAVEEN,1,33.3,-112.2,8|
+placeholder,TRUXTON,1,35.64,-113.61,8|
+placeholder,ANTHEM,1,33.83,-112.11,8|
+placeholder,AVON,2,40.56,-109.15,8|
+placeholder,BETHUNE,1,39.3,-102.42,8|
+placeholder,CASTLE ROCK,3,39.37,-104.87,8|
+placeholder,BLACK FOREST,2,39.04,-104.65,8|
+placeholder,CONSOLIDATED SPACE OPERATION,1,38.86,-104.76,8|
+placeholder,CHEYENNE MTN AFB,1,38.86,-104.76,8|
+placeholder,CORY,1,38.77,-107.98,8|
+placeholder,MERIDIAN LAKE,1,38.87,-106.98,8|
+placeholder,MOUNT CRESTED BUTTE,1,38.87,-106.98,8|
+placeholder,ARK VALLEY CORR FACL,1,38.19,-103.85,8|
+placeholder,DILLON,1,39.62,-106.03,8|
+placeholder,COLORADO STATE UNIVERSITY,1,40.55,-105.06,8|
+placeholder,GRAND LAKE,1,40.25,-105.82,8|
+placeholder,TAYLOR PARK,2,38.61,-106.88,8|
+placeholder,VILLEGREEN,1,37.24,-103.35,8|
+placeholder,NORTH LA JUNTA,1,37.98,-103.54,8|
+placeholder,LONETREE,2,40.31,-107.58,8|
+placeholder,LITTLETON CITY OFFICES,1,39.59,-105.01,8|
+placeholder,MC CLAVE,1,38.19,-102.93,8|
+placeholder,MARVEL,1,37.12,-108.13,8|
+placeholder,RAYMER,1,40.62,-103.78,8|
+placeholder,NUMA,1,38.22,-103.75,8|
+placeholder,PARSHALL,1,40.05,-106.18,8|
+placeholder,BUFFALO CREEK,1,39.38,-105.27,8|
+placeholder,UTLEYVILLE,1,37.37,-102.85,8|
+placeholder,MASONIC PARK,1,37.67,-106.64,8|
+placeholder,EDLER,1,37.4,-102.61,8|
+placeholder,SOPRIS,1,37.16,-104.5,8|
+placeholder,WALSENBURG,1,37.62,-104.77,8|
+placeholder,WOODROW,2,39.63,-108.07,8|
+placeholder,BAR NUNN,2,42.83,-106.32,8|
+placeholder,STATE OF WYOMING,1,41.14,-104.79,8|
+placeholder,WYOMING STATE GAME AND FISH,1,41.14,-104.79,8|
+placeholder,DEVILS TOWER,1,44.6,-104.73,8|
+placeholder,ELMO,2,40.57,-108.61,8|
+placeholder,HUDSON,2,41.48,-106.61,8|
+placeholder,MERIDEN,1,41.53,-104.27,8|
+placeholder,ARAPAHOE,2,40.91,-105.32,8|
+placeholder,ASHTON,1,44.05,-111.32,8|
+placeholder,WARM RIVER,1,44.05,-111.32,8|
+placeholder,PEBBLE,1,42.79,-111.91,8|
+placeholder,TABER,1,43.27,-112.56,8|
+placeholder,BUHL,1,42.6,-114.84,8|
+placeholder,CARMEN,2,38.45,-112.42,8|
+placeholder,EMMETT,1,43.98,-116.52,8|
+placeholder,FILER,1,42.56,-114.61,8|
+placeholder,HILL CITY,1,43.3,-115.02,8|
+placeholder,MORA,2,39.7,-110.82,8|
+placeholder,LAKE FORK,1,44.91,-116.09,8|
+placeholder,GWENFORD,1,42.24,-112.3,8|
+placeholder,MAY,1,44.48,-113.76,8|
+placeholder,PAUL,1,42.73,-113.89,8|
+placeholder,PINGREE,1,43.12,-112.6,8|
+placeholder,EDMONDS,1,43.78,-111.76,8|
+placeholder,WHITE MESA,1,37.55,-109.48,8|
+placeholder,HITE,1,37.57,-110.32,8|
+placeholder,IRISH GREEN,1,37.57,-110.32,8|
+placeholder,WOODS CROSS,2,40.89,-111.88,8|
+placeholder,KANARRAVILLE,1,37.53,-113.17,8|
+placeholder,LEAMINGTON,1,39.51,-112.26,8|
+placeholder,FOUNTAIN GRN,1,39.64,-111.61,8|
+placeholder,SWAN CREEK,1,41.91,-111.25,8|
+placeholder,BEAVERDAM,1,41.79,-112.06,8|
+placeholder,LAYTON,2,41.08,-111.94,8|
+placeholder,COVE,1,41.95,-111.86,8|
+placeholder,ROCKY RIDGE TOWN,1,39.85,-111.84,8|
+placeholder,NEOLA,1,40.41,-109.99,8|
+placeholder,PAROWAN,1,37.91,-112.85,8|
+placeholder,KOOSHAREM,1,38.51,-111.87,8|
+placeholder,GOOSEBERRY,1,38.95,-111.83,8|
+placeholder,SPRING CITY,1,39.44,-111.45,8|
+placeholder,MAESER,1,40.55,-109.57,8|
+placeholder,BISBEE,1,31.44,-109.87,8|
+placeholder,SOUTH BISBEE,1,31.44,-109.87,8|
+placeholder,ELEVEN MILE,2,32.89,-111.73,8|
+placeholder,CAREFREE,1,33.82,-111.9,8|
+placeholder,EHRENBERG,1,33.64,-114.44,8|
+placeholder,GILA BEND,1,32.99,-112.9,8|
+placeholder,HACKBERRY,1,35.36,-113.72,8|
+placeholder,SHIPLEY,1,35.64,-113.61,8|
+placeholder,HANO,1,35.84,-110.37,8|
+placeholder,HUNTERS POINT,1,35.64,-109.26,8|
+placeholder,SIL NAKAYA,1,32.0,-111.93,8|
+placeholder,VETERANS HOSPITAL,1,32.19,-111.0,8|
+placeholder,SANTA RITA,1,31.95,-110.69,8|
+placeholder,KANSAS SETTLEMENT,1,32.43,-109.88,8|
+placeholder,RUCKER,1,32.43,-109.88,8|
+placeholder,WINSLOW,1,35.1,-110.64,8|
+placeholder,YUCCA,1,34.76,-114.01,8|
+placeholder,MARTINEZ LAKE,1,32.72,-114.51,8|
+placeholder,AZTEC,1,36.82,-108.0,8|
+placeholder,DURAN,1,33.64,-105.88,8|
+placeholder,CERRO,1,36.75,-105.61,8|
+placeholder,EL VALLE,1,36.17,-105.74,8|
+placeholder,DES MOINES,2,36.75,-103.91,8|
+placeholder,DULCE,1,36.93,-106.99,8|
+placeholder,GUACHUPANGUE,1,36.0,-106.06,8|
+placeholder,GUADALUPITA,1,36.13,-105.23,8|
+placeholder,HANOVER,1,32.88,-108.08,8|
+placeholder,OLD LAGUNA,1,35.03,-107.39,8|
+placeholder,LINCOLN,3,39.19,-109.87,8|
+placeholder,LEDOUX,1,35.97,-105.32,8|
+placeholder,NAVAJO DAM,1,36.8,-107.61,8|
+placeholder,DUNKEN,1,32.61,-105.39,8|
+placeholder,RAMAH,3,36.35,-107.03,8|
+placeholder,ARTESIA CAMP,1,32.79,-105.56,8|
+placeholder,SAN ILDEFONSO PUEBLO,2,35.67,-105.95,8|
+placeholder,BIKLABITO,1,36.79,-108.69,8|
+placeholder,LUIS LOPEZ,1,34.05,-106.9,8|
+placeholder,TAIBAN,1,34.44,-104.0,8|
+placeholder,TOLAR,1,34.44,-104.0,8|
+placeholder,TAOS SKI VLY,1,36.6,-105.45,8|
+placeholder,NUTRIAS,1,36.7,-106.54,8|
+placeholder,WHITES CITY,1,32.17,-104.37,8|
+placeholder,BEOWAWE,1,40.52,-116.36,8|
+placeholder,ELY COLONY,1,39.42,-115.0,8|
+placeholder,LIDA,1,37.53,-117.51,8|
+placeholder,PRIMM,1,35.75,-115.53,8|
+placeholder,EMBARQ TELPHONE,1,36.17,-115.2,8|
+placeholder,JACKASS FLATS,1,36.66,-115.99,8|
+placeholder,GALENA,1,39.38,-119.87,8|
+placeholder,CABINET,1,48.06,-116.17,8|
+placeholder,FERDINAND,1,46.14,-116.41,8|
+placeholder,KOOSKIA,1,46.08,-115.86,8|
+placeholder,OROFINO,1,46.48,-116.12,8|
+placeholder,POTLATCH,1,46.96,-116.91,8|
+placeholder,WEST ONE BANK,2,43.61,-116.2,8|
+placeholder,ALAMOSA,2,37.46,-105.87,8|
+placeholder,I B M,1,40.02,-105.25,8|
+placeholder,CARR,1,40.9,-104.87,8|
+placeholder,AFFLIATED NATIONAL BANK,1,38.86,-104.76,8|
+placeholder,SUMMITVILLE,1,37.67,-106.35,8|
+placeholder,SQUAW POINT,1,37.76,-108.9,8|
+placeholder,JOHN MARTIN RESERVOIR,1,38.12,-102.97,8|
+placeholder,HOWARD,1,38.45,-105.84,8|
+placeholder,KIM,1,37.24,-103.35,8|
+placeholder,LAFAYETTE,1,39.99,-105.09,8|
+placeholder,BENTS FORT,1,37.98,-103.54,8|
+placeholder,LEWIS,1,37.5,-108.67,8|
+placeholder,LIMON,2,39.26,-103.68,8|
+placeholder,LUBERS,1,38.19,-102.93,8|
+placeholder,MACK,1,39.22,-108.87,8|
+placeholder,MONTROSE,3,38.43,-107.88,8|
+placeholder,NEW CASTLE,1,39.58,-107.53,8|
+placeholder,OLATHE,1,38.6,-107.98,8|
+placeholder,BELLE PLAIN,1,38.27,-104.62,8|
+placeholder,RED FE LKS,1,40.8,-105.58,8|
+placeholder,MESITA,2,36.12,-106.41,8|
+placeholder,OLD SNOWMASS,1,39.33,-106.98,8|
+placeholder,SOUTH FORK,1,37.67,-106.64,8|
+placeholder,MOUNTAIN VLG,1,37.94,-107.9,8|
+placeholder,USAF ACADEMY,2,38.99,-104.85,8|
+placeholder,EASTMAN KODAK CO,1,40.48,-104.9,8|
+placeholder,CRYSTOLA,1,38.99,-105.05,8|
+placeholder,ALCOVA,1,42.55,-106.72,8|
+placeholder,CHEYNNE SHARED FIRM BRM,1,41.14,-104.79,8|
+placeholder,DIXON,2,38.61,-106.7,8|
+placeholder,FREEDOM,1,42.98,-111.04,8|
+placeholder,QUEALY,1,41.59,-109.22,8|
+placeholder,POINT OF ROCKS,1,41.68,-108.78,8|
+placeholder,SAINT STEPHENS,1,42.95,-108.19,8|
+placeholder,YELLOWSTONE NATIONAL PARK,1,44.57,-110.51,8|
+placeholder,GROVELAND,1,43.27,-112.56,8|
+placeholder,TUTTLE,1,43.01,-114.94,8|
+placeholder,COUNCIL,1,44.89,-116.54,8|
+placeholder,EAGLE,2,41.72,-111.6,8|
+placeholder,FRANKLIN,1,42.03,-111.79,8|
+placeholder,EAGLE ROCK,1,43.52,-112.27,8|
+placeholder,CHILLY,1,43.95,-113.84,8|
+placeholder,MALAD,1,42.24,-112.3,8|
+placeholder,MARSING,1,43.48,-116.84,8|
+placeholder,MONTPELIER,2,42.32,-111.35,8|
+placeholder,WARDBORO,1,42.28,-111.33,8|
+placeholder,TENDOY,1,44.94,-113.64,8|
+placeholder,BLANDING,1,37.55,-109.48,8|
+placeholder,BULLFROG,1,37.57,-110.32,8|
+placeholder,BEETON,1,41.72,-112.08,8|
+placeholder,WEST POINT,1,41.11,-112.05,8|
+placeholder,HOYTSVILLE,1,40.88,-111.31,8|
+placeholder,PINE CLIFF,1,40.88,-111.31,8|
+placeholder,BRIDGELAND,1,40.1,-110.49,8|
+placeholder,INDIANOLA,1,39.78,-111.44,8|
+placeholder,HOLDEN,1,39.07,-112.31,8|
+placeholder,HURRICANE,1,37.13,-112.97,8|
+placeholder,CANYON POINT,1,37.27,-112.23,8|
+placeholder,LAKETOWN,1,41.81,-111.37,8|
+placeholder,LA VERKIN,1,37.27,-113.19,8|
+placeholder,WEST LAYTON,1,41.07,-111.98,8|
+placeholder,CEDAR PASS,1,40.32,-111.96,8|
+placeholder,SARATOGA SPRINGS,2,40.3,-111.92,8|
+placeholder,UTAH STATE UNIVERSITY,1,41.74,-111.8,8|
+placeholder,MONTICELLO,2,35.69,-108.37,8|
+placeholder,MTN GREEN,1,41.01,-111.67,8|
+placeholder,PORTERVILLE,1,41.01,-111.67,8|
+placeholder,WALES,1,39.44,-111.67,8|
+placeholder,MT PLEASANT,1,39.55,-111.39,8|
+placeholder,FARR WEST,1,41.24,-112.13,8|
+placeholder,SALINA,2,37.59,-110.7,8|
+placeholder,EMIGRATION CANYON,1,40.78,-111.73,8|
+placeholder,BELMONT HEIGHTS,2,40.56,-111.81,8|
+placeholder,TRENTON,1,41.92,-111.92,8|
+placeholder,W VALLEY,1,40.59,-112.03,8|
+placeholder,BOUSE,1,33.93,-113.86,8|
+placeholder,MOHAVE VALLEY,2,34.88,-114.53,8|
+placeholder,CAVE CREEK,2,33.81,-111.94,8|
+placeholder,SMOKE SIGNAL,1,36.23,-109.57,8|
+placeholder,NAVAJO STATION,1,35.67,-109.65,8|
+placeholder,SUNRISE SPRINGS,1,35.67,-109.65,8|
+placeholder,DOUBLE ADOBE,1,31.55,-109.69,8|
+placeholder,MORRISTOWN,1,33.98,-112.44,8|
+placeholder,STAR VALLEY,1,34.19,-111.17,8|
+placeholder,SICHOMOVI,1,35.84,-110.37,8|
+placeholder,TUSCON,1,32.07,-110.92,8|
+placeholder,WILLCOX,2,32.34,-109.85,8|
+placeholder,LOS RNCHS ABQ,2,35.11,-106.62,8|
+placeholder,RIO RANCHO,3,35.29,-106.68,8|
+placeholder,ARAGON,1,33.88,-108.53,8|
+placeholder,VANADIUM,1,32.75,-108.13,8|
+placeholder,SANTA ANA PUEBLO,1,35.31,-106.55,8|
+placeholder,SAINT VRAIN,1,34.41,-103.48,8|
+placeholder,CORRALES,1,35.23,-106.62,8|
+placeholder,ANGEL FIRE,1,36.39,-105.27,8|
+placeholder,MILAGRO,1,34.65,-105.45,8|
+placeholder,MT DORA,1,36.59,-103.61,8|
+placeholder,JAL,1,32.11,-103.18,8|
+placeholder,JARALES,1,34.61,-106.76,8|
+placeholder,WHITE SANDS MISSILE RANGE,1,32.26,-106.47,8|
+placeholder,MC ALISTER,1,34.74,-103.66,8|
+placeholder,PECOS,1,35.57,-105.67,8|
+placeholder,CORUCO,1,35.37,-105.44,8|
+placeholder,EL PUEBLO,1,35.37,-105.44,8|
+placeholder,RUIDOSO DOWNS,1,33.33,-105.6,8|
+placeholder,NAMBE,2,35.67,-105.95,8|
+placeholder,SMITH LAKE,1,35.77,-107.98,8|
+placeholder,TOME,1,34.74,-106.71,8|
+placeholder,VALLECITOS,1,36.49,-106.12,8|
+placeholder,LAS PALOMAS,1,33.11,-107.29,8|
+placeholder,INCLINE VILLAGE,3,39.24,-119.94,8|
+placeholder,JACKSON MOUNTAIN,1,41.75,-118.66,8|
+placeholder,FALLON COLONY,1,39.5,-118.29,8|
+placeholder,GARDNERVILLE,2,38.83,-119.7,8|
+placeholder,THORNE,1,38.65,-118.83,8|
+placeholder,CORN CREEK,1,36.16,-115.43,8|
+placeholder,UPPER VALLEY,1,40.32,-118.2,8|
+placeholder,CORDERO,1,41.87,-117.97,8|
+placeholder,EAGLE VALLEY,1,38.1,-114.38,8|
+placeholder,COALDALE,2,38.36,-111.18,8|
+placeholder,TOPAZ RANCH ESTATES,1,38.7,-119.32,8|
+placeholder,SULPHUR,1,41.12,-118.05,8|
+placeholder,PIZEN SWITCH,1,38.87,-119.14,8|
+placeholder,CLARK FORK,1,48.06,-116.17,8|
+placeholder,FERNWOOD,2,47.06,-116.35,8|
+placeholder,PINEHURST,1,47.46,-116.21,8|
+placeholder,CAREYWOOD,1,48.06,-116.59,8|
+placeholder,SPIRIT LAKE,1,47.98,-116.89,8|
+placeholder,WHITE BIRD,1,45.69,-116.18,8|
+placeholder,ARIZ CORRECTIONAL CTR,1,32.09,-110.91,8|
+placeholder,ANTONITO,1,37.07,-106.01,8|
+placeholder,PIEDRE PARK,1,37.02,-107.4,8|
+placeholder,BAYFIELD,1,37.23,-107.59,8|
+placeholder,JOHNSON VILLAGE,1,38.83,-106.14,8|
+placeholder,CENTER,1,37.75,-106.11,8|
+placeholder,COMCAST,1,38.86,-104.76,8|
+placeholder,CONEJOS,1,37.08,-106.02,8|
+placeholder,ORCHARD CITY,3,38.8,-107.95,8|
+placeholder,COWDREY,1,40.85,-106.3,8|
+placeholder,DENVER FEDERAL CENTER,1,39.76,-104.87,8|
+placeholder,AF RESERVE PERS CTR,1,39.76,-104.87,8|
+placeholder,ELDORADO SPRINGS,1,39.93,-105.27,8|
+placeholder,FEDERAL CORRECTIONAL COMPLEX,1,38.38,-105.11,8|
+placeholder,FT GARLAND,1,37.43,-105.43,8|
+placeholder,COLORADO NATIONAL MONUMENT,1,39.15,-108.72,8|
+placeholder,GLEN HAVEN,1,40.45,-105.43,8|
+placeholder,BREEN,1,37.28,-108.03,8|
+placeholder,HYGIENE,1,40.18,-105.17,8|
+placeholder,SO UTE INDIAN RES,1,37.11,-107.63,8|
+placeholder,TIFFANY,1,37.11,-107.63,8|
+placeholder,FAIRMONT,1,37.98,-103.54,8|
+placeholder,LAS ANIMAS,1,38.06,-103.22,8|
+placeholder,LIVERMORE,1,40.75,-105.23,8|
+placeholder,MANITOU SPGS,1,38.85,-104.91,8|
+placeholder,MEAD,1,40.23,-104.98,8|
+placeholder,MEEKER,1,40.05,-107.89,8|
+placeholder,MESA VERDE,1,37.18,-108.49,8|
+placeholder,DELHI,1,37.34,-104.27,8|
+placeholder,COLO CITY,1,37.94,-104.84,8|
+placeholder,REDVALE,1,38.18,-108.42,8|
+placeholder,CEDARWOOD,1,37.92,-104.93,8|
+placeholder,SWINK,1,38.01,-103.62,8|
+placeholder,U S A F ACADEMY,2,38.99,-104.85,8|
+placeholder,ROSITA,1,38.13,-105.46,8|
+placeholder,EDGERTON,1,43.41,-106.24,8|
+placeholder,KORTES DAM,1,41.86,-106.55,8|
+placeholder,HAWK SPRINGS,1,41.79,-104.27,8|
+placeholder,BOSLER,3,41.4,-105.62,8|
+placeholder,ODONNELL SPUR,1,44.79,-108.73,8|
+placeholder,RAWLINS,2,42.13,-107.53,8|
+placeholder,WORLAND,2,43.9,-108.06,8|
+placeholder,ATOMIC CITY,1,43.4,-112.83,8|
+placeholder,ROSE,1,43.27,-112.56,8|
+placeholder,BRUNEAU,1,42.57,-115.85,8|
+placeholder,BRUNEAU VALLEY,1,42.57,-115.85,8|
+placeholder,STARRHS FERRY,1,42.39,-113.78,8|
+placeholder,WEITZ,1,43.66,-116.63,8|
+placeholder,CAREY,1,43.29,-113.64,8|
+placeholder,CHALLIS,2,44.88,-114.29,8|
+placeholder,HUMPHREY,1,44.39,-112.22,8|
+placeholder,WARREN,2,43.27,-113.86,8|
+placeholder,PARADISE HOT SPRINGS,1,43.36,-115.52,8|
+placeholder,RIGBY,1,43.69,-111.87,8|
+placeholder,ROBERTS,1,43.73,-112.26,8|
+placeholder,SODA SPRINGS,3,42.79,-111.45,8|
+placeholder,GRAY,1,42.9,-111.28,8|
+placeholder,GREENVILLE,1,38.22,-112.8,8|
+placeholder,FRUITA,2,38.74,-109.89,8|
+placeholder,PINE VALLEY,1,37.47,-113.51,8|
+placeholder,SUTHERLAND,1,39.29,-112.56,8|
+placeholder,PETRA,1,39.06,-113.83,8|
+placeholder,SCOFIELD,1,39.67,-111.01,8|
+placeholder,KANESVILLE,1,41.15,-112.14,8|
+placeholder,LEEDS,1,37.23,-113.36,8|
+placeholder,HYDE PARK,1,41.8,-111.8,8|
+placeholder,MILFORD,1,38.36,-113.11,8|
+placeholder,CENTRAL VLY,1,38.63,-111.75,8|
+placeholder,PARADISE,2,36.74,-110.49,8|
+placeholder,SOUTH JORDAN,2,40.51,-111.98,8|
+placeholder,SAINT GEORGE,6,37.19,-113.6,8|
+placeholder,DAMMERON,1,37.26,-113.69,8|
+placeholder,VERNAL,2,40.5,-109.55,8|
+placeholder,WASHINGTON,2,37.34,-109.68,8|
+placeholder,BENSON,2,37.0,-111.12,8|
+placeholder,CEDAR RIDGE,1,36.05,-111.45,8|
+placeholder,CONCHO,1,34.51,-109.69,8|
+placeholder,EL MIRAGE,1,33.59,-112.33,8|
+placeholder,PIPE SPRING NATIONAL MONUMEN,1,36.74,-112.11,8|
+placeholder,FOREST LAKES,1,34.42,-110.91,8|
+placeholder,JOSEPH CITY,1,35.05,-110.4,8|
+placeholder,LAKE MEAD RANCHEROS,1,35.24,-113.76,8|
+placeholder,BEAVER DAM,1,36.9,-113.94,8|
+placeholder,PATAGONIA,1,31.53,-110.71,8|
+placeholder,CONTINENTAL,1,31.91,-110.9,8|
+placeholder,TOLANI LAKES,1,35.1,-110.64,8|
+placeholder,CASA BLANCA,1,35.0,-107.41,8|
+placeholder,EL PORTERO,1,35.99,-105.92,8|
+placeholder,CLOUDCROFT,2,32.79,-105.71,8|
+placeholder,KENNA,1,33.84,-103.77,8|
+placeholder,HERNANDEZ,1,36.06,-106.11,8|
+placeholder,FAYWOOD,1,32.56,-108.02,8|
+placeholder,SENATOR CLARKE FIELD,1,35.52,-108.73,8|
+placeholder,GLORIETA,1,35.58,-105.76,8|
+placeholder,BROADVIEW ACRES,1,35.15,-107.83,8|
+placeholder,OIL CENTER,1,32.73,-103.16,8|
+placeholder,HONDO,1,33.38,-105.27,8|
+placeholder,HURLEY,1,32.69,-108.13,8|
+placeholder,KIRTLAND,1,36.73,-108.34,8|
+placeholder,PLAYAS,1,32.02,-108.68,8|
+placeholder,MCDONALD,1,33.07,-103.21,8|
+placeholder,MESCALERO,1,33.15,-105.79,8|
+placeholder,PINEHILL,1,34.81,-108.45,8|
+placeholder,RANCHES OF TAOS,1,36.36,-105.6,8|
+placeholder,RUIDOSO,2,33.36,-105.64,8|
+placeholder,ALTO CREST,1,33.36,-105.64,8|
+placeholder,AGUA FRIA,1,35.67,-105.95,8|
+placeholder,HYDE PARK ESTATES,1,35.67,-105.95,8|
+placeholder,SETON VILLAGE,1,35.67,-105.95,8|
+placeholder,CHAPELLE,1,35.48,-105.4,8|
+placeholder,LITTLE WATER,1,36.79,-108.69,8|
+placeholder,SANOSTEE,1,36.43,-108.87,8|
+placeholder,POT CREEK,1,36.38,-105.57,8|
+placeholder,TESUQUE,1,35.76,-105.92,8|
+placeholder,TIERRA AMARILLA,1,36.7,-106.54,8|
+placeholder,CHILILI,1,35.08,-106.37,8|
+placeholder,WILLIAMSBURG,2,35.75,-106.2,8|
+placeholder,RAGTOWN,1,39.5,-118.29,8|
+placeholder,STILLWATER,1,39.5,-118.29,8|
+placeholder,NEVADA POWER,1,36.14,-115.22,8|
+placeholder,SHARED FIRM ZIP CODE,1,36.07,-115.14,8|
+placeholder,LUNING,1,38.47,-118.3,8|
+placeholder,STEWARTS POINT,1,36.39,-114.37,8|
+placeholder,SPANISH SPGS,2,39.66,-119.69,8|
+placeholder,WELLS,1,41.35,-114.8,8|
+placeholder,FERNAN LAKE VILLAGE,1,47.59,-116.91,8|
+placeholder,KEUTERVILLE,1,45.94,-116.52,8|
+placeholder,GRANGEVILLE,2,45.91,-116.12,8|
+placeholder,RIGGINS,1,45.39,-116.47,8|
+placeholder,SANTA,1,47.18,-116.41,8|
+placeholder,SAN CARLOS,1,33.41,-110.11,8|
+placeholder,MISHONGNOVI,1,35.81,-110.48,8|
+placeholder,SHOW LOW,3,34.21,-110.2,8|
+placeholder,ASU,1,33.42,-111.93,8|
+placeholder,CORONA DE TUC,1,31.95,-110.69,8|
+placeholder,WINKELMAN,2,32.91,-110.69,8|
+placeholder,CLOVERDALE,1,31.94,-108.83,8|
+placeholder,RANCHITOS,1,35.31,-106.55,8|
+placeholder,CABALLO,1,32.97,-107.3,8|
+placeholder,DONA ANA,1,32.39,-106.81,8|
+placeholder,EL DUENDE,1,36.06,-106.11,8|
+placeholder,FT STANTON,1,33.49,-105.52,8|
+placeholder,MOUNTAIN PARK,1,32.97,-105.79,8|
+placeholder,LEA COUNTY CORRECTIONAL FAC,1,32.73,-103.16,8|
+placeholder,LA MADERA,1,36.38,-106.04,8|
+placeholder,ELK,1,32.88,-105.47,8|
+placeholder,NORTH CARMEN,1,35.97,-105.32,8|
+placeholder,NOGAL,1,33.55,-105.7,8|
+placeholder,PENA BLANCA,1,35.57,-106.33,8|
+placeholder,RED HILL,1,34.31,-108.79,8|
+placeholder,RNCH DE TAOS,1,36.36,-105.6,8|
+placeholder,BORDER HILL,1,33.37,-104.52,8|
+placeholder,CUYAMUNGUE,1,35.67,-105.95,8|
+placeholder,MANGAS SPRINGS,1,32.78,-108.26,8|
+placeholder,SOCORRO,1,34.05,-106.9,8|
+placeholder,TAOS,2,36.45,-105.57,8|
+placeholder,SHEEP SPRINGS,1,36.14,-108.7,8|
+placeholder,PLACITA,1,36.19,-105.67,8|
+placeholder,VEGUITA,1,34.51,-106.76,8|
+placeholder,LON,1,34.43,-104.6,8|
+placeholder,WILLOW BEACH,2,35.91,-114.69,8|
+placeholder,NEVADA MOTOR VEHICLE,1,39.16,-119.76,8|
+placeholder,FRENCHMAN,1,39.5,-118.29,8|
+placeholder,INDIAN SPRINGS AIR FORCE AUX,1,36.24,-114.96,8|
+placeholder,NELLIS AIR FORCE BASE,1,36.24,-114.96,8|
+placeholder,CASELTON,1,38.1,-114.38,8|
+placeholder,PANTHER VALLEY,1,39.76,-119.86,8|
+placeholder,NELSON,1,35.49,-114.89,8|
+placeholder,SPANISH SPRINGS,2,39.66,-119.69,8|
+placeholder,METROPOLIS,1,41.35,-114.8,8|
+placeholder,COSGRAVE,1,41.12,-118.05,8|
+placeholder,BELMONT,1,47.96,-116.68,8|
+placeholder,SAGLE,2,48.12,-116.58,8|
+placeholder,JACKS CABIN,1,38.67,-106.83,8|
+placeholder,AULT,1,40.58,-104.73,8|
+placeholder,CANON CITY,2,38.44,-105.23,8|
+placeholder,CHERAW,1,38.1,-103.51,8|
+placeholder,FT CARSON,2,38.79,-104.78,8|
+placeholder,CHEY MTN AFB,1,38.86,-104.76,8|
+placeholder,CO SPGS UTILITIES,1,38.86,-104.76,8|
+placeholder,US OLYMPIC COMMITTEE,1,38.86,-104.76,8|
+placeholder,PLAZA,1,37.67,-106.35,8|
+placeholder,US COURT OF APPEALS 10TH CIR,1,39.76,-104.87,8|
+placeholder,FORT GARLAND,1,37.43,-105.43,8|
+placeholder,HASWELL,1,38.45,-103.16,8|
+placeholder,HOLYOKE,1,40.58,-102.3,8|
+placeholder,HALE,1,39.7,-102.3,8|
+placeholder,SOUTHERN UTE INDIAN RESERVAT,1,37.11,-107.63,8|
+placeholder,JOES,1,39.65,-102.68,8|
+placeholder,WAHATOYA,1,37.51,-105.0,8|
+placeholder,NEW LIBERTY,1,39.22,-108.87,8|
+placeholder,MINTURN,1,39.58,-106.42,8|
+placeholder,LARIAT,1,37.57,-106.14,8|
+placeholder,PONCHA SPRINGS,1,38.51,-106.07,8|
+placeholder,RED CLIFF,1,39.5,-106.36,8|
+placeholder,SMELTERTOWN,1,38.53,-106.0,8|
+placeholder,TIMNATH,1,40.52,-104.98,8|
+placeholder,ARMINTO,1,43.18,-107.26,8|
+placeholder,HOBACK JUNCTION,1,43.47,-110.76,8|
+placeholder,MAYOWORTH,1,43.7,-106.63,8|
+placeholder,FOUR CORNERS,1,44.08,-104.13,8|
+placeholder,MIDVAL,1,43.03,-108.41,8|
+placeholder,SAND DRAW,1,43.03,-108.41,8|
+placeholder,BANNER,1,44.63,-106.8,8|
+placeholder,STAR VALLEY RANCH,1,42.91,-111.0,8|
+placeholder,AMERICAN FALLS,1,42.72,-112.99,8|
+placeholder,WAPELLO,1,43.27,-112.56,8|
+placeholder,BLOOMINGTON,2,39.62,-112.5,8|
+placeholder,GRASMERE,1,42.57,-115.85,8|
+placeholder,KNOWLTON HEIGHTS,1,43.66,-116.63,8|
+placeholder,CASTLEFORD,1,42.4,-114.88,8|
+placeholder,ROSEBERRY,1,44.67,-116.0,8|
+placeholder,BIG SPRINGS,1,44.49,-111.33,8|
+placeholder,LETHA,1,43.91,-116.66,8|
+placeholder,CHURCHILL,1,42.18,-113.86,8|
+placeholder,RICHFIELD,3,39.7,-110.74,8|
+placeholder,SHELLEY,1,43.34,-112.07,8|
+placeholder,TIMPANOGOS,1,40.39,-111.78,8|
+placeholder,BEAR RIVER CY,1,41.61,-112.12,8|
+placeholder,TORREY,2,41.24,-112.78,8|
+placeholder,HALLS CROSSING,1,37.57,-110.32,8|
+placeholder,BIRDSEYE,1,39.78,-111.44,8|
+placeholder,MILBURN,1,39.78,-111.44,8|
+placeholder,GARLAND,2,43.29,-110.45,8|
+placeholder,HAILSTONE,1,40.43,-111.19,8|
+placeholder,HENEFER,1,40.97,-111.51,8|
+placeholder,MEADOW,1,38.88,-112.4,8|
+placeholder,ORDERVILLE,1,37.28,-112.71,8|
+placeholder,CHURCH OF JESUS CHRIST/LDS,1,40.77,-111.88,8|
+placeholder,ROCKVILLE,1,37.15,-113.05,8|
+placeholder,WHITEROCKS,1,40.55,-109.9,8|
+placeholder,SUNSET ACRES,1,31.44,-109.87,8|
+placeholder,HUACHUCA TERRACE,1,36.23,-109.57,8|
+placeholder,TAHCHEE,1,36.23,-109.57,8|
+placeholder,MUNDS PARK,1,34.92,-111.62,8|
+placeholder,KLAGETOH,1,35.67,-109.65,8|
+placeholder,TOYEI,1,35.67,-109.65,8|
+placeholder,TUSAYAN,1,35.89,-112.27,8|
+placeholder,PARKER LAKE,1,31.44,-110.23,8|
+placeholder,KIRKLAND,1,34.29,-112.66,8|
+placeholder,LEUPP,1,35.41,-111.02,8|
+placeholder,OVERGAARD,1,34.37,-110.48,8|
+placeholder,LOCHIEL,1,31.53,-110.71,8|
+placeholder,PAULDEN,1,34.9,-112.43,8|
+placeholder,GREYHOUND DIAL CORP,1,33.45,-111.97,8|
+placeholder,HILLTOP,1,32.0,-109.21,8|
+placeholder,FRESNAL CANYON,1,32.0,-111.93,8|
+placeholder,GREATERVILLE,1,31.75,-110.66,8|
+placeholder,ARIZONA MEDICAL CENTER,1,32.24,-110.94,8|
+placeholder,CHIRICAHUA NATIONAL MONUMENT,1,32.43,-109.88,8|
+placeholder,BARRANCA,1,36.2,-106.31,8|
+placeholder,PANORAMA HEIGHTS,1,35.27,-106.66,8|
+placeholder,BELEN,1,34.65,-106.77,8|
+placeholder,PUEBLITOS,1,34.65,-106.77,8|
+placeholder,TURLEY,1,36.61,-107.73,8|
+placeholder,CUNDIYO,1,35.99,-105.92,8|
+placeholder,SPRINGSTEAD,1,35.53,-108.59,8|
+placeholder,CANNON AFB,2,34.39,-103.25,8|
+placeholder,COLUMBUS,1,31.82,-107.64,8|
+placeholder,CONTINENTAL DIVIDE,2,35.41,-108.44,8|
+placeholder,CUERVO,1,35.03,-104.4,8|
+placeholder,DATIL,1,34.14,-107.84,8|
+placeholder,SUNSHINE,1,32.26,-107.75,8|
+placeholder,PAJARITO,1,36.0,-106.06,8|
+placeholder,MENTMORE,1,35.51,-108.84,8|
+placeholder,AMBROSIA LAKE,1,35.15,-107.83,8|
+placeholder,HOLMAN,1,36.03,-105.38,8|
+placeholder,LINDRITH,1,36.3,-107.04,8|
+placeholder,MALJAMAR,1,32.85,-103.76,8|
+placeholder,MEDALANES,1,36.17,-106.18,8|
+placeholder,LLANO QUEMADO,1,36.36,-105.6,8|
+placeholder,PINE LODGE,1,33.37,-104.52,8|
+placeholder,SAN CRISTOBAL,1,36.59,-105.63,8|
+placeholder,CHAMITA,1,36.05,-106.07,8|
+placeholder,PUERTA DE LUNA,1,34.94,-104.67,8|
+placeholder,CONCHAS DAM,1,35.34,-103.98,8|
+placeholder,HIGHWAY 40,1,41.75,-118.66,8|
+placeholder,HUMBOLDT,2,37.55,-115.14,8|
+placeholder,PATSVILLE,1,41.77,-116.08,8|
+placeholder,NIXON,1,39.86,-119.44,8|
+placeholder,ROSE VALLEY,1,38.1,-114.38,8|
+placeholder,STEAD,2,38.11,-111.52,8|
+placeholder,PLEASANT VALLEY,1,39.38,-119.87,8|
+placeholder,TRACY,1,39.53,-119.41,8|
+placeholder,WEED HEIGHTS,1,38.87,-119.14,8|
+placeholder,BOVILL,1,46.9,-116.36,8|
+placeholder,COTTONWOOD,5,41.61,-113.66,8|
+placeholder,ELK CITY,1,45.9,-115.22,8|
+placeholder,FENN,1,45.92,-116.12,8|
+placeholder,HARRISON,2,47.49,-116.59,8|
+placeholder,MULLAN,1,47.46,-115.74,8|
+placeholder,OSBURN,1,47.53,-116.01,8|
+placeholder,POLLOCK,1,45.31,-116.32,8|
+placeholder,RUEDI,1,39.36,-107.02,8|
+placeholder,UNIVERSITY OF COLORADO,1,40.02,-105.25,8|
+placeholder,US OLYMPIC,1,38.86,-104.76,8|
+placeholder,COMPASSION INTERNATIONAL,1,38.86,-104.76,8|
+placeholder,DEER TRAIL,1,39.61,-104.04,8|
+placeholder,FLEMING,1,40.68,-102.84,8|
+placeholder,HAXTUN,1,40.64,-102.62,8|
+placeholder,JULESBURG,1,40.98,-102.26,8|
+placeholder,WEST FARM,1,38.08,-102.61,8|
+placeholder,ROXBOROUGH,1,39.59,-105.01,8|
+placeholder,LOMA,1,39.2,-108.82,8|
+placeholder,HOMELAKE,1,37.55,-106.05,8|
+placeholder,NATHROP,1,38.73,-106.08,8|
+placeholder,OLNEY SPRINGS,1,38.16,-103.94,8|
+placeholder,OTIS,1,40.14,-102.96,8|
+placeholder,RAND,1,40.45,-106.17,8|
+placeholder,GARCIA,2,37.1,-105.47,8|
+placeholder,WAGON WHEEL GAP,1,37.67,-106.64,8|
+placeholder,VONA,1,39.3,-102.74,8|
+placeholder,MARBLETON,1,42.54,-110.11,8|
+placeholder,HILAND,1,43.12,-107.35,8|
+placeholder,WRIGHT,1,43.75,-105.49,8|
+placeholder,ROCKEAGLE,1,42.13,-104.34,8|
+placeholder,POWELL,1,44.79,-108.73,8|
+placeholder,MUDDY GAP,1,41.78,-107.22,8|
+placeholder,LUCKY MACCAMP,1,43.03,-108.41,8|
+placeholder,HAMILTON DOME,1,43.64,-108.21,8|
+placeholder,CHESTERFIELD,1,42.79,-111.91,8|
+placeholder,DEEP CREEK,1,42.6,-114.84,8|
+placeholder,CLAYTON,2,40.3,-108.83,8|
+placeholder,GARDEN VALLEY,1,44.08,-115.85,8|
+placeholder,IRWIN,1,43.33,-111.17,8|
+placeholder,PLEASANTVIEW,1,42.24,-112.3,8|
+placeholder,MORELAND,1,43.22,-112.44,8|
+placeholder,HEISE,1,43.49,-111.58,8|
+placeholder,MUD LAKE,1,43.86,-112.38,8|
+placeholder,AMERICAN FORK,1,40.39,-111.78,8|
+placeholder,AM FORK,1,40.39,-111.78,8|
+placeholder,HALLS XING,1,37.57,-110.32,8|
+placeholder,MONUMENT VALLEY,1,37.08,-110.25,8|
+placeholder,BRIGHAM CITY,1,41.51,-112.04,8|
+placeholder,CLARKSTON,1,41.92,-112.06,8|
+placeholder,DUGWAY,1,40.32,-112.79,8|
+placeholder,ESCALANTE,1,37.77,-111.6,8|
+placeholder,RANDLETT,1,40.18,-109.71,8|
+placeholder,KEETLEY,1,40.43,-111.19,8|
+placeholder,FRANCIS,1,40.62,-111.15,8|
+placeholder,HIDEOUT,1,40.62,-111.15,8|
+placeholder,PEOA,1,40.74,-111.36,8|
+placeholder,SARATOGA,2,40.89,-109.38,8|
+placeholder,SPRY,1,37.86,-112.34,8|
+placeholder,GRANGER HUNTER,1,40.7,-111.94,8|
+placeholder,FAUST,1,40.06,-112.34,8|
+placeholder,CHINO VALLEY,1,34.77,-112.45,8|
+placeholder,DRAGOON,1,32.02,-110.04,8|
+placeholder,CANE BEDS,1,36.74,-112.11,8|
+placeholder,GANADO,2,35.8,-109.53,8|
+placeholder,BITAHOCHEE,1,35.41,-110.08,8|
+placeholder,PINE SPRINGS,1,35.36,-109.24,8|
+placeholder,GREENEHAVEN,1,36.68,-111.41,8|
+placeholder,PALO VERDE,1,33.32,-112.7,8|
+placeholder,ESPINOZA,1,37.07,-106.01,8|
+placeholder,NEODATA BUSINESS REPLY,2,40.02,-105.25,8|
+placeholder,LOCHBUIE,1,39.97,-104.74,8|
+placeholder,CEDAREDGE,1,38.89,-107.92,8|
+placeholder,CENTRAL CITY,1,39.79,-105.51,8|
+placeholder,TEXAS CREEK,1,38.37,-105.68,8|
+placeholder,CRIPPLE CREEK,1,38.74,-105.17,8|
+placeholder,KEYSTONE,1,39.62,-106.03,8|
+placeholder,BLUE MOUNTAIN,1,40.24,-109.0,8|
+placeholder,DOVE CREEK,1,37.76,-108.9,8|
+placeholder,GEORGETOWN,2,41.12,-108.49,8|
+placeholder,UNIV OF NORTHERN COLORADO,1,40.42,-104.74,8|
+placeholder,GUFFEY,2,41.05,-111.04,8|
+placeholder,HOT SULPHUR SPRINGS,1,40.07,-106.09,8|
+placeholder,FAIR VIEW,1,37.98,-103.54,8|
+placeholder,PROWERS,1,38.08,-102.61,8|
+placeholder,LARKSPUR,1,39.18,-104.89,8|
+placeholder,VIRGINIA DALE,1,40.75,-105.23,8|
+placeholder,PARACHUTE,2,39.44,-108.03,8|
+placeholder,PARADOX,1,38.37,-108.95,8|
+placeholder,VROMAN,1,38.04,-103.72,8|
+placeholder,UNITED STATES AIR FORCE ACAD,1,38.99,-104.85,8|
+placeholder,SADDLESTRING,1,44.34,-106.62,8|
+placeholder,BURNS,2,40.53,-105.61,8|
+placeholder,HARTVILLE,1,42.32,-104.72,8|
+placeholder,HOBACK JCT,1,43.47,-110.76,8|
+placeholder,S PASS CITY,1,42.83,-108.72,8|
+placeholder,MANVILLE,1,42.77,-104.61,8|
+placeholder,ACME,1,44.9,-107.16,8|
+placeholder,WOLF,1,44.7,-107.3,8|
+placeholder,THAYNE,1,42.91,-111.0,8|
+placeholder,VETERAN,1,41.96,-104.35,8|
+placeholder,NEELEY,1,42.72,-112.99,8|
+placeholder,BUTTE CITY,1,43.65,-113.28,8|
+placeholder,MARYSVILLE,1,44.05,-111.32,8|
+placeholder,INTERMOUNTAIN GAS CO,1,43.54,-116.28,8|
+placeholder,PINE RIDGE,1,44.89,-116.54,8|
+placeholder,BATES,1,43.73,-111.22,8|
+placeholder,GOODING,1,43.01,-114.7,8|
+placeholder,SWEET,1,44.01,-116.33,8|
+placeholder,KUNA,1,43.43,-116.32,8|
+placeholder,MT HOME,1,43.36,-115.52,8|
+placeholder,BOWMONT,1,43.49,-116.61,8|
+placeholder,NEW PLYMOUTH,1,43.94,-116.8,8|
+placeholder,LABELLE,1,43.69,-111.87,8|
+placeholder,RUPERT,2,42.73,-113.55,8|
+placeholder,WEISER,1,44.47,-116.91,8|
+placeholder,HIGHLAND,1,40.39,-111.78,8|
+placeholder,ARCADIA,1,40.1,-110.49,8|
+placeholder,GUNNISON,4,38.71,-108.13,8|
+placeholder,HYRUM,1,41.6,-111.72,8|
+placeholder,FRUIT HEIGHTS,1,41.02,-111.92,8|
+placeholder,HARRISVILLE,2,41.28,-112.04,8|
+placeholder,BRYCE CANYON,2,37.62,-112.19,8|
+placeholder,PL GROVE,1,40.46,-111.63,8|
+placeholder,BLUFFDALE,1,40.47,-112.0,8|
+placeholder,COVERED BRIDGE,1,40.02,-111.55,8|
+placeholder,PARTOUN,1,40.84,-114.02,8|
+placeholder,BYLAS,1,33.07,-110.25,8|
+placeholder,TSAIL,1,36.23,-109.57,8|
+placeholder,EAGAR,1,34.11,-109.38,8|
+placeholder,PETRIFIED FOREST NATL PK,1,34.79,-109.87,8|
+placeholder,ALLENTOWN,1,35.36,-109.24,8|
+placeholder,HOPI INDIAN RESERVATION,1,35.91,-110.53,8|
+placeholder,MC NEAL,1,31.55,-109.69,8|
+placeholder,PAGE,2,36.71,-111.63,8|
+placeholder,POLACCA,1,35.84,-110.37,8|
+placeholder,WALPI,1,35.84,-110.37,8|
+placeholder,SACATON,3,33.05,-111.75,8|
+placeholder,TWO STORY,1,35.64,-109.26,8|
+placeholder,SALOME,1,33.72,-113.65,8|
+placeholder,SABINAL,1,34.47,-106.8,8|
+placeholder,CLAPHAM,1,36.45,-103.17,8|
+placeholder,ELEPHANT BTTE,1,33.12,-107.25,8|
+placeholder,LA PUEBLA,1,36.0,-106.06,8|
+placeholder,FOLSOM,1,36.84,-103.91,8|
+placeholder,PLEASANTON,1,33.31,-108.88,8|
+placeholder,ISLETA,1,34.91,-106.82,8|
+placeholder,LLAVES,1,36.08,-106.97,8|
+placeholder,LOS OJOS,1,36.72,-106.56,8|
+placeholder,MCINTOSH,1,34.85,-106.04,8|
+placeholder,ALBERT,1,35.77,-103.95,8|
+placeholder,MULE CREEK,1,33.12,-108.95,8|
+placeholder,PETACA,1,36.5,-106.01,8|
+placeholder,SOHAM,1,36.03,-106.09,8|
+placeholder,PASTURA,1,34.94,-104.67,8|
+placeholder,SUNLAND PARK,2,31.83,-106.6,8|
+placeholder,COWLES,1,35.74,-105.67,8|
+placeholder,TREMENTINA,1,35.47,-104.52,8|
+placeholder,T OR C,1,33.13,-107.24,8|
+placeholder,LAKEVIEW,2,39.72,-115.72,8|
+placeholder,STEWART,1,39.14,-119.71,8|
+placeholder,DIXIE VALLEY,1,39.5,-118.29,8|
+placeholder,CITIBANK,2,36.14,-115.28,8|
+placeholder,LAS VEGAS BUSINESS REPLY,1,36.2,-115.22,8|
+placeholder,UNR,1,39.52,-119.81,8|
+placeholder,SHEELITE,1,38.92,-118.71,8|
+placeholder,SHANTYTOWN,1,40.49,-115.32,8|
+placeholder,ELK POINT,1,38.99,-119.92,8|
+placeholder,ELEVEN MILE CORNER,2,32.89,-111.73,8|
+placeholder,ALMONT,1,38.67,-106.83,8|
+placeholder,LAS MESITAS,1,37.07,-106.01,8|
+placeholder,SNOWMASS VILLAGE,1,39.19,-106.93,8|
+placeholder,NORTH AVONDALE,1,38.23,-104.35,8|
+placeholder,PENITENTIARY,1,38.44,-105.23,8|
+placeholder,CROWLEY,2,38.19,-103.85,8|
+placeholder,UNIVERSITY OF DENVER,1,39.76,-104.87,8|
+placeholder,MONTBELLO,1,39.76,-104.87,8|
+placeholder,BLUE CROSS BLUE SHIELD OF CO,1,39.76,-104.87,8|
+placeholder,GLENWOOD SPGS,2,39.54,-107.33,8|
+placeholder,JEFFERSON COUNTY,1,39.73,-105.21,8|
+placeholder,GREEN MTN FLS,1,38.93,-105.02,8|
+placeholder,DOYLEVILLE,1,38.54,-106.92,8|
+placeholder,JAROSO,1,37.0,-105.63,8|
+placeholder,KREMMLING,1,40.05,-106.37,8|
+placeholder,INDIAN CREEK,1,37.51,-105.0,8|
+placeholder,OJO,1,37.51,-105.0,8|
+placeholder,MC COY,1,39.92,-106.72,8|
+placeholder,MESA VERDE NATIONAL PARK,1,37.18,-108.49,8|
+placeholder,MODEL,1,37.34,-104.27,8|
+placeholder,COLONA,1,38.49,-107.87,8|
+placeholder,PHIPPSBURG,1,40.23,-106.93,8|
+placeholder,RIDGWAY,1,38.15,-107.75,8|
+placeholder,SAN ISABEL,1,37.92,-104.93,8|
+placeholder,CLEORA,1,38.53,-106.0,8|
+placeholder,GRANT,2,41.48,-108.78,8|
+placeholder,SUGAR CITY,2,41.04,-107.67,8|
+placeholder,STARKVILLE,1,37.16,-104.5,8|
+placeholder,MUTUAL,1,37.62,-104.77,8|
+placeholder,WALSH,1,37.38,-102.28,8|
+placeholder,BIG BEND,1,38.15,-102.71,8|
+placeholder,COWLEY,1,44.88,-108.47,8|
+placeholder,GLENDO,1,42.5,-105.02,8|
+placeholder,RECLUSE,1,44.77,-105.7,8|
+placeholder,ROCK RIVER,2,41.92,-105.78,8|
+placeholder,GRASS CREEK,1,43.64,-108.21,8|
+placeholder,TIPTON,1,41.66,-107.97,8|
+placeholder,BORDEAUX,1,42.05,-104.95,8|
+placeholder,DEPT OF TRANSPORTATION,1,43.74,-116.2,8|
+placeholder,CAMBRIDGE,1,44.62,-116.7,8|
+placeholder,DRIGGS,1,43.73,-111.22,8|
+placeholder,PEARL,1,43.79,-116.38,8|
+placeholder,PONDS RESORT,1,44.51,-111.35,8|
+placeholder,ELBA,1,42.22,-113.29,8|
+placeholder,MOUNTAIN HOME AFB,1,43.05,-115.86,8|
+placeholder,MEADOWS,1,45.06,-116.37,8|
+placeholder,GROSS,1,44.27,-116.31,8|
+placeholder,DIETRICH,1,42.87,-114.24,8|
+placeholder,CSI,2,42.48,-114.53,8|
+placeholder,STIBNITE,1,45.02,-115.52,8|
+placeholder,CAINEVILLE,1,38.33,-111.06,8|
+placeholder,PINTURA,2,37.73,-113.2,8|
+placeholder,HENRIEVILLE,1,37.64,-111.92,8|
+placeholder,MARYSVALE,1,38.41,-112.24,8|
+placeholder,CANYONLANDS,1,38.45,-109.6,8|
+placeholder,MONROE,1,38.63,-111.75,8|
+placeholder,CHESTER,2,41.72,-111.56,8|
+placeholder,CARBONVILLE,1,39.57,-110.8,8|
+placeholder,US POSTAL SERVICE,1,40.72,-111.94,8|
+placeholder,LELAND,1,40.02,-111.55,8|
+placeholder,LAKE POINT,1,40.57,-112.33,8|
+placeholder,EAST WELLINGTON,1,39.54,-110.74,8|
+placeholder,SUPERSTITION MOUNTAIN,1,33.34,-111.42,8|
+placeholder,HAPPY JACK,1,34.73,-111.15,8|
+placeholder,PETRIFIED FOR,1,34.79,-109.87,8|
+placeholder,NEW ORAIBI,1,35.91,-110.53,8|
+placeholder,LITCHFIELD PARK,1,33.51,-112.36,8|
+placeholder,MARANA,2,32.48,-111.22,8|
+placeholder,FAIRBANK,1,31.45,-110.83,8|
+placeholder,SAINT DAVID,1,31.88,-110.18,8|
+placeholder,FORT MCDOWELL,1,33.75,-111.57,8|
+placeholder,VAMORI,1,32.0,-111.93,8|
+placeholder,KLONDYKE,1,32.43,-109.88,8|
+placeholder,COTTON CITY,1,31.94,-108.83,8|
+placeholder,LINGO,1,33.78,-103.11,8|
+placeholder,CEDAR CREST,1,35.1,-106.37,8|
+placeholder,CHAMISAL,2,36.16,-105.68,8|
+placeholder,VANDERWAGEN,1,35.26,-108.8,8|
+placeholder,TORTUGAS,1,32.33,-106.75,8|
+placeholder,UNIVERSITY PARK,1,32.33,-106.75,8|
+placeholder,RUTHERON,1,36.72,-106.56,8|
+placeholder,FLYING H,1,32.88,-105.47,8|
+placeholder,MORIARTY,1,35.0,-106.04,8|
+placeholder,TINAJA,1,35.13,-108.49,8|
+placeholder,RED RIVER,1,36.7,-105.4,8|
+placeholder,SF,1,35.67,-105.95,8|
+placeholder,CAMPUS,1,34.05,-106.9,8|
+placeholder,SOLANO,1,35.84,-104.06,8|
+placeholder,TAOS PUEBLO,1,36.38,-105.57,8|
+placeholder,RODARTE,1,36.19,-105.67,8|
+placeholder,WEED,1,32.8,-105.51,8|
+placeholder,RITO DE LAS SILLAS,1,36.18,-106.55,8|
+placeholder,CLEAR CREEK,1,39.14,-119.71,8|
+placeholder,NEW EMPIRE,1,39.14,-119.71,8|
+placeholder,WHISKEY FLATS,1,38.65,-118.83,8|
+placeholder,THUNDER MOUNTAIN,1,40.59,-118.06,8|
+placeholder,CREECH AIR FORCE BASE,1,36.51,-115.64,8|
+placeholder,SO NEV CORRECTIONAL CTR,1,35.77,-115.32,8|
+placeholder,MOUNT CHARLESTON,1,36.16,-115.43,8|
+placeholder,SLOAN,2,36.05,-115.33,8|
+placeholder,L V VALLEY WATER CO,1,36.15,-115.2,8|
+placeholder,LUND,2,40.88,-113.42,8|
+placeholder,MOUNTAIN CITY,1,41.77,-116.08,8|
+placeholder,RUBY VALLEY,1,40.49,-115.32,8|
+placeholder,W WENDOVER,1,40.87,-114.15,8|
+placeholder,COOLIN,1,48.6,-116.86,8|
+placeholder,DIXIE,1,45.9,-115.22,8|
+placeholder,BURNT WATER,1,35.13,-109.29,8|
+placeholder,SASABE,1,31.66,-111.5,8|
+placeholder,TOLANI,1,35.1,-110.64,8|
+placeholder,VILLAGE OF LOS RANCHOS,2,35.11,-106.62,8|
+placeholder,ALCALDE,1,36.08,-106.05,8|
+placeholder,ANTON CHICO,1,35.2,-105.14,8|
+placeholder,BENT,1,33.15,-105.88,8|
+placeholder,ALGODONES,1,35.38,-106.47,8|
+placeholder,CARRIZOZO,1,33.64,-105.88,8|
+placeholder,CHACON,1,36.14,-105.36,8|
+placeholder,RIO CHIQUITO,1,35.99,-105.92,8|
+placeholder,COYOTE,1,36.16,-106.61,8|
+placeholder,LA BOLSA,1,36.2,-105.96,8|
+placeholder,TAJIQUE,1,34.76,-106.06,8|
+placeholder,CHI CHLL TAH,1,35.26,-108.8,8|
+placeholder,NAVAJO,1,35.89,-109.03,8|
+placeholder,WHITE SANDS,1,32.26,-106.47,8|
+placeholder,WEST LAS VEGAS,1,35.59,-105.22,8|
+placeholder,RATON,1,36.88,-104.44,8|
+placeholder,SIERRA BLANCA,1,33.36,-105.64,8|
+placeholder,BARD,1,35.12,-103.3,8|
+placeholder,ESTACA,1,36.05,-106.07,8|
+placeholder,PINOS ALTOS,1,32.88,-108.24,8|
+placeholder,RANCHITO,1,36.38,-105.57,8|
+placeholder,OJO FELIZ,1,36.05,-105.11,8|
+placeholder,TEMPIUTE,1,37.27,-115.2,8|
+placeholder,HIKO,1,37.72,-115.33,8|
+placeholder,PUEBLO VALLEY,1,41.75,-118.66,8|
+placeholder,ELY,2,39.34,-114.93,8|
+placeholder,LINCOLN PARK,1,39.05,-119.92,8|
+placeholder,JARBIDGE,1,41.83,-115.54,8|
+placeholder,CLARK CO COURTHOUSE,1,36.17,-115.12,8|
+placeholder,DUCK VALLEY,1,41.91,-116.18,8|
+placeholder,DRY VALLEY,1,38.1,-114.38,8|
+placeholder,BORDERTOWN,2,39.64,-119.84,8|
+placeholder,VC HIGHLANDS,1,39.38,-119.67,8|
+placeholder,SCHURZ,1,38.92,-118.71,8|
+placeholder,GREENBRAE,1,39.53,-119.73,8|
+placeholder,DEARY,1,46.79,-116.51,8|
+placeholder,HELMER,1,46.79,-116.51,8|
+placeholder,HAYDEN LAKE,1,47.78,-116.71,8|
+placeholder,PONDERAY,1,48.3,-116.53,8|
+placeholder,ORTIZ,1,37.07,-106.01,8|
+placeholder,BUCKLEY AFB,1,39.69,-104.81,8|
+placeholder,BROADACRE,1,38.23,-104.35,8|
+placeholder,CALHAN,1,39.03,-104.29,8|
+placeholder,GRAND MESA,1,38.89,-107.92,8|
+placeholder,WIDEFIELD,1,38.86,-104.76,8|
+placeholder,COLORADO COLLEGE,1,38.86,-104.76,8|
+placeholder,ADAMS CITY,1,39.86,-104.86,8|
+placeholder,CRESTONE,1,37.99,-105.69,8|
+placeholder,FEDERAL HGTS,2,39.76,-104.87,8|
+placeholder,DUMONT,1,39.78,-105.6,8|
+placeholder,PURGATORY,1,37.27,-107.88,8|
+placeholder,ELDORADO SPRG,1,39.93,-105.27,8|
+placeholder,ELIZABETH,1,39.36,-104.6,8|
+placeholder,WINDSOR,3,40.5,-104.95,8|
+placeholder,FORBES PARK,1,37.43,-105.43,8|
+placeholder,GLENWOOD SPRINGS,2,39.54,-107.33,8|
+placeholder,HILLROSE,1,40.32,-103.52,8|
+placeholder,FORT BENT,1,37.98,-103.54,8|
+placeholder,TOONERVILLE,1,38.06,-103.22,8|
+placeholder,OVID,2,41.62,-106.85,8|
+placeholder,VINELAND,1,38.27,-104.62,8|
+placeholder,SWISSVALE,1,38.53,-106.0,8|
+placeholder,MONARCH,2,39.41,-108.03,8|
+placeholder,SILT,1,39.54,-107.65,8|
+placeholder,LUDLOW,1,37.16,-104.5,8|
+placeholder,CADET STA,1,38.99,-104.85,8|
+placeholder,WILEY,1,38.15,-102.71,8|
+placeholder,LAIRD,1,40.07,-102.22,8|
+placeholder,EDISON,1,38.84,-104.22,8|
+placeholder,BEDFORD,1,42.9,-110.93,8|
+placeholder,HORSE CREEK,1,41.41,-105.18,8|
+placeholder,JAY EM,1,42.47,-104.36,8|
+placeholder,MEETEETSE,1,44.15,-108.87,8|
+placeholder,CRESTON,1,41.78,-107.22,8|
+placeholder,SMOOT,1,42.62,-110.92,8|
+placeholder,WAPITI,1,44.47,-109.43,8|
+placeholder,FEDERAL BLDG,1,43.61,-116.19,8|
+placeholder,ROSEWORTH,1,42.4,-114.88,8|
+placeholder,LAGO,1,42.51,-111.74,8|
+placeholder,APPLETON,2,40.91,-111.45,8|
+placeholder,KIMBERLY,1,42.42,-114.38,8|
+placeholder,BLUE DOME,1,44.49,-113.36,8|
+placeholder,BURGDORF,1,44.88,-115.77,8|
+placeholder,MENAN,1,43.75,-112.0,8|
+placeholder,BERN,1,42.36,-111.37,8|
+placeholder,LOST RIVER,1,43.68,-113.59,8|
+placeholder,ROCKY BAR,1,43.36,-115.52,8|
+placeholder,DINGLE,2,42.22,-111.35,8|
+placeholder,LOWER STANLEY,1,44.26,-114.97,8|
+placeholder,COVE FORT,1,38.38,-112.66,8|
+placeholder,CAPITOL REEF,1,38.33,-111.06,8|
+placeholder,N SALT LAKE,1,40.84,-111.9,8|
+placeholder,CASTLE DALE,1,39.2,-110.92,8|
+placeholder,HILL AFB,1,41.12,-111.98,8|
+placeholder,WOODLAND,1,40.62,-111.15,8|
+placeholder,SARATOGA SPGS,2,40.3,-111.92,8|
+placeholder,BURBANK,1,38.36,-113.11,8|
+placeholder,CASTLE VALLEY,1,38.45,-109.6,8|
+placeholder,NEW HARMONY,1,37.38,-113.32,8|
+placeholder,WESTERN I R S CENTER,2,41.25,-111.97,8|
+placeholder,DEER VALLEY,1,40.64,-111.49,8|
+placeholder,HOLLADAY COTTONWOOD,2,40.63,-111.77,8|
+placeholder,AMALGA,1,41.82,-111.87,8|
+placeholder,BLOOMINGTON HILLS,1,37.06,-113.57,8|
+placeholder,WALLSBURG,1,40.36,-111.43,8|
+placeholder,CALLAO,1,40.2,-113.86,8|
+placeholder,ARLINGTON,3,37.75,-107.36,8|
+placeholder,BLACK CANYON CITY,1,34.13,-112.13,8|
+placeholder,UPPER GREASEWOOD TRADING POS,1,36.45,-109.27,8|
+placeholder,GLENDALE LUKE AFB,1,33.53,-112.38,8|
+placeholder,MCNARY,1,34.06,-109.7,8|
+placeholder,POMERENE,1,32.09,-110.22,8|
+placeholder,SAN MIGUEL,2,34.61,-106.37,8|
+placeholder,CARBONDALE,1,39.39,-107.21,8|
+placeholder,COAL CREEK,1,38.35,-105.14,8|
+placeholder,FALCON AFB,1,38.86,-104.76,8|
+placeholder,FOXTON,1,39.52,-105.3,8|
+placeholder,CRAIG,2,40.52,-107.55,8|
+placeholder,EASTLAKE,2,39.84,-104.91,8|
+placeholder,TAMARRON,1,37.27,-107.88,8|
+placeholder,COMO,1,39.32,-105.9,8|
+placeholder,TWIN ROCK,1,38.95,-105.29,8|
+placeholder,FOWLER,1,38.12,-104.02,8|
+placeholder,GRANADA,1,38.06,-102.31,8|
+placeholder,LAPORTE,1,40.62,-105.13,8|
+placeholder,LUCERNE,1,40.48,-104.68,8|
+placeholder,PEETZ,1,40.96,-103.11,8|
+placeholder,PENROSE,2,40.06,-108.64,8|
+placeholder,PUEBLO DEPOT ACTIVITY,1,38.27,-104.62,8|
+placeholder,SIMLA,1,39.14,-104.08,8|
+placeholder,UTE MOUNTAIN INDIAN RESERVAT,1,37.2,-108.72,8|
+placeholder,COKEDALE,1,37.16,-104.5,8|
+placeholder,VILLA GROVE,1,38.25,-105.95,8|
+placeholder,WOLCOTT,1,39.7,-106.68,8|
+placeholder,TRUCKTON,1,38.84,-104.22,8|
+placeholder,BIG HORN,1,44.72,-107.01,8|
+placeholder,SUSSEX,1,43.7,-106.63,8|
+placeholder,HAMSFORK,1,41.78,-110.55,8|
+placeholder,LABARGE,1,42.26,-110.19,8|
+placeholder,LOST CABIN,1,43.25,-107.71,8|
+placeholder,MIDWEST,1,43.41,-106.27,8|
+placeholder,RYAN PARK,1,41.45,-106.81,8|
+placeholder,TEN SLEEP,1,44.03,-107.44,8|
+placeholder,GIBBONSVILLE,1,45.6,-113.89,8|
+placeholder,TURNER,1,42.51,-111.74,8|
+placeholder,NEW SWEDEN,1,43.5,-111.89,8|
+placeholder,MACKAY,1,43.95,-113.84,8|
+placeholder,MALTA,1,42.22,-113.29,8|
+placeholder,GIVENS HOT SPRINGS,1,43.36,-116.55,8|
+placeholder,MTN HOME AFB,1,43.05,-115.86,8|
+placeholder,NEW MEADOWS,1,45.06,-116.37,8|
+placeholder,RIRIE,1,43.49,-111.58,8|
+placeholder,ROCKLAND,1,42.5,-112.85,8|
+placeholder,BINGHAM CYN,1,40.59,-112.1,8|
+placeholder,EAST CARBON,1,39.51,-110.45,8|
+placeholder,CHARLESTON,1,40.43,-111.19,8|
+placeholder,DEER MOUNTAIN,1,40.62,-111.15,8|
+placeholder,FREMONT,1,38.4,-111.58,8|
+placeholder,MONTEZUMA CRK,1,37.21,-109.19,8|
+placeholder,DEFENSE DEPOT OGDEN,1,41.24,-111.96,8|
+placeholder,AMERICAN EXPRESS CO,1,40.67,-111.95,8|
+placeholder,SANTAQUIN,1,39.99,-111.81,8|
+placeholder,DAMMERON VALLEY,1,37.26,-113.69,8|
+placeholder,AJO,1,32.15,-112.62,8|
+placeholder,BLUE,1,33.52,-109.21,8|
+placeholder,CHAMBERS,1,35.14,-109.57,8|
+placeholder,TSAILE,1,36.27,-109.26,8|
+placeholder,COCHISE,1,32.06,-109.91,8|
+placeholder,KAIBAB,1,36.74,-112.11,8|
+placeholder,STEAMBOAT CANYON,1,35.67,-109.65,8|
+placeholder,MCNEAL,1,31.55,-109.69,8|
+placeholder,PEARCE,1,31.86,-109.33,8|
+placeholder,PERIDOT,1,33.21,-110.53,8|
+placeholder,CTC,1,33.44,-112.12,8|
+placeholder,PIMA,2,32.98,-109.89,8|
+placeholder,FIRST MESA,1,35.84,-110.37,8|
+placeholder,SAHUARITA,2,31.88,-110.98,8|
+placeholder,SELIGMAN,1,35.13,-112.99,8|
+placeholder,ELGIN,2,34.45,-112.53,8|
+placeholder,KAIBETO,1,36.69,-111.07,8|
+placeholder,RARE METALS,1,36.09,-111.13,8|
+placeholder,KIRTLAND AFB,2,35.08,-106.61,8|
+placeholder,AMALIA,1,36.94,-105.45,8|
+placeholder,BERINO,1,32.08,-106.56,8|
+placeholder,EL LLANITO,1,35.31,-106.55,8|
+placeholder,CARSON,1,36.69,-105.83,8|
+placeholder,NAVAJO WINGATE VILLAGE,1,35.53,-108.59,8|
+placeholder,CROWNPOINT,1,35.68,-108.14,8|
+placeholder,LAKE VALLEY,1,35.68,-108.14,8|
+placeholder,PUEBLO PINTADO,1,36.02,-106.95,8|
+placeholder,DORA,1,33.93,-103.33,8|
+placeholder,LUMBERTON,1,36.93,-106.99,8|
+placeholder,ENGLE,1,33.12,-107.25,8|
+placeholder,ROCK CANYON,1,33.12,-107.25,8|
+placeholder,GARITA,1,35.35,-104.48,8|
+placeholder,MOGOLLON,1,33.31,-108.88,8|
+placeholder,HI RLS MTN PK,1,32.97,-105.79,8|
+placeholder,MEDENALES,1,36.17,-106.18,8|
+placeholder,CROSSROADS,1,33.51,-103.33,8|
+placeholder,RANCHOS TAOS,1,36.36,-105.6,8|
+placeholder,ROCIADA,1,35.83,-105.42,8|
+placeholder,LA PUENTE,1,36.7,-106.54,8|
+placeholder,VELARDE,1,36.15,-105.97,8|
+placeholder,REESE RIVER,1,39.54,-117.19,8|
+placeholder,BATTLE MOUNTAIN,1,40.47,-117.03,8|
+placeholder,MOUND HOUSE,1,39.21,-119.71,8|
+placeholder,IMLAY,1,40.59,-118.06,8|
+placeholder,CITY CENTER,1,36.2,-115.22,8|
+placeholder,LOVELOCK,1,40.32,-118.2,8|
+placeholder,PALOMINO VALLEY,1,39.91,-119.68,8|
+placeholder,RUTH,1,39.27,-114.99,8|
+placeholder,MUSTANG,1,39.53,-119.41,8|
+placeholder,BOTTLE CREEK,1,41.12,-118.05,8|
+placeholder,BONNERS FERRY,1,48.75,-116.51,8|
+placeholder,MEDIMONT,1,47.44,-116.47,8|
+placeholder,HARVARD,1,46.94,-116.69,8|
+placeholder,KAMIAH,1,46.25,-115.96,8|
+placeholder,POST FALLS,2,47.75,-116.98,8|
+placeholder,OLDTOWN,1,48.13,-116.99,8|
+placeholder,SUPRSTON MTN,1,33.35,-111.41,8|
+placeholder,WAVERLY,1,37.46,-105.87,8|
+placeholder,BONCARBO,1,37.22,-104.7,8|
+placeholder,REDSTONE,1,39.39,-107.21,8|
+placeholder,CHAMA,2,37.03,-105.98,8|
+placeholder,US BANK EXCHANGE,1,38.86,-104.76,8|
+placeholder,SPAR CITY,1,37.85,-106.92,8|
+placeholder,FT LOGAN,1,39.76,-104.87,8|
+placeholder,FORT LUPTON,1,40.08,-104.8,8|
+placeholder,FOUNTAIN,1,38.66,-104.69,8|
+placeholder,FRASER,1,39.93,-105.79,8|
+placeholder,FRISCO,1,39.57,-106.09,8|
+placeholder,WEST GLENWOOD,1,39.54,-107.33,8|
+placeholder,ROLLINSVILLE,2,39.83,-105.35,8|
+placeholder,SILVERCREEK,1,40.08,-105.93,8|
+placeholder,IOLA,1,38.54,-106.92,8|
+placeholder,WESTERN STATE COLLEGE,1,38.54,-106.92,8|
+placeholder,HOTCHKISS,1,38.8,-107.71,8|
+placeholder,BENTS OLD FORT,1,37.98,-103.54,8|
+placeholder,LAZEAR,1,38.78,-107.77,8|
+placeholder,BOW MAR,1,39.59,-105.01,8|
+placeholder,LONE TREE,2,39.62,-105.0,8|
+placeholder,SAINT ELMO,1,38.73,-106.08,8|
+placeholder,PAGOSA SPGS,2,37.24,-107.03,8|
+placeholder,PLACERVILLE,2,40.98,-112.03,8|
+placeholder,DECKERS,1,39.43,-104.97,8|
+placeholder,COALMONT,1,40.57,-106.43,8|
+placeholder,SILVER CLIFF,1,38.13,-105.46,8|
+placeholder,WESTWOOD LAKE,1,38.99,-105.05,8|
+placeholder,LAST CHANCE,1,39.98,-103.58,8|
+placeholder,AFTON,1,42.72,-110.92,8|
+placeholder,BYRON,1,44.79,-108.5,8|
+placeholder,DEAVER,1,44.88,-108.59,8|
+placeholder,BILL,1,42.75,-105.39,8|
+placeholder,GUERNSEY,1,42.26,-104.74,8|
+placeholder,SUNRISE,1,42.32,-104.72,8|
+placeholder,WYARNO,1,44.89,-106.71,8|
+placeholder,ENROSE,1,43.66,-116.63,8|
+placeholder,SUNNYSLOPE,1,43.66,-116.63,8|
+placeholder,ALPHA,1,44.59,-115.57,8|
+placeholder,GOODRICH,1,44.89,-116.54,8|
+placeholder,GRAND VIEW,1,42.91,-116.12,8|
+placeholder,HEYBURN,1,42.56,-113.81,8|
+placeholder,STEIRMAN,1,43.89,-115.76,8|
+placeholder,WESTWOOD VILLAGE,1,42.9,-112.39,8|
+placeholder,FT HALL,1,43.04,-112.53,8|
+placeholder,ISU,2,42.88,-112.42,8|
+placeholder,HOLLISTER,1,42.41,-114.59,8|
+placeholder,PERRY,1,41.51,-112.04,8|
+placeholder,DEWEYVILLE,1,41.72,-112.08,8|
+placeholder,COALVILLE,1,40.88,-111.31,8|
+placeholder,ESKDALE,1,39.06,-113.83,8|
+placeholder,THOMPSON SPRINGS,1,39.18,-109.49,8|
+placeholder,MONTEZUMA CREEK,1,37.21,-109.19,8|
+placeholder,PINTO,1,37.82,-113.72,8|
+placeholder,NEWTON,1,41.87,-111.99,8|
+placeholder,UINTAH,2,41.16,-111.94,8|
+placeholder,ORANGEVILLE,1,39.44,-111.14,8|
+placeholder,MOUNT CARMEL,1,37.24,-112.77,8|
+placeholder,PLYMOUTH,1,41.91,-112.12,8|
+placeholder,SIGURD,1,38.8,-111.88,8|
+placeholder,BOWERY HAVEN,1,38.75,-112.1,8|
+placeholder,FISH LAKE,1,38.75,-112.1,8|
+placeholder,WOODLAND HILLS,1,40.02,-111.64,8|
+placeholder,BAUER,1,40.3,-112.3,8|
+placeholder,TREMONTON,1,41.69,-112.27,8|
+placeholder,TROPIC,1,37.69,-112.03,8|
+placeholder,TROUT CREEK,1,40.84,-114.02,8|
+placeholder,LUKACHUKAI,1,36.45,-109.27,8|
+placeholder,CLARKDALE,1,34.79,-112.1,8|
+placeholder,WHITE CLAY,1,35.77,-109.11,8|
+placeholder,KAIBAB INDIAN RESERVATION,1,36.74,-112.11,8|
+placeholder,HIGLEY,1,33.33,-111.71,8|
+placeholder,KYKOTSMOVI,1,35.91,-110.53,8|
+placeholder,ARIZONA STATE UNIV WEST,1,33.6,-112.16,8|
+placeholder,WITCH WELLS,1,34.56,-109.33,8|
+placeholder,RED MESA,1,36.89,-109.37,8|
+placeholder,ARIZONA STATE UNIVERSITY,1,33.42,-111.93,8|
+placeholder,BUSINESS REPLY,1,32.21,-110.97,8|
+placeholder,TUMACACORI,3,31.63,-111.04,8|
+placeholder,BONITA,1,32.43,-109.88,8|
+placeholder,UNIV OF NM,1,35.11,-106.62,8|
+placeholder,DAHLIA,1,35.2,-105.14,8|
+placeholder,CEDAR HILL,1,36.82,-108.0,8|
+placeholder,DOMINGO,1,35.38,-106.47,8|
+placeholder,SANDIA PUEBLO,1,35.31,-106.55,8|
+placeholder,EL HUERFANO,1,36.71,-107.97,8|
+placeholder,ANCHO,1,33.64,-105.88,8|
+placeholder,TRAMPAS,1,36.15,-105.62,8|
+placeholder,JUNTA,1,36.2,-105.96,8|
+placeholder,PROGRESSO,1,34.59,-106.03,8|
+placeholder,LAKE SUMNER,1,34.47,-104.23,8|
+placeholder,BROADVIEW,1,34.81,-103.21,8|
+placeholder,DILIA,1,35.19,-105.08,8|
+placeholder,LEMITAR,1,34.16,-106.91,8|
+placeholder,COCHITI PUBLO,1,35.6,-106.34,8|
+placeholder,RANCH TAOS,1,36.36,-105.6,8|
+placeholder,SANDIA PARK,1,35.16,-106.36,8|
+placeholder,SANTO DOMINGO PUEBLO,1,35.51,-106.36,8|
+placeholder,ESCONDIDA,1,34.05,-106.9,8|
+placeholder,VALDEZ,1,36.53,-105.58,8|
+placeholder,SEDILLO,1,35.08,-106.37,8|
+placeholder,QUAY,1,34.93,-103.76,8|
+placeholder,WAGON MOUND,2,36.02,-104.91,8|
+placeholder,AMARGOSA VALLEY,1,36.53,-116.47,8|
+placeholder,IONE,1,39.54,-117.19,8|
+placeholder,CALIENTE,1,37.32,-114.53,8|
+placeholder,CURRIE,1,39.42,-115.0,8|
+placeholder,LANE,1,39.42,-115.0,8|
+placeholder,GABBS,1,38.8,-117.68,8|
+placeholder,NEVADA MASS,1,40.59,-118.06,8|
+placeholder,JACKPOT,1,41.85,-114.75,8|
+placeholder,NELLIS AFB,1,36.24,-114.96,8|
+placeholder,TOULON,1,40.32,-118.2,8|
+placeholder,MANHATTAN,1,38.53,-117.04,8|
+placeholder,MCCARRAN,1,39.53,-119.41,8|
+placeholder,SIMPSON,1,38.7,-119.32,8|
+placeholder,THOUSAND SPRINGS,1,41.35,-114.8,8|
+placeholder,CAVE ROCK,1,38.99,-119.92,8|
+placeholder,CORTEZ,1,37.35,-108.57,8|
+placeholder,DACONO,1,40.07,-104.94,8|
+placeholder,EDGEWATER,1,39.76,-104.87,8|
+placeholder,DRAKE,1,40.43,-105.33,8|
+placeholder,LOG LANE VLG,1,40.27,-103.82,8|
+placeholder,GATEWAY,1,38.68,-108.99,8|
+placeholder,HOEHNE,1,37.28,-104.38,8|
+placeholder,JOHNSTOWN,1,40.33,-104.91,8|
+placeholder,LA VETA,1,37.51,-105.0,8|
+placeholder,MONTE VISTA,2,37.56,-106.09,8|
+placeholder,NATURITA,1,38.21,-108.56,8|
+placeholder,FORT MORGAN,3,40.38,-103.8,8|
+placeholder,RED MOUNTAIN,1,38.08,-107.69,8|
+placeholder,RIFLE,1,39.53,-107.77,8|
+placeholder,SHERIDAN LAKE,1,38.46,-102.29,8|
+placeholder,YAMPA,1,40.15,-106.9,8|
+placeholder,PIEDMONT,1,41.32,-110.38,8|
+placeholder,GLENROCK,1,42.85,-105.85,8|
+placeholder,ROLLING HILLS,1,42.85,-105.85,8|
+placeholder,SWEETWATER STATION,1,42.83,-108.72,8|
+placeholder,SWEETWATR STA,1,42.83,-108.72,8|
+placeholder,WOODS LANDING,1,41.05,-106.0,8|
+placeholder,LEITER,1,44.79,-106.35,8|
+placeholder,OSHOTO,1,44.26,-104.95,8|
+placeholder,TIE SIDING,1,41.04,-105.42,8|
+placeholder,BLACKFOOT,2,43.34,-112.69,8|
+placeholder,NITER,1,42.51,-111.74,8|
+placeholder,INKOM,1,42.82,-112.23,8|
+placeholder,LAVA HOT SPGS,1,42.61,-112.04,8|
+placeholder,GIBSON,1,43.04,-112.53,8|
+placeholder,CONDA,1,42.73,-111.53,8|
+placeholder,BLUEBELL,1,40.33,-110.2,8|
+placeholder,CACHE JCT,1,41.82,-111.99,8|
+placeholder,CEDAR VALLEY,1,40.33,-112.11,8|
+placeholder,SUNSET,2,36.77,-110.97,8|
+placeholder,ANCHORAGE,1,41.11,-112.05,8|
+placeholder,FIELDING,1,41.82,-112.1,8|
+placeholder,MARTIN,1,39.67,-111.01,8|
+placeholder,SPRING GLEN,1,39.67,-111.01,8|
+placeholder,ROUND VALLEY,1,41.81,-111.37,8|
+placeholder,RIVERDALE,1,41.15,-111.98,8|
+placeholder,WASHINGTON TR,1,41.15,-111.98,8|
+placeholder,GREENWICH,1,38.45,-111.9,8|
+placeholder,RICHMOND,1,41.9,-111.81,8|
+placeholder,EMIGRATN CYN,1,40.78,-111.73,8|
+placeholder,VETERANS ADMINISTRATION HOSP,1,40.75,-111.83,8|
+placeholder,LAKE SHORE,1,40.02,-111.55,8|
+placeholder,STOCKTON,1,40.3,-112.3,8|
+placeholder,BISBEE JCT,1,31.44,-109.87,8|
+placeholder,BLACK CYN CTY,1,34.13,-112.13,8|
+placeholder,BELLEMONT,1,35.23,-111.78,8|
+placeholder,GRAND CANYON NATIONAL PARK,1,35.89,-112.27,8|
+placeholder,CORDES LAKES,1,34.34,-112.03,8|
+placeholder,HARSHAW,1,31.53,-110.71,8|
+placeholder,IMMANUEL MISSION,1,36.89,-109.37,8|
+placeholder,RED VALLEY,1,36.61,-109.16,8|
+placeholder,ARIZONA STATE UNIV,1,33.42,-111.93,8|
+placeholder,ALIRE,1,36.53,-106.48,8|
+placeholder,EL RINCON DE LOS TRUJILLOS,1,35.99,-105.92,8|
+placeholder,SANCTUARIO,1,35.99,-105.92,8|
+placeholder,SEBOYETA,1,35.08,-107.51,8|
+placeholder,DENNING,1,32.26,-107.75,8|
+placeholder,DERRY,1,32.78,-107.28,8|
+placeholder,CAPULIN,2,37.01,-105.06,8|
+placeholder,LA JOYA,1,34.34,-106.84,8|
+placeholder,MC DONALD,1,33.07,-103.21,8|
+placeholder,MOUNTAINAIR,1,34.52,-106.24,8|
+placeholder,NEW LAGUNA,1,35.04,-107.42,8|
+placeholder,JACONITA,1,35.67,-105.95,8|
+placeholder,SAN ILDEFONSO,1,35.67,-105.95,8|
+placeholder,SAN YSIDRO,1,35.55,-106.77,8|
+placeholder,TINNIE,1,33.27,-105.13,8|
+placeholder,TRUTH OR CONSEQUENCES,1,33.13,-107.24,8|
+placeholder,LAS TABLAS,1,36.49,-106.12,8|
+placeholder,EL CERRITO,1,35.26,-105.36,8|
+placeholder,RAMAH COMMUNITY,1,35.08,-108.76,8|
+placeholder,BEATTY,1,37.09,-116.79,8|
+placeholder,CARSON MEADOWS,1,39.14,-119.71,8|
+placeholder,JACKS VALLEY,1,39.14,-119.71,8|
+placeholder,WASHOE,1,39.14,-119.71,8|
+placeholder,DYER,1,37.68,-117.93,8|
+placeholder,MIDDLEGATE,1,39.5,-118.29,8|
+placeholder,FERNLEY,1,39.66,-119.06,8|
+placeholder,GOODSPRINGS,1,35.75,-115.53,8|
+placeholder,SIERRA,1,39.76,-119.86,8|
+placeholder,SILVER SPGS,1,39.37,-119.26,8|
+placeholder,SHAFTER,1,41.35,-114.8,8|
+placeholder,PECK,1,46.42,-116.46,8|
+placeholder,PRIEST LAKE,1,48.38,-116.89,8|
+placeholder,CLEARWATER,1,46.08,-115.97,8|
+placeholder,ARIZONA STATE LOTTERY,1,33.45,-111.97,8|
+placeholder,VALLEY FARMS,2,32.98,-111.44,8|
+placeholder,GREAT SAND DUNES NATIONAL MO,1,37.46,-105.87,8|
+placeholder,FOXFIELD,1,39.69,-104.81,8|
+placeholder,VALLECITO,1,37.23,-107.59,8|
+placeholder,CAHONE,1,37.65,-108.82,8|
+placeholder,BUCKSKIN JOE,1,38.44,-105.23,8|
+placeholder,CASTLE PINES,1,39.37,-104.85,8|
+placeholder,SCHRIEVER AFB,1,38.86,-104.76,8|
+placeholder,PETERSON A F B,1,38.86,-104.76,8|
+placeholder,DE BEQUE,1,39.33,-108.21,8|
+placeholder,HEENEY,1,39.65,-106.08,8|
+placeholder,DIVIDE,1,38.94,-105.16,8|
+placeholder,LOG LANE VILLAGE,1,40.27,-103.82,8|
+placeholder,GARDNER,1,37.78,-105.17,8|
+placeholder,CADDOA,1,38.12,-102.97,8|
+placeholder,REDMESA,1,37.28,-108.03,8|
+placeholder,KIOWA,1,39.34,-104.46,8|
+placeholder,FT BENT,1,37.98,-103.54,8|
+placeholder,MAY VALLEY,1,38.08,-102.61,8|
+placeholder,MIRAGE,1,38.0,-105.9,8|
+placeholder,PAGOSA LAKES,1,37.24,-107.03,8|
+placeholder,SEIBERT,1,39.29,-102.86,8|
+placeholder,HORN CREEK,1,38.13,-105.46,8|
+placeholder,YODER,2,40.38,-104.25,8|
+placeholder,BAGGS,1,41.03,-107.65,8|
+placeholder,BIG PINEY,1,42.54,-110.11,8|
+placeholder,GRANITE CANON,1,41.1,-105.08,8|
+placeholder,CORA,1,42.94,-109.98,8|
+placeholder,HUNTLEY,1,41.94,-104.07,8|
+placeholder,LANCE CREEK,1,43.02,-104.64,8|
+placeholder,KIRTLEY,1,42.76,-104.45,8|
+placeholder,RALSTON,1,44.76,-108.9,8|
+placeholder,ROBERTSON,1,41.18,-110.42,8|
+placeholder,BITTER CREEK,1,41.59,-109.22,8|
+placeholder,HEGLAR,1,42.72,-112.99,8|
+placeholder,CRATERS OF THE MOON NATIONAL,1,43.65,-113.28,8|
+placeholder,EAST MAGIC,1,43.39,-114.24,8|
+placeholder,USTICK,1,43.63,-116.28,8|
+placeholder,HAMER,1,43.98,-112.18,8|
+placeholder,HAMMETT,1,42.9,-115.56,8|
+placeholder,HOMEDALE,1,43.59,-116.94,8|
+placeholder,HUSTON,1,43.59,-116.78,8|
+placeholder,SHELTON,1,43.5,-111.89,8|
+placeholder,IONA,1,43.52,-111.92,8|
+placeholder,MTN HOME,1,43.36,-115.52,8|
+placeholder,PRAIRIE,1,43.36,-115.52,8|
+placeholder,ANNIS,1,43.69,-111.87,8|
+placeholder,ACEQUIA,1,42.7,-113.62,8|
+placeholder,SUNBEAM,1,44.26,-114.97,8|
+placeholder,MANDERFIELD,1,38.38,-112.66,8|
+placeholder,ADAMSVILLE,1,38.22,-112.8,8|
+placeholder,SYRACUSE,1,41.05,-112.06,8|
+placeholder,COLLINSTON,1,41.79,-112.06,8|
+placeholder,CENTERFIELD,1,39.1,-111.79,8|
+placeholder,HUNTSVILLE,1,41.28,-111.69,8|
+placeholder,JUNCTION,1,38.23,-112.26,8|
+placeholder,UTIDA,1,41.96,-112.0,8|
+placeholder,LOA,1,38.4,-111.58,8|
+placeholder,ROCKY RIDGE,1,39.85,-111.84,8|
+placeholder,CENTRAL VALLEY,2,38.72,-115.53,8|
+placeholder,OAK CITY,1,39.37,-112.28,8|
+placeholder,PANGUITCH,1,37.86,-112.34,8|
+placeholder,PRICE,1,39.57,-110.8,8|
+placeholder,PROVIDENCE,1,41.69,-111.81,8|
+placeholder,BURRVILLE,1,38.75,-112.1,8|
+placeholder,SNOWBIRD,1,40.56,-111.72,8|
+placeholder,IVINS,1,37.18,-113.63,8|
+placeholder,GROUSE CREEK,1,41.68,-113.83,8|
+placeholder,DEFAS PARK,1,40.54,-110.73,8|
+placeholder,TOOELE,1,40.57,-112.33,8|
+placeholder,STANSBURY PARK,1,40.57,-112.33,8|
+placeholder,HOWELL,1,41.79,-112.49,8|
+placeholder,ELWOOD,1,41.69,-112.27,8|
+placeholder,CASCABEL,1,32.19,-110.38,8|
+placeholder,JACOB LAKE,1,36.74,-112.11,8|
+placeholder,HOTEVILLA,1,36.07,-110.58,8|
+placeholder,HUACHUCA CITY,1,31.73,-110.31,8|
+placeholder,OLD ORAIBI,1,35.91,-110.53,8|
+placeholder,LITCHFIELD,1,33.51,-112.36,8|
+placeholder,DESERT HILLS,1,33.83,-112.11,8|
+placeholder,STRAWBERRY,1,34.32,-111.54,8|
+placeholder,LK MONTEZUMA,1,34.63,-111.77,8|
+placeholder,SECOND MESA,1,35.81,-110.48,8|
+placeholder,TONTO BASIN,1,33.83,-111.26,8|
+placeholder,FT LOWELL,1,32.28,-110.73,8|
+placeholder,WIKIEUP,1,34.79,-113.37,8|
+placeholder,LEUPP CORNER,1,35.1,-110.64,8|
+placeholder,VENTERO,1,36.94,-105.45,8|
+placeholder,LA UNION,1,32.0,-106.59,8|
+placeholder,BLANCO,1,36.61,-107.73,8|
+placeholder,BLOOMFIELD,1,36.71,-107.97,8|
+placeholder,BLUEWATER,1,35.14,-108.23,8|
+placeholder,CUBA,1,36.02,-106.95,8|
+placeholder,CAPULIN MOUNTAIN NATIONAL MO,1,36.74,-103.99,8|
+placeholder,FENCE LAKE,1,34.65,-108.67,8|
+placeholder,GAMERCO,1,35.57,-108.76,8|
+placeholder,MILAN,1,35.18,-107.89,8|
+placeholder,SAN LORENZO,1,32.88,-108.08,8|
+placeholder,SEVEN RIVERS,1,32.61,-104.35,8|
+placeholder,RIO LUCIO,1,36.17,-105.69,8|
+placeholder,QUEMADO,1,34.31,-108.79,8|
+placeholder,COLUMBINE,1,36.71,-105.59,8|
+placeholder,CRUZVILLE,1,33.7,-108.76,8|
+placeholder,NORTH SAN YSIDRO,1,35.48,-105.4,8|
+placeholder,PBLO OF ACOMA,1,34.9,-107.58,8|
+placeholder,SAN JUAN PUEBLO,1,36.05,-106.07,8|
+placeholder,SAN PATRICIO,1,33.4,-105.32,8|
+placeholder,GALISTEO,1,35.48,-105.87,8|
+placeholder,PILAR,1,36.38,-105.57,8|
+placeholder,MEXICAN SPGS,1,35.78,-108.8,8|
+placeholder,TOHATCHI,1,35.85,-108.75,8|
+placeholder,TWO GRAY HILLS,1,35.85,-108.75,8|
+placeholder,VALMORA,1,35.81,-104.92,8|
+placeholder,YESO,1,34.43,-104.6,8|
+placeholder,LEE,1,40.95,-115.79,8|
+placeholder,DRESSLERVILLE,1,38.75,-119.61,8|
+placeholder,COLLEGE PARK,1,36.22,-115.16,8|
+placeholder,KING RIVER,1,41.63,-118.0,8|
+placeholder,JOHNNIE,2,36.3,-116.08,8|
+placeholder,STAGECOACH,1,39.37,-119.26,8|
+placeholder,ARTHUR,1,41.35,-114.8,8|
+placeholder,CDA,1,47.67,-116.78,8|
+placeholder,JULIAETTA,1,46.55,-116.74,8|
+placeholder,LAPWAI,1,46.32,-116.78,8|
+placeholder,RATHDRUM,1,47.84,-116.88,8|
+placeholder,TROY,1,46.74,-116.74,8|
+placeholder,SAND DUNES MO,1,37.46,-105.87,8|
+placeholder,ARRIBA,1,39.28,-103.27,8|
+placeholder,WEST VILLAGE,1,39.19,-106.93,8|
+placeholder,BUCKLEY AIR NATL GUARD BASE,1,39.69,-104.81,8|
+placeholder,EL JEBEL,1,39.39,-107.21,8|
+placeholder,PLATEAU CITY,1,39.23,-107.95,8|
+placeholder,US BANK,1,39.76,-104.87,8|
+placeholder,HERMOSA,1,37.27,-107.88,8|
+placeholder,FLORISSANT FOSSIL BEDS NATIO,1,38.95,-105.29,8|
+placeholder,PAGODA,1,40.37,-107.6,8|
+placeholder,CHENEY CENTER,1,38.05,-102.12,8|
+placeholder,TIMBER LAKE,1,37.98,-103.54,8|
+placeholder,LAMAR,1,38.08,-102.61,8|
+placeholder,LIMON CORRECTIONAL FACILITY,1,39.26,-103.68,8|
+placeholder,ARAPAHOE COUNTY OFFICES,1,39.59,-105.01,8|
+placeholder,GILMAN,1,39.58,-106.42,8|
+placeholder,IRON CITY,1,38.73,-106.08,8|
+placeholder,NEDERLAND,1,39.96,-105.5,8|
+placeholder,NUNN,1,40.7,-104.78,8|
+placeholder,ORCHARD,1,40.33,-104.12,8|
+placeholder,PEYTON,1,39.03,-104.48,8|
+placeholder,PONCHA SPGS,1,38.51,-106.07,8|
+placeholder,ROCKY FORD,1,38.04,-103.72,8|
+placeholder,SAN ACACIO,1,37.25,-105.9,8|
+placeholder,LYCAN,1,37.56,-102.39,8|
+placeholder,VILAS,1,37.37,-102.44,8|
+placeholder,ALBIN,1,41.41,-104.1,8|
+placeholder,CLEARMONT,1,44.64,-106.38,8|
+placeholder,COKEVILLE,1,42.08,-110.95,8|
+placeholder,KINNEAR,1,43.15,-108.68,8|
+placeholder,COLTER BAY,1,43.84,-110.5,8|
+placeholder,YELWSTN NL PK,1,44.57,-110.51,8|
+placeholder,ALMO,1,42.06,-113.59,8|
+placeholder,ARBON,1,42.53,-112.55,8|
+placeholder,BANKS,1,44.1,-116.13,8|
+placeholder,FIRTH,1,43.22,-111.99,8|
+placeholder,LAST CHANCE RESORT,1,44.51,-111.35,8|
+placeholder,STONE,1,42.24,-112.3,8|
+placeholder,ANDERSON DAM,1,43.36,-115.52,8|
+placeholder,REXCRAFT,1,43.76,-111.61,8|
+placeholder,LONE STAR,1,43.11,-114.4,8|
+placeholder,EATON,2,42.5,-110.81,8|
+placeholder,TICABOO,1,37.57,-110.32,8|
+placeholder,NORTH SALT LAKE,1,40.84,-111.9,8|
+placeholder,BOULDER TOWN,1,37.92,-111.48,8|
+placeholder,FILLMORE,1,39.01,-112.27,8|
+placeholder,KANAB,1,37.27,-112.23,8|
+placeholder,MANILA,1,40.94,-109.79,8|
+placeholder,CEDAR HILLS,1,40.46,-111.63,8|
+placeholder,QUESTAR GAS COMPANY,1,40.76,-111.88,8|
+placeholder,LDS HOSPITAL,1,40.77,-111.88,8|
+placeholder,VEYO,1,37.42,-113.72,8|
+placeholder,TOQUERVILLE,1,37.26,-113.27,8|
+placeholder,YOUNG WARD,1,41.62,-111.93,8|
+placeholder,GREASEWOOD SPRINGS,1,36.45,-109.27,8|
+placeholder,CHILCHINBITO,1,36.64,-110.18,8|
+placeholder,BENSCH RANCH,1,34.34,-112.03,8|
+placeholder,SPRING VALLEY,1,34.34,-112.03,8|
+placeholder,MORENCI,1,33.04,-109.37,8|
+placeholder,PEACH SPRINGS,1,35.64,-113.61,8|
+placeholder,GU ACHI,1,32.0,-111.93,8|
+placeholder,HAVASUPAI INDIAN RESERVATION,1,36.15,-112.63,8|
+placeholder,TOPAWA,1,31.8,-111.74,8|
+placeholder,TUBA CITY,1,36.09,-111.13,8|
+placeholder,DM AFB,1,32.18,-110.86,8|
+placeholder,DOS CABEZAS,1,32.43,-109.88,8|
+placeholder,ABIQUIU,2,36.19,-106.37,8|
+placeholder,ANIMAS,1,31.94,-108.83,8|
+placeholder,ANGUS,1,33.54,-105.59,8|
+placeholder,ST VRAIN,1,34.41,-103.48,8|
+placeholder,DALTON PASS,1,35.68,-108.14,8|
+placeholder,CUBERO,1,35.08,-107.51,8|
+placeholder,SANTA CLARA PUEBLO,1,36.0,-106.06,8|
+placeholder,EUNICE,1,32.44,-103.19,8|
+placeholder,SHERMAN,1,32.88,-108.08,8|
+placeholder,SANTO TOMAS,1,32.12,-106.7,8|
+placeholder,MCALISTER,1,34.74,-103.66,8|
+placeholder,BELL RANCH,1,35.06,-104.26,8|
+placeholder,EL MORRO NATIONAL MONUMENT,1,35.13,-108.49,8|
+placeholder,ELKINS,1,33.37,-104.52,8|
+placeholder,RENCONA,1,35.49,-105.67,8|
+placeholder,ACOMITA,1,34.9,-107.58,8|
+placeholder,CRESCENT VLY,1,40.52,-116.36,8|
+placeholder,HAWTHORNE ARMY AMMUNITION PL,1,38.65,-118.83,8|
+placeholder,SO DESERT CORRECTIONAL CTR,1,36.57,-115.66,8|
+placeholder,SAN JACINTO,1,41.85,-114.75,8|
+placeholder,COLD CREEK,1,36.16,-115.43,8|
+placeholder,LAWTON,1,39.54,-119.84,8|
+placeholder,J C PENNEY CO,1,39.52,-119.81,8|
+placeholder,ROUND MTN,1,38.79,-117.11,8|
+placeholder,YERINGTON,1,38.87,-119.14,8|
+placeholder,COPELAND,1,48.75,-116.51,8|
+placeholder,COCOLALLA,1,48.1,-116.67,8|
+placeholder,HUETTER,1,47.72,-116.75,8|
+placeholder,SYRINGA,1,46.08,-115.86,8|
+placeholder,ELBURZ,1,41.02,-115.41,8|
+placeholder,ST MICHAELS,1,35.64,-109.26,8|
+placeholder,SHUMWAY,1,34.23,-110.07,8|
+placeholder,CANELO,1,31.57,-110.54,8|
+placeholder,WHITE SANDS NATIONAL MONUMEN,1,32.88,-105.95,8|
+placeholder,ATOKA,1,32.84,-104.43,8|
+placeholder,JICARILLA,1,33.64,-105.88,8|
+placeholder,CHAMBERINO,1,31.97,-106.96,8|
+placeholder,CLAUNCH,1,34.14,-105.99,8|
+placeholder,CLIFF,1,32.96,-108.61,8|
+placeholder,MALAGA,1,32.22,-104.07,8|
+placeholder,CLINES CORNERS,1,35.0,-105.66,8|
+placeholder,SILE,1,35.57,-106.33,8|
+placeholder,COLFAX,1,36.88,-104.44,8|
+placeholder,GONZALES RNCH,1,35.37,-105.44,8|
+placeholder,ROGERS,1,33.98,-103.23,8|
+placeholder,ACOMA,1,34.9,-107.58,8|
+placeholder,TOCITO,1,36.79,-108.69,8|
+placeholder,LITTLE WALNUT VILLAGE,1,32.78,-108.26,8|
+placeholder,CAPROCK,1,33.39,-103.71,8|
+placeholder,MEXICAN SPRINGS,1,35.78,-108.8,8|
+placeholder,ANGOSTURA,1,36.19,-105.67,8|
+placeholder,LYDEN,1,36.15,-105.97,8|
+placeholder,ASH SPRINGS,1,37.72,-115.33,8|
+placeholder,LATHROP WELLS,1,36.53,-116.47,8|
+placeholder,RHYOLITE,1,37.09,-116.79,8|
+placeholder,EMIGRANT PASS,1,40.52,-116.36,8|
+placeholder,CONTACT,1,41.85,-114.75,8|
+placeholder,LEMMON VALLEY,1,39.76,-119.86,8|
+placeholder,GRAND SIERRA HOTEL,1,39.52,-119.81,8|
+placeholder,DESMET,1,47.12,-116.91,8|
+placeholder,GENESEE,1,46.56,-116.88,8|
+placeholder,LUCILE,1,45.54,-116.24,8|
+placeholder,PRIEST RIVER,1,48.38,-116.89,8|
+placeholder,PRINCETON,1,46.9,-116.81,8|
+placeholder,WALLACE,2,47.62,-115.85,8|
+placeholder,AKRON,1,40.16,-103.21,8|
+placeholder,ESTRELLA,1,37.46,-105.87,8|
+placeholder,SAN RAFEAL,1,37.07,-106.01,8|
+placeholder,BEAVER CREEK,1,39.65,-106.53,8|
+placeholder,PETERSON AFB,1,38.86,-104.76,8|
+placeholder,HOVENWEEP NATIONAL MONUMENT,1,37.35,-108.57,8|
+placeholder,CEMENT CREEK,1,38.87,-106.98,8|
+placeholder,CRESTED BUTTE SO,1,38.87,-106.98,8|
+placeholder,MT CRESTED BUTTE,1,38.87,-106.98,8|
+placeholder,COLORADO D M V DEPT OF REV,1,39.76,-104.87,8|
+placeholder,PORTLAND,1,38.38,-105.11,8|
+placeholder,GALETON,1,40.52,-104.58,8|
+placeholder,IDALIA,1,39.7,-102.3,8|
+placeholder,MOSCA,1,37.65,-105.88,8|
+placeholder,MOUNT PRINCETON,1,38.73,-106.08,8|
+placeholder,NEW RAYMER,1,40.62,-103.78,8|
+placeholder,DEVINE,1,38.27,-104.62,8|
+placeholder,MAYSVILLE,1,38.53,-106.0,8|
+placeholder,EAST VAIL,1,39.64,-106.39,8|
+placeholder,WESTCLIFFE,1,38.13,-105.46,8|
+placeholder,ELK MOUNTAIN,1,41.68,-106.41,8|
+placeholder,HYATTVILLE,1,44.25,-107.6,8|
+placeholder,LINCH,1,43.61,-106.2,8|
+placeholder,NODE,1,42.76,-104.45,8|
+placeholder,MANDERSON,1,44.26,-107.96,8|
+placeholder,RAFT RIVER,1,42.72,-112.99,8|
+placeholder,I D STATE DEPT OF EMPLOY,1,43.61,-116.19,8|
+placeholder,VIEW,1,42.39,-113.78,8|
+placeholder,CUPRUM,1,44.89,-116.54,8|
+placeholder,HORNET,1,44.89,-116.54,8|
+placeholder,IDAHOME,1,42.46,-113.39,8|
+placeholder,ELLIS,1,44.65,-113.99,8|
+placeholder,SILVER CREEK PLUNGE,1,44.08,-115.85,8|
+placeholder,TRIUMPH,1,43.57,-114.21,8|
+placeholder,IDAHO NATIONAL LAB,1,43.49,-112.03,8|
+placeholder,PARMA,1,43.8,-116.91,8|
+placeholder,FISH HAVEN,1,42.05,-111.44,8|
+placeholder,ELK BEND,1,45.0,-113.86,8|
+placeholder,TETON,1,43.88,-111.64,8|
+placeholder,BLUFF,1,37.14,-109.52,8|
+placeholder,THISTLE,1,39.78,-111.44,8|
+placeholder,KENILWORTH,1,39.69,-110.8,8|
+placeholder,HUNTINGTON,1,39.41,-111.0,8|
+placeholder,LEVAN,1,39.52,-111.88,8|
+placeholder,NIBLEY,1,41.7,-111.87,8|
+placeholder,UNION,1,40.6,-111.88,8|
+placeholder,MOAB,1,38.45,-109.6,8|
+placeholder,SEVIER,1,38.55,-112.35,8|
+placeholder,ANETH,1,37.2,-109.29,8|
+placeholder,BRYCE CANYON CITY,1,37.63,-112.2,8|
+placeholder,RUBYS INN,1,37.63,-112.2,8|
+placeholder,PLEASANT GRV,1,40.46,-111.63,8|
+placeholder,DIAMOND VALLEY,1,37.18,-113.6,8|
+placeholder,STANSBURY PK,1,40.57,-112.33,8|
+placeholder,SUPRSTITN MTN,1,33.34,-111.42,8|
+placeholder,GLEESON,1,31.73,-109.7,8|
+placeholder,GADSDEN,1,32.53,-114.76,8|
+placeholder,ORAIBI,1,35.91,-110.53,8|
+placeholder,MOUNT LEMMON,1,32.38,-110.75,8|
+placeholder,SADDLEBROOKE,1,32.54,-110.95,8|
+placeholder,WINDOW ROCK,1,35.69,-108.98,8|
+placeholder,LOS TRUJILLOS,1,34.65,-106.77,8|
+placeholder,CHACO CANYON NATIONAL MONUME,1,36.71,-107.97,8|
+placeholder,ABEYTAS,1,34.47,-106.8,8|
+placeholder,MADRID,1,35.37,-106.14,8|
+placeholder,ENCINO,1,34.65,-105.45,8|
+placeholder,YATAHEY,1,35.61,-108.71,8|
+placeholder,LA CUEVA,1,35.58,-105.76,8|
+placeholder,GRANTS,1,35.15,-107.83,8|
+placeholder,CONONCITO,1,35.03,-107.39,8|
+placeholder,CONTRERAS,1,34.34,-106.84,8|
+placeholder,OJITO,1,36.3,-107.04,8|
+placeholder,GALLEGOS,1,35.36,-103.44,8|
+placeholder,MELROSE,1,34.42,-103.62,8|
+placeholder,NEWKIRK,1,35.06,-104.26,8|
+placeholder,PIE TOWN,1,34.33,-108.28,8|
+placeholder,RANCHO TAOS,1,36.36,-105.6,8|
+placeholder,RODEO,1,31.83,-109.03,8|
+placeholder,GUIQUE,1,36.05,-106.07,8|
+placeholder,SAN RAFAEL,1,35.11,-107.88,8|
+placeholder,LA CIENGA,1,35.67,-105.95,8|
+placeholder,FORT BAYARD,1,32.79,-108.14,8|
+placeholder,TAOS SKI VALLEY,1,36.6,-105.45,8|
+placeholder,TEXICO,1,34.38,-103.05,8|
+placeholder,TORREON,1,34.72,-106.29,8|
+placeholder,TULAROSA,1,33.07,-106.02,8|
+placeholder,EAST VAUGHN,1,34.6,-105.21,8|
+placeholder,DUCKWATER,1,38.86,-115.73,8|
+placeholder,SALT WELLS,1,39.5,-118.29,8|
+placeholder,TOPAZ LODGE,1,38.75,-119.61,8|
+placeholder,MILL CITY,1,40.59,-118.06,8|
+placeholder,MGM PROPERTIES,1,36.08,-115.14,8|
+placeholder,LOGANDALE,1,36.64,-114.46,8|
+placeholder,HIDDEN VALLEY,1,39.48,-119.74,8|
+placeholder,CAL NEV ARI,1,35.24,-114.87,8|
+placeholder,AVERY,1,47.17,-115.8,8|
+placeholder,FERNAN LK VLG,1,47.59,-116.91,8|
+placeholder,EAST HOPE,1,48.26,-116.24,8|
+placeholder,WARDNER,1,47.57,-116.11,8|
+placeholder,WEIPPE,1,46.38,-115.89,8|
+placeholder,COOPERVILLE,1,45.69,-116.18,8|
+placeholder,PAISAJE,1,37.07,-106.01,8|
+placeholder,TRACK CITY,1,37.07,-106.01,8|
+placeholder,BRECKENRIDGE,1,39.5,-106.04,8|
+placeholder,ENT AIR FORCE BASE,1,38.86,-104.76,8|
+placeholder,SCHRIEVER AIR FORCE BASE,1,38.86,-104.76,8|
+placeholder,IRONDALE,1,39.86,-104.86,8|
+placeholder,COTOPAXI,1,38.37,-105.68,8|
+placeholder,CRAWFORD,1,38.7,-107.6,8|
+placeholder,MAHER,1,38.7,-107.6,8|
+placeholder,LOWRY,1,39.76,-104.87,8|
+placeholder,KOEN,1,38.06,-102.31,8|
+placeholder,SAPINERO,1,38.54,-106.92,8|
+placeholder,DOTSERO,1,39.64,-106.94,8|
+placeholder,LAKE GEORGE,1,38.98,-105.37,8|
+placeholder,MATHESON,1,39.17,-103.98,8|
+placeholder,NAST,1,39.27,-106.59,8|
+placeholder,ANTLERS,1,39.53,-107.77,8|
+placeholder,LASCAR,1,37.92,-104.93,8|
+placeholder,SARGENTS,1,38.4,-106.42,8|
+placeholder,MOUNTAIN VILLAGE,1,37.94,-107.9,8|
+placeholder,TOPONAS,1,40.07,-106.8,8|
+placeholder,TWO BUTTES,1,37.56,-102.39,8|
+placeholder,PRYOR,1,37.62,-104.77,8|
+placeholder,WILD HORSE,1,38.82,-103.0,8|
+placeholder,BAIROIL,1,42.23,-107.55,8|
+placeholder,CROWHEART,1,43.31,-109.19,8|
+placeholder,EMBLEM,1,44.51,-108.39,8|
+placeholder,MC KINNON,1,41.02,-109.93,8|
+placeholder,GREYBULL,1,44.49,-108.05,8|
+placeholder,FONTENELLE,1,41.78,-110.55,8|
+placeholder,SOUTH PASS CITY,1,42.83,-108.72,8|
+placeholder,RINER,1,41.78,-107.22,8|
+placeholder,ROZET,1,44.28,-105.2,8|
+placeholder,WARM LAKE,1,44.59,-115.57,8|
+placeholder,LEMHI,1,44.81,-113.66,8|
+placeholder,DANIELS,1,42.24,-112.3,8|
+placeholder,PATTERSON,1,44.48,-113.76,8|
+placeholder,DARLINGTON,1,43.68,-113.59,8|
+placeholder,NEWDALE,1,43.86,-111.42,8|
+placeholder,FELT,1,43.88,-111.21,8|
+placeholder,WENDELL,1,42.74,-114.73,8|
+placeholder,ALTAMONT,1,40.43,-110.25,8|
+placeholder,ARSENAL,1,41.11,-112.05,8|
+placeholder,ECHO,1,41.0,-111.44,8|
+placeholder,PORTAGE,1,41.89,-112.38,8|
+placeholder,ROCKPORT,1,40.74,-111.36,8|
+placeholder,MILLVILLE,1,41.68,-111.82,8|
+placeholder,WEST HAVEN,1,41.21,-111.97,8|
+placeholder,HUNTER,1,40.69,-111.99,8|
+placeholder,SOUTH RIM,1,40.3,-112.3,8|
+placeholder,ASH FORK,1,35.13,-112.52,8|
+placeholder,BAGDAD,1,34.5,-113.07,8|
+placeholder,CANYON DE CHELLY NATIONAL MO,1,36.23,-109.57,8|
+placeholder,COTTONWOOD STATION,1,36.23,-109.57,8|
+placeholder,LOW MOUNTAIN,1,36.23,-109.57,8|
+placeholder,FORT THOMAS,1,32.98,-109.98,8|
+placeholder,HUBBELL TRADING POST NATIONA,1,35.67,-109.65,8|
+placeholder,MIRACLE VALLEY,1,31.44,-110.23,8|
+placeholder,DIAL CORP,1,33.45,-111.97,8|

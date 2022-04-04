@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-deployment-4
+  labels:
+    app: api-d-4
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-4
+  template:
+    metadata:
+      labels:
+        app: api-4
+    spec:
+      containers:
+        - name: api-container4
+          image: rodrigodocker123/mtbackend2:4
+          ports:
+            - containerPort: 5000    

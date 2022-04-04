@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: service-deployment-1
+  labels:
+    app: service-d-1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: top-service
+  template:
+    metadata:
+      labels:
+        app: top-service
+    spec:
+      containers:
+        - name: service-container
+          image: rodrigodocker123/mttopservice:latest
+          ports:
+            - containerPort: 5000    

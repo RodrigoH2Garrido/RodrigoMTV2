@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-external-service-4
+spec:
+  type: NodePort
+  selector: # no debe apuntar al label del deploy, debe ser al del pod definido en el deploy
+    app:  mysql-ubuntu-4
+  ports:
+   - protocol: TCP
+     port: 3307
+     targetPort: 3306
+     nodePort: 30040

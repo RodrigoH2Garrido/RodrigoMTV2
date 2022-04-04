@@ -1,0 +1,8 @@
+Flask
+mysql-connector-python
+flask-cors
+requests
+flask-restful
+#scikit-learn
+#scipy
+#matplotlib

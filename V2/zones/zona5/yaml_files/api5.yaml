@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-deployment-5
+  labels:
+    app: api-d-5
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-5
+  template:
+    metadata:
+      labels:
+        app: api-5
+    spec:
+      containers:
+        - name: api-container5
+          image: rodrigodocker123/mtbackend2:5
+          ports:
+            - containerPort: 5000    

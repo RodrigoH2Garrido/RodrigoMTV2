@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-external-service-7
+spec:
+  type: NodePort
+  selector: # no debe apuntar al label del deploy, debe ser al del pod definido en el deploy
+    app:  api-7
+  ports:
+   - protocol: TCP
+     port: 5004
+     targetPort: 5000
+     nodePort: 30144

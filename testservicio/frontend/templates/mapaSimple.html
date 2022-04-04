@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapitas</title>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key="></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>    <!--this allows me to use ajax-->
+    <script type="text/javascript">
+        function initMap(){
+            var url = 'http://192.168.49.2:30142/api/locations/zoom/4'
+            //var url = 'http://api-external-service-1c:5004/api/locations/zoom/4'
+            //var url = 'http://api-external-service-1:30037/api/locations/zoom/4'
+            var centro = {}
+            var datitos = []
+            Promise.all([ // esto es para abrir el mapa.
+                getPositions1(url).then(function(data){
+                    addMarkersToList(data,datitos)
+                    console.log('New Center: ',setNewCenter(datitos))
+                }).catch(function(err){
+                    console.log('Error asden URL',err)
+                })
+            ]).then(()=>{
+                if(length(datitos)==0){ // en caso de que no se encuentren puntos -> algun microservicio caido
+                    centro = {lat:0, lng:0} // setea la vista del mapa en el centro {0,0}
+                    console.log('Center: ',centro)
+                    const map = new google.maps.Map(document.getElementById("map"),{
+                        zoom:4,
+                        center:{lat:0,lng:0}
+                    })
+                    console.log('zoom inicial : ',map.getZoom())        
+                }
+                else{// si existen puntos
+                    console.log(datitos)
+                    centro = setNewCenter(datitos) // se calcula el centro entre estos puntos
+                    console.log('Center : ',centro)
+                    const map = new google.maps.Map(document.getElementById("map"), {
+                        zoom: 4,
+                        center: centro,
+                    });
+                    setMapOnAll(map,datitos)
+
+                    var boundListener = google.maps.event.addListener((map),'idle',function(event){ // esto permite identificar cuando el mapa esta quieto
+                        // o mejor dicho cuando se dejo de interactuar con el mapa.
+                        let bounds = map.getBounds()
+                        let southWest = bounds.getSouthWest()
+                        let northEast = bounds.getNorthEast()
+                        let zum = map.getZoom()
+                        //let url1 = 'http://api-external-service-1:30037/api/locations/zoom2/'+zum+'/'+southWest.lat()+'/'+northEast.lat()+'/'+southWest.lng()+'/'+northEast.lng()
+                        let url1 = 'http://192.168.49.2:30142/api/locations/zoom2/'+zum+'/'+southWest.lat()+'/'+northEast.lat()+'/'+southWest.lng()+'/'+northEast.lng()
+                        console.log('Idle query : ',url1)
+                        clearMarkers(datitos)
+                        datitos=deleteMarkers(map,datitos)
+                        console.log('largo1: ',length(datitos))
+                        Promise.all([
+                            getPositions1(url1).then(function(data){
+                                console.log('alshdlsa')
+                                addMarkersToList(data,datitos)
+                                console.log(data)
+                                //console.log('largo: ',length(datitos))
+                            }).catch(function(err){
+                                console.log('ERROR en URL1')
+                            }).then(()=>{
+                                console.log('largo2: ',length(datitos))
+                                setMapOnAll(map,datitos)
+                            })
+                        ])
+                   })
+                
+                   // Por el momento no necesitaria esto de acá
+                    // var zoomListener = map.addListener('zoom_changed',()=>{ //Parece que no necesito el zoom listener
+                    //     // let bounds = map.getBounds()
+                    //     // let southWest = bounds.getSouthWest();
+                    //     // let northEast = bounds.getNorthEast();
+                        
+                    //     // // console.log('SWLat : ',bounds.getSouthWest().lat())
+                    //     // // console.log('SWLng : ',bounds.getSouthWest().lng())
+                    //     // let query = '/api/locations/zoom/'+map.getZoom()+'/'+southWest.lat()+'/'+northEast.lat()+'/'+southWest.lng()+'/'+northEast.lng()
+                    //     // console.log('Zoom query : ',query)
+                    // 1})
+                }
+            })
+        }
+
+        function length(obj){
+                return Object.keys(obj).length;
+        }
+        
+        function getPositions1(url){
+            return new Promise(function(resolve, reject){ // hace que retorne una promesa que se completa cuando el ajax tiene exito o falla.
+                $.ajax({
+                    url: url,
+                    success: function(data) {
+                        resolve(data) // Resolve promise and go to then()
+                    },
+                    error: function(err) {
+                        reject(err) // Reject the promise and go to catch()
+                    }
+                });
+            })       
+        }
+
+    
+        function addMarkersToList(data,lista){
+            //console.log(data)
+            for(let i = 0; i<length(data); i++){
+                const marker = new google.maps.Marker({
+                    position: { lat: parseFloat(data[i]['lat']), lng: parseFloat(data[i]['lng']) },
+                    title: 'Place: '+data[i]['place']+'\nPoints: '+data[i]['points']
+                })
+                lista.push(marker)
+            }
+        }
+
+        function setNewCenter(lista){
+            var latSum = 0;
+            var lngSum = 0;
+            
+            for( i=0;i<lista.length;i++){
+                latSum = latSum + lista[i].getPosition().lat()
+                lngSum = lngSum + lista[i].getPosition().lng()
+            }
+
+            latSum = latSum/length(lista)
+            lngSum = lngSum/length(lista)
+            
+            return centro ={lat: latSum , lng:lngSum}
+        }
+
+        function setMapOnAll(map,lista){
+            for (i = 0; i<lista.length; i++){
+                lista[i].setMap(map)
+            }
+        }
+
+        function clearMarkers(lista){
+            setMapOnAll(null,lista)
+            return lista
+        }
+        function deleteMarkers(lista){
+            setMapOnAll(null,lista)
+            return []
+        }
+       
+    </script>
+</head>
+<body onload="initMap();">
+    <h1>Welcome to the Central Zone of Chile</h1>
+    <div id="map" style="height: 700px; width: 1200px; left:500px">
+    </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+.header-area{
+    grid-area: header;
+}
+.map-area{
+    grid-area: map;
+}
+.form-area{
+    grid-area: form;
+    padding: 50% 20%;
+
+}
+
+
+.form-label{
+    text-align: start;
+    font-size: 20px;
+    font-weight: 600;   
+}
+
+.form-input{
+    text-align: start;
+    font-size: 20px;
+    font-weight: 600;   
+}
+
+.grid-container{
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+    grid-template-areas:'header header header header header header'
+    'form form map map map map';
+}

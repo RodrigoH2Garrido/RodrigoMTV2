@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: map-frontend
+  labels:
+    app: map-f-1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mapa
+  template:
+    metadata:
+      labels:
+        app: mapa
+    spec:
+      containers:
+        - name: mapa-container
+          image: rodrigodocker123/mtfrontend:latest
+          ports:
+            - containerPort: 5000

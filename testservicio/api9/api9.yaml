@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-deployment-test9
+  labels:
+    app: api-d-test9
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-test9
+  template:
+    metadata:
+      labels:
+        app: api-test9
+    spec:
+      containers:
+        - name: api-container-test9
+          image: rodrigodocker123/mtprueba:92
+          ports:
+            - containerPort: 5000    

@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-deployment-1
+  labels:
+    app: api-d-1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-1
+  template:
+    metadata:
+      labels:
+        app: api-1
+    spec:
+      containers:
+        - name: api-container
+          image: rodrigodocker123/mtapiv1
+          ports:
+            - containerPort: 5000    

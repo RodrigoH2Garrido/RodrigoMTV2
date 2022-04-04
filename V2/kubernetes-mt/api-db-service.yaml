@@ -1,0 +1,13 @@
+#este servicio hara que la api se conecte con la bd
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-db-service
+spec:
+  selector:
+    app: mysql-ubuntu-1
+  ports:
+    - protocol: TCP
+      port: 5001
+      targetPort: 3306
