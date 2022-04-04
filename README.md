@@ -2,7 +2,7 @@
 MT Project code last version
 
 How to build the app
-go to the V2 Folder and run the build_backend_images.py and the build_db_images.py, this will create and push the docker images into a docker repository, then run the build_kubernetes_objects.py to deploy everything inside the cluster
+go to the V2/zones Folder and run the build_backend_images.py and the build_db_images.py, this will create and push the docker images into a docker repository, then run the build_kubernetes_objects.py to deploy everything inside the cluster
 after that go to the testservicio folder and create de docker images for the frontend(flask-app-test folder) and the service and you are done.
 
 Description of folders
